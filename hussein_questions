@@ -11,5 +11,16 @@
     "options": ["Earth", "Mars", "Venus", "Jupiter"],
     "answer_index": 1
   },
-  // Add more questions here...
+  {
+    "id": 3,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer_index": 1
+  },
+{
+    "id": 4,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer_index": 1
+  },
 ]
