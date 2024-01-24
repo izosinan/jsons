@@ -30,5 +30,13 @@
       "imagePath":"https://b.fssta.com/uploads/application/soccer/headshots/713.vresize.350.350.medium.34.png",
       "audioName" : "Neymar.mp3",
       "videoName" : "Neymar.mp4"
+      },
+      {
+      "videoPath" : "https://firebasestorage.googleapis.com/v0/b/hussein-questions.appspot.com/o/cms_uploads%2Fvideos%2F1706131906049000%2Fmpape.mp4?alt=media&token=6baf6e1c-5b58-4711-b233-ab0ba8b8bc88",
+      "audioPath" : "https://firebasestorage.googleapis.com/v0/b/hussein-questions.appspot.com/o/cms_uploads%2Faudios%2F1706131796501000%2Fmpape.mp3?alt=media&token=ef357c5d-573d-4d8b-84f5-67532e001b04",
+      "caracterName" : "Mbappe",
+      "imagePath":"https://b.fssta.com/uploads/application/soccer/headshots/40670.vresize.350.350.medium.91.png",
+      "audioName" : "Mbappe.mp3",
+      "videoName" : "Mbappe.mp4"
       }
 ]
