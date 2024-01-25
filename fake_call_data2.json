@@ -38,5 +38,13 @@
       "imagePath":"https://b.fssta.com/uploads/application/soccer/headshots/40670.vresize.350.350.medium.91.png",
       "audioName" : "Mbappe.mp3",
       "videoName" : "Mbappe.mp4"
+      },
+      {
+      "videoPath" : "https://firebasestorage.googleapis.com/v0/b/hussein-questions.appspot.com/o/cms_uploads%2Fvideos%2F1706179779316000%2FTaylor.mp4?alt=media&token=4eb0061d-b6ed-4d79-b2c0-e835d1730c3d",
+      "audioPath" : "https://firebasestorage.googleapis.com/v0/b/hussein-questions.appspot.com/o/cms_uploads%2Faudios%2F1706179244741000%2FTaylor.mp3?alt=media&token=9ee6b015-107c-4e4f-86ca-904b98f8bf0a",
+      "caracterName" : "Taylor",
+      "imagePath":"https://www.billboard.com/wp-content/uploads/media/Taylor-Swift-press-by-Valheria-Rocha-2019-billboard-1548.jpg?w=942&h=623&crop=1",
+      "audioName" : "Taylor.mp3",
+      "videoName" : "Taylor.mp4"
       }
 ]
