@@ -1,0 +1,110 @@
+{
+  "movies": {
+    "action": [
+      {
+        "title": "The Dark Knight",
+        "img": "https://example.com/dark_knight.jpg",
+        "url": "https://example.com/dark_knight"
+      },
+      {
+        "title": "Inception",
+        "img": "https://example.com/inception.jpg",
+        "url": "https://example.com/inception"
+      }
+    ],
+    "comedy": [
+      {
+        "title": "The Hangover",
+        "img": "https://example.com/hangover.jpg",
+        "url": "https://example.com/hangover"
+      },
+      {
+        "title": "Superbad",
+        "img": "https://example.com/superbad.jpg",
+        "url": "https://example.com/superbad"
+      }
+    ],
+    "drama": [
+      {
+        "title": "The Shawshank Redemption",
+        "img": "https://example.com/shawshank_redemption.jpg",
+        "url": "https://example.com/shawshank_redemption"
+      },
+      {
+        "title": "Forrest Gump",
+        "img": "https://example.com/forrest_gump.jpg",
+        "url": "https://example.com/forrest_gump"
+      }
+    ]
+  },
+  "series": {
+    "thriller": [
+      {
+        "title": "Breaking Bad",
+        "img": "https://example.com/breaking_bad.jpg",
+        "episodes": [
+          {
+            "img": "https://example.com/breaking_bad_episode1.jpg",
+            "url": "https://example.com/breaking_bad_episode1",
+            "title": "Episode 1"
+          },
+          {
+            "img": "https://example.com/breaking_bad_episode2.jpg",
+            "url": "https://example.com/breaking_bad_episode2",
+            "title": "Episode 2"
+          }
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "img": "https://example.com/stranger_things.jpg",
+        "episodes": [
+          {
+            "img": "https://example.com/stranger_things_episode1.jpg",
+            "url": "https://example.com/stranger_things_episode1",
+            "title": "Episode 1"
+          },
+          {
+            "img": "https://example.com/stranger_things_episode2.jpg",
+            "url": "https://example.com/stranger_things_episode2",
+            "title": "Episode 2"
+          }
+        ]
+      }
+    ],
+    "comedy": [
+      {
+        "title": "Friends",
+        "img": "https://example.com/friends.jpg",
+        "episodes": [
+          {
+            "img": "https://example.com/friends_episode1.jpg",
+            "url": "https://example.com/friends_episode1",
+            "title": "Episode 1"
+          },
+          {
+            "img": "https://example.com/friends_episode2.jpg",
+            "url": "https://example.com/friends_episode2",
+            "title": "Episode 2"
+          }
+        ]
+      },
+      {
+        "title": "The Office",
+        "img": "https://example.com/the_office.jpg",
+        "episodes": [
+          {
+            "img": "https://example.com/the_office_episode1.jpg",
+            "url": "https://example.com/the_office_episode1",
+            "title": "Episode 1"
+          },
+          {
+            "img": "https://example.com/the_office_episode2.jpg",
+            "url": "https://example.com/the_office_episode2",
+            "title": "Episode 2"
+          }
+        ]
+      }
+    ]
+  }
+}
