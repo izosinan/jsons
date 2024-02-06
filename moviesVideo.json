@@ -1,38 +1,44 @@
 {
   "movies": {
-    "action": [
+    "arabic": [
       {
         "title": "The Dark Knight",
-        "img": "https://example.com/dark_knight.jpg",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "img2": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
         "url": "https://example.com/dark_knight"
       },
       {
         "title": "Inception",
-        "img": "https://example.com/inception.jpg",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "img2": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
         "url": "https://example.com/inception"
       }
     ],
-    "comedy": [
+    "hindi": [
       {
         "title": "The Hangover",
-        "img": "https://example.com/hangover.jpg",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "img2": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
         "url": "https://example.com/hangover"
       },
       {
         "title": "Superbad",
-        "img": "https://example.com/superbad.jpg",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "img2": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
         "url": "https://example.com/superbad"
       }
     ],
-    "drama": [
+    "turkey": [
       {
         "title": "The Shawshank Redemption",
-        "img": "https://example.com/shawshank_redemption.jpg",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "img2": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
         "url": "https://example.com/shawshank_redemption"
       },
       {
         "title": "Forrest Gump",
-        "img": "https://example.com/forrest_gump.jpg",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "img2": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
         "url": "https://example.com/forrest_gump"
       }
     ]
@@ -41,15 +47,15 @@
     "thriller": [
       {
         "title": "Breaking Bad",
-        "img": "https://example.com/breaking_bad.jpg",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
         "episodes": [
           {
-            "img": "https://example.com/breaking_bad_episode1.jpg",
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
             "url": "https://example.com/breaking_bad_episode1",
             "title": "Episode 1"
           },
           {
-            "img": "https://example.com/breaking_bad_episode2.jpg",
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
             "url": "https://example.com/breaking_bad_episode2",
             "title": "Episode 2"
           }
@@ -57,15 +63,15 @@
       },
       {
         "title": "Stranger Things",
-        "img": "https://example.com/stranger_things.jpg",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
         "episodes": [
           {
-            "img": "https://example.com/stranger_things_episode1.jpg",
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
             "url": "https://example.com/stranger_things_episode1",
             "title": "Episode 1"
           },
           {
-            "img": "https://example.com/stranger_things_episode2.jpg",
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
             "url": "https://example.com/stranger_things_episode2",
             "title": "Episode 2"
           }
@@ -75,15 +81,15 @@
     "comedy": [
       {
         "title": "Friends",
-        "img": "https://example.com/friends.jpg",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
         "episodes": [
           {
-            "img": "https://example.com/friends_episode1.jpg",
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
             "url": "https://example.com/friends_episode1",
             "title": "Episode 1"
           },
           {
-            "img": "https://example.com/friends_episode2.jpg",
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
             "url": "https://example.com/friends_episode2",
             "title": "Episode 2"
           }
@@ -91,15 +97,85 @@
       },
       {
         "title": "The Office",
-        "img": "https://example.com/the_office.jpg",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
         "episodes": [
           {
-            "img": "https://example.com/the_office_episode1.jpg",
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
             "url": "https://example.com/the_office_episode1",
             "title": "Episode 1"
           },
           {
-            "img": "https://example.com/the_office_episode2.jpg",
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
+            "url": "https://example.com/the_office_episode2",
+            "title": "Episode 2"
+          }
+        ]
+      }
+    ]
+  },
+  "animie": {
+    "thriller": [
+      {
+        "title": "Breaking Bad",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "episodes": [
+          {
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
+            "url": "https://example.com/breaking_bad_episode1",
+            "title": "Episode 1"
+          },
+          {
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
+            "url": "https://example.com/breaking_bad_episode2",
+            "title": "Episode 2"
+          }
+        ]
+      },
+      {
+        "title": "Stranger Things",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "episodes": [
+          {
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
+            "url": "https://example.com/stranger_things_episode1",
+            "title": "Episode 1"
+          },
+          {
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
+            "url": "https://example.com/stranger_things_episode2",
+            "title": "Episode 2"
+          }
+        ]
+      }
+    ],
+    "comedy": [
+      {
+        "title": "Friends",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "episodes": [
+          {
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
+            "url": "https://example.com/friends_episode1",
+            "title": "Episode 1"
+          },
+          {
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
+            "url": "https://example.com/friends_episode2",
+            "title": "Episode 2"
+          }
+        ]
+      },
+      {
+        "title": "The Office",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/60eca3ac155247e21850c7d075d01ebf0f3f5dbf19ccd2a1.jpg",
+        "episodes": [
+          {
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
+            "url": "https://example.com/the_office_episode1",
+            "title": "Episode 1"
+          },
+          {
+            "img": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5359769168001/b74b48f9-6c13-452e-8776-ea1ab9074953/74b9774e-a415-4499-8f1a-26e5e0940ecd/1280x720/match/image.jpg",
             "url": "https://example.com/the_office_episode2",
             "title": "Episode 2"
           }
