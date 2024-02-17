@@ -5,9 +5,9 @@
    "page_url" : "https://www.coinpayu.com/?r=james1937"
   },
   "send_trafic" : {
-   "app_number" : 1,
-   "app_id" : "com.koralive.kooralive",
-   "app_image" : "https://play-lh.googleusercontent.com/IFzMfpXJ-dagUdwX2uVrd1k7sDsNRJYmukEhmmJlU-mriyVUSZn-LnhGwNny9OqziUs=w240-h480-rw",
-   "background_image" : "https://play-lh.googleusercontent.com/Uf8tbYv407axDo6jdULutxt3otqh1p09RcoBfr20VXFMnYKl3rbdxZ_b0HmCs3Ua-AJG=w540-h302-rw"
+   "app_number" : 2,
+   "app_id" : "com.movies.animi.animie",
+   "app_image" : "https://play-lh.googleusercontent.com/yPD6ZVtu2hq7r9fTrUfggTTEYPd9fbvuGb4TPO2dQdWlSQpQxXHpG7ndiqpTxIcwGmJm=w240-h480-rw",
+   "background_image" : "https://i.pinimg.com/564x/82/90/06/829006f7d871f3039e4ded4e902d19a0.jpg"
   }
 }
