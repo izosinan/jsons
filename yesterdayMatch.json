@@ -9,7 +9,17 @@
 		"gmt" : "GMT+1",
 		"leagueName" : "الدوري الإنجليزي الممتاز",
 		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html",
+		"live" : [
+			{
+				"title" : "test",
+				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+			},
+			{
+				"title" : "test2",
+				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+			}
+		]
 	},
 	{
 		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/93.png",
@@ -21,7 +31,17 @@
 		"result" : "4 - 1",
 		"leagueName" : "الدوري الإنجليزي الممتاز",
 		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html",
+		"live" : [
+			{
+				"title" : "test",
+				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+			},
+			{
+				"title" : "test2",
+				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+			}
+		]
 	},
 	{
 		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/93.png",
@@ -33,6 +53,16 @@
 		"result" : "4 - 1",
 		"leagueName" : "الدوري الإنجليزي الممتاز",
 		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html",
+		"live" : [
+			{
+				"title" : "test",
+				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+			},
+			{
+				"title" : "test2",
+				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+			}
+		]
 	}
 ]
