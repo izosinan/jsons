@@ -9,7 +9,6 @@
 		"color": 2,
 		"leagueName" : "الدوري الإنجليزي الممتاز",
 		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html",
 		"live" : [
 			{
 				"title" : "test",
@@ -31,7 +30,6 @@
 		"color": 1,
 		"leagueName" : "الدوري الإنجليزي الممتاز",
 		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html",
 		"live" : [
 			{
 				"title" : "test",
@@ -53,14 +51,9 @@
 		"color": 1,
 		"leagueName" : "الدوري الإنجليزي الممتاز",
 		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html",
 		"live" : [
 			{
 				"title" : "test",
-				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
-			},
-			{
-				"title" : "test2",
 				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
 			}
 		]
