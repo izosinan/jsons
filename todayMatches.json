@@ -62,10 +62,14 @@
   "channelName" : "beIN SPORTS 8",
   "matchUrl" : "https://sportsonline.si/channels/pt/sporttv4.php",
   "live" : [
-    {
-    "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-    "matchUrl" : "https://sportsonline.si/channels/pt/sporttv4.php"
-    }
+	{
+	"title" : "Live 1",
+	"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
+	},
+	{
+	"title" : "Live 2",
+	"matchUrl" : "https://sportsonline.si/channels/pt/sporttv4.php"
+	}
   ]
 },
 {
