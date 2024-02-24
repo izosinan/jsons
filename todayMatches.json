@@ -1,7 +1,7 @@
 [
 	{
-	"team1Img" : "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Wydad_AC_crest_%282022%29.svg/1200px-Wydad_AC_crest_%282022%29.svg.png",
-	"team2Img" : "https://jdwel.com/image/teams/eng_nottingham_forest_v2.png",
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/05/84.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/08/1423.png",
 	"team1Name" : "أستون فيلا     ",
 	"team2Name" : "نوتينغهام فورست",
 	"time" : "4:00 PM",
@@ -22,8 +22,8 @@
 	]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/eng_brighton_a_hove_albion.png",
-		"team2Img" : "https://jdwel.com/image/teams/eng_everton.png",
+		"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/1426.png",
+		"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/90.png",
 		"team1Name" : "برايتون",
 		"team2Name" : "إيفرتون",
 		"time" : "4:00 PM",
@@ -44,10 +44,10 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/eng_crystal_palace.png",
-		"team2Img" : "https://jdwel.com/image/teams/eng_burnley_v2.png",
+		"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/299.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/992.png",
 		"team1Name" : "كريستال بالاس",
-		"team2Name" : "بيرنلي",
+		"team2Name" : "بيرنلي      ",
 		"time" : "4:00 PM",
 		"gmt" : "GMT+1",
 		"color": 1,
@@ -66,8 +66,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/eng_manchester_united.png",
-		"team2Img" : "https://jdwel.com/image/teams/280.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/95.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/08/91.png",
 		"team1Name" : "مانشستر يونايتد",
 		"team2Name" : "فولهام",
 		"time" : "4:00 PM",
@@ -88,8 +88,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/eng_afc_bournemouth.png",
-		"team2Img" : "https://jdwel.com/image/teams/eng_manchester_city_v2.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/08/1453.png",
+		"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/94.png",
 		"team1Name" : "بورنموث",
 		"team2Name" : "مانشستر سيتي",
 		"time" : "6:30 PM",
@@ -110,8 +110,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/eng_arsenal_v2.png",
-		"team2Img" : "https://jdwel.com/image/teams/eng_newcastle_united.png",
+		"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/83.png",
+		"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/97.png",
 		"team1Name" : "آرسنال",
 		"team2Name" : "نيوكاسل يونايتد",
 		"time" : "9:00 PM",
@@ -132,8 +132,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/spa_granada.png",
-		"team2Img" : "https://jdwel.com/image/teams/spa_valencia.png",
+		"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/1296.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/112.png",
 		"team1Name" : "غرناطة",
 		"team2Name" : "فالنسيا",
 		"time" : "2:00 PM",
@@ -154,8 +154,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/spa_barcelona.png",
-		"team2Img" : "https://jdwel.com/image/teams/spa_getafe.png",
+		"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/111.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/317.png",
 		"team1Name" : "برشلونة",
 		"team2Name" : "خيتافي",
 		"time" : "4:15 PM",
@@ -176,10 +176,10 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/spa_deportivo_alaves_v2.png",
-		"team2Img" : "https://jdwel.com/image/teams/spa_mallorca.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/115.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/121.png",
 		"team1Name" : "ديبورتيفو ألافيس",
-		"team2Name" : "ديبورتيفو ألافيس",
+		"team2Name" : "مايوركا",
 		"time" : "6:30 PM",
 		"gmt" : "GMT+1",
 		"color": 1,
@@ -198,8 +198,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/spa_almeria.png",
-		"team2Img" : "https://jdwel.com/image/teams/spa_atletico_madrid_v2.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/08/752.png",
+		"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/147.png",
 		"team1Name" : "ألميريا",
 		"team2Name" : "أتلتيكو مدريد",
 		"time" : "9:00 PM",
@@ -220,8 +220,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/ita_sassuolo.png",
-		"team2Img" : "https://jdwel.com/image/teams/ita_empoli.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/1396.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/05/133.png",
 		"team1Name" : "ساسولو",
 		"team2Name" : "إمبولي",
 		"time" : "3:00 PM",
@@ -242,8 +242,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/ita_salernitana_v2.png",
-		"team2Img" : "https://jdwel.com/image/teams/ita_monza_v2.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/12880.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/08/12807.png",
 		"team1Name" : "ساليرنيتانا",
 		"team2Name" : "مونزا",
 		"time" : "6:00 PM",
@@ -264,8 +264,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/320.png",
-		"team2Img" : "https://jdwel.com/image/teams/ita_udinese_v2.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/05/514.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/145.png",
 		"team1Name" : "جنوى",
 		"team2Name" : "أودينيزي",
 		"time" : "8:45 PM",
@@ -286,8 +286,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/ger_borussia_mgladbach.png",
-		"team2Img" : "https://jdwel.com/image/teams/ger_bochum.png",
+		"team1Img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/1200px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
+		"team2Img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1200px-VfL_Bochum_logo.svg.png",
 		"team1Name" : "بوروسيا مونشنغلادباخ",
 		"team2Name" : "بوخوم",
 		"time" : "3:30 PM",
@@ -308,8 +308,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/ger_stuttgart.png",
-		"team2Img" : "https://jdwel.com/image/teams/ger_koln.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/05/160.png",
+		"team2Img" : "https://www.kora-lives.com/wp-content/uploads/2022/07/%D9%83%D9%88%D9%84%D9%86.png",
 		"team1Name" : "شتوتجارت",
 		"team2Name" : "كولن",
 		"time" : "3:30 PM",
@@ -330,8 +330,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/ger_bayern_munchen.png",
-		"team2Img" : "https://jdwel.com/image/teams/ger_rb_leipzig_v2.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/153.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/1742.png",
 		"team1Name" : "بايرن ميونخ",
 		"team2Name" : "لايبزيج",
 		"time" : "6:30 PM",
@@ -352,8 +352,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/mor_fus_rabat.png",
-		"team2Img" : "https://jdwel.com/image/teams/mor_riadi_salmi.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/06/997.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/06/12889.png",
 		"team1Name" : "الفتح الرباطي",
 		"team2Name" : "شباب السوالم",
 		"time" : "4:00 PM",
@@ -374,8 +374,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/mor_moghreb_tetouan_v2.png",
-		"team2Img" : "https://jdwel.com/image/teams/mor_raja_casablanca.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/09/561.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/06/451.png",
 		"team1Name" : "المغرب التطواني",
 		"team2Name" : "الرجاء الرياضي",
 		"time" : "6:00 PM",
@@ -396,8 +396,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/mor_olympic_safi.png",
-		"team2Img" : "https://jdwel.com/image/teams/mor_cr_khemis_zemamra.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/540.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2024/01/12697.png",
 		"team1Name" : "أولمبيك آسفي",
 		"team2Name" : "نهضة الزمامرة",
 		"time" : "8:00 PM",
@@ -418,8 +418,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/con_tp_mazembe.png",
-		"team2Img" : "https://jdwel.com/image/teams/egy_pyramids_v2.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/05/589.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/1451.png",
 		"team1Name" : "مازيمبي",
 		"team2Name" : "بيراميدز",
 		"time" : "2:00 PM",
@@ -440,8 +440,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/bot_galaxy.png",
-		"team2Img" : "https://jdwel.com/image/teams/mor_wydad_v2.png",
+		"team1Img" : "https://i0.wp.com/koora.yalla-shoot-tv.live/wp-content/uploads/2023/11/2246.png?ssl=1",
+		"team2Img" : "https://i0.wp.com/shoots.yalla-shoot-tv.live/wp-content/uploads/2023/06/434.png?ssl=1",
 		"team1Name" : "جالاكسي",
 		"team2Name" : "الوداد الرياضي",
 		"time" : "2:00 PM",
@@ -462,8 +462,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/276.png",
-		"team2Img" : "https://jdwel.com/image/teams/sou_mamelodi_sundowns.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2023/03/2286.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2023/02/577.png",
 		"team1Name" : "نواذيبو",
 		"team2Name" : "ماميلودي صن داونز",
 		"time" : "5:00 PM",
@@ -484,8 +484,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/tan_young_africans.png",
-		"team2Img" : "https://jdwel.com/image/teams/alg_cr_belouizdad_v2.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/10/713.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2023/02/941.png",
 		"team1Name" : "يونغ أفريكانز",
 		"team2Name" : "شباب بلوزداد",
 		"time" : "5:00 PM",
@@ -506,8 +506,8 @@
 		]
 	},
 	{
-		"team1Img" : "https://jdwel.com/image/teams/tun_etoile_du_sahel.png",
-		"team2Img" : "https://jdwel.com/image/teams/tun_es_tunis.png",
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/05/231.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/254.png",
 		"team1Name" : "النجم الساحلي",
 		"team2Name" : "الترجي الرياضي",
 		"time" : "8:00 PM",
