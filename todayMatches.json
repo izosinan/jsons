@@ -12,8 +12,20 @@
 	  "matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 	  "live" : [
 	    {
-	    "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-	    "matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports"
+	    "title" : "Live 1",
+	    "matchUrl" : "https://sportsonline.si/channels/hd/hd5.php"
+	    },
+		  {
+	    "title" : "Live 2",
+	    "matchUrl" : "https://sportsonline.si/channels/hd/hd6.php"
+	    },
+		  {
+	    "title" : "Live 3",
+	    "matchUrl" : "https://sportsonline.si/channels/pt/eleven2.php"
+	    },
+		  {
+	    "title" : "Live 4",
+	    "matchUrl" : "https://sportsonline.si/channels/bra/br2.php"
 	    }
 	  ]
 	},
@@ -28,7 +40,7 @@
   "color": 1,
   "leagueName" : "دوري أبطال أفريقيا",
   "channelName" : "beIN SPORTS 6",
-  "matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+  "matchUrl" : "https://sportsonline.si/channels/hd/hd11.php",
   "live" : [
     {
     "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
@@ -48,7 +60,7 @@
   "color": 1,
   "leagueName" : "دوري أبطال أفريقيا",
   "channelName" : "beIN SPORTS 8",
-  "matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+  "matchUrl" : "https://sportsonline.si/channels/pt/sporttv4.php",
   "live" : [
     {
     "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
@@ -66,7 +78,7 @@
   "color": 1,
   "leagueName" : "الدوري الإيطالي الدرجة الأولى",
   "channelName" : "أبوظبي بريميوم 1",
-  "matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+  "matchUrl" : "https://sportsonline.si/channels/hd/hd7.php",
   "live" : [
     {
     "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
