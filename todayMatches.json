@@ -35,17 +35,21 @@
   "team2Img" : "https://i0.wp.com/shoots.yalla-shoot-tv.live/wp-content/uploads/2023/06/434.png?ssl=1",
   "team1Name" : "جالاكسي        ",
   "team2Name" : "الوداد الرياضي",
-  "time" : "2:00 PM",
-  "gmt" : "GMT+1",
-  "color": 2,
+  "time" : "0 - 1",
+  "gmt" : "",
+  "color": 3,
   "leagueName" : "دوري أبطال أفريقيا",
   "channelName" : "beIN SPORTS 6",
   "matchUrl" : "https://sportsonline.si/channels/hd/hd11.php",
   "live" : [
-    {
-    "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-    "matchUrl" : "https://sportsonline.si/channels/hd/hd11.php"
-    }
+			    {
+			    "title" : "Live 1",
+			    "matchUrl" : "https://sportsonline.si/channels/hd/hd11.php"
+			    },
+			    {
+			    "title" : "Live 2",
+			    "matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
+			    }
   ]
 },
 
@@ -55,9 +59,9 @@
   "team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/1451.png",
   "team1Name" : "مازيمبي",
   "team2Name" : "بيراميدز",
-  "time" : "2:00 PM",
-  "gmt" : "GMT+1",
-  "color": 2,
+  "time" : "3 - 0",
+  "gmt" : "",
+  "color": 3,
   "leagueName" : "دوري أبطال أفريقيا",
   "channelName" : "beIN SPORTS 8",
   "live" : [
@@ -309,8 +313,12 @@
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
 			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
+			"title" : "Live 1",
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
+			},
+			{
+			"title" : "Live 2",
+			"matchUrl" : "https://sportsonline.si/channels/pt/sporttv4.php"
 			}
 		]
 	},
@@ -326,10 +334,14 @@
 		"channelName" : "beIN SPORTS 6",
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
-			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
-			}
+			    {
+			    "title" : "Live 1",
+			    "matchUrl" : "https://sportsonline.si/channels/hd/hd11.php"
+			    },
+			    {
+			    "title" : "Live 2",
+			    "matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
+			    }
 		]
 	},
   {
@@ -344,10 +356,14 @@
 		"channelName" : "أبوظبي بريميوم 1",
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
-			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
-			}
+			    {
+			    "title" : "Live 1",
+			    "matchUrl" : "https://sportsonline.si/channels/hd/hd7.php"
+			    },
+			      {
+			    "title" : "Live 2",
+			    "matchUrl" : "https://sportsonline.si/channels/pt/sporttv2.php"
+			    }
 		]
 	},
   {
@@ -363,8 +379,12 @@
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
 			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
+			"title" : "Live 1",
+			"matchUrl" : "https://web24iptv.online/player/phpar/fassport.php"
+			},
+			{
+			"title" : "Live 2",
+			"matchUrl" : "https://web24iptv.online/player/phpar/fassport.php"
 			}
 		]
 	},
@@ -381,8 +401,20 @@
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
 			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
+			"title" : "Live 1",
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
+			},
+			{
+			"title" : "Live 2",
+			"matchUrl" : "https://sportsonline.si/channels/hd/hd1.php"
+			},
+			{
+			"title" : "Live 3",
+			"matchUrl" : "https://sportsonline.si/channels/pt/eleven1.php"
+			},
+			{
+			"title" : "Live 4",
+			"matchUrl" : "https://sportsonline.si/channels/bra/br2.php"
 			}
 		]
 	},
@@ -401,8 +433,16 @@
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
 			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
+			"title" : "Live 1",
+			"matchUrl" : "https://sportsonline.si/channels/hd/hd5.php"
+			},
+			{
+			"title" : "Live 2",
+			"matchUrl" : "https://sportsonline.si/channels/hd/hd6.php"
+			},
+			{
+			"title" : "Live 3",
+			"matchUrl" : "https://sportsonline.si/channels/pt/eleven3.php"
 			}
 		]
 	},
@@ -420,8 +460,24 @@
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
 			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
+			"title" : "Live 1",
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch5.php"
+			},
+			{
+			"title" : "Live 2",
+			"matchUrl" : "https://sportsonline.si/channels/hd/hd2.php"
+			},
+			{
+			"title" : "Live 3",
+			"matchUrl" : "https://sportsonline.si/channels/hd/hd3.php"
+			},
+			{
+			"title" : "Live 4",
+			"matchUrl" : "https://sportsonline.si/channels/pt/eleven2.php"
+			},
+			{
+			"title" : "Live 5",
+			"matchUrl" : "https://sportsonline.si/channels/bra/br1.php"
 			}
 		]
 	},
@@ -439,7 +495,7 @@
 		"live" : [
 			{
 			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
+			"matchUrl" : "https://web24iptv.online/player/phpar/fassport.php"
 			}
 		]
 	},
@@ -458,10 +514,14 @@
 		"channelName" : "beIN SPORTS 6",
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
-			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
-			}
+			    {
+			    "title" : "Live 1",
+			    "matchUrl" : "https://sportsonline.si/channels/hd/hd11.php"
+			    },
+			    {
+			    "title" : "Live 2",
+			    "matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
+			    }
 		]
 	},
 
@@ -477,10 +537,14 @@
 		"channelName" : "أبوظبي بريميوم 1",
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
-			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
-			}
+			    {
+			    "title" : "Live 1",
+			    "matchUrl" : "https://sportsonline.si/channels/hd/hd7.php"
+			    },
+			      {
+			    "title" : "Live 2",
+			    "matchUrl" : "https://sportsonline.si/channels/pt/sporttv2.php"
+			    }
 		]
 	},
 	{
@@ -496,8 +560,24 @@
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
 			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
+			"title" : "Live 1",
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
+			},
+			{
+			"title" : "Live 2",
+			"matchUrl" : "https://sportsonline.si/channels/hd/hd1.php"
+			},
+			{
+			"title" : "Live 3",
+			"matchUrl" : "https://sportsonline.si/channels/pt/eleven1.php"
+			},
+			{
+			"title" : "Live 4",
+			"matchUrl" : "https://sportsonline.si/channels/pt/eleven3.php"
+			},
+			{
+			"title" : "Live 5",
+			"matchUrl" : "https://sportsonline.si/channels/bra/br2.php"
 			}
 		]
 	},
@@ -515,8 +595,20 @@
 		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 		"live" : [
 			{
-			"title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-			"matchUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"
+			"title" : "Live 1",
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
+			},
+			{
+			"title" : "Live 2",
+			"matchUrl" : "https://sportsonline.si/channels/hd/hd5.php"
+			},
+			{
+			"title" : "Live 3",
+			"matchUrl" : "https://sportsonline.si/channels/hd/hd6.php"
+			},
+			{
+			"title" : "Live 4",
+			"matchUrl" : "https://sportsonline.si/channels/pt/eleven2.php"
 			}
 		]
 	}
