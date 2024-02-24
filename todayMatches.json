@@ -322,7 +322,7 @@
 			},
 			{
 			"title" : "Live 2",
-			"matchUrl" : "https://sportsonline.si/channels/pt/sporttv4.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
 			}
 		]
 	},
@@ -410,15 +410,15 @@
 			},
 			{
 			"title" : "Live 2",
-			"matchUrl" : "https://sportsonline.si/channels/hd/hd1.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
 			},
 			{
 			"title" : "Live 3",
-			"matchUrl" : "https://sportsonline.si/channels/pt/eleven1.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
 			},
 			{
 			"title" : "Live 4",
-			"matchUrl" : "https://sportsonline.si/channels/bra/br2.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
 			}
 		]
 	},
@@ -469,19 +469,19 @@
 			},
 			{
 			"title" : "Live 2",
-			"matchUrl" : "https://sportsonline.si/channels/hd/hd2.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch5.php"
 			},
 			{
 			"title" : "Live 3",
-			"matchUrl" : "https://sportsonline.si/channels/hd/hd3.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch5.php"
 			},
 			{
 			"title" : "Live 4",
-			"matchUrl" : "https://sportsonline.si/channels/pt/eleven2.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch5.php"
 			},
 			{
 			"title" : "Live 5",
-			"matchUrl" : "https://sportsonline.si/channels/bra/br1.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch5.php"
 			}
 		]
 	},
@@ -520,7 +520,7 @@
 		"live" : [
 			    {
 			    "title" : "Live 1",
-			    "matchUrl" : "https://sportsonline.si/channels/hd/hd11.php"
+			    "matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
 			    },
 			    {
 			    "title" : "Live 2",
@@ -569,19 +569,19 @@
 			},
 			{
 			"title" : "Live 2",
-			"matchUrl" : "https://sportsonline.si/channels/hd/hd1.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
 			},
 			{
 			"title" : "Live 3",
-			"matchUrl" : "https://sportsonline.si/channels/pt/eleven1.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
 			},
 			{
 			"title" : "Live 4",
-			"matchUrl" : "https://sportsonline.si/channels/pt/eleven3.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
 			},
 			{
 			"title" : "Live 5",
-			"matchUrl" : "https://sportsonline.si/channels/bra/br2.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
 			}
 		]
 	},
@@ -604,15 +604,15 @@
 			},
 			{
 			"title" : "Live 2",
-			"matchUrl" : "https://sportsonline.si/channels/hd/hd5.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
 			},
 			{
 			"title" : "Live 3",
-			"matchUrl" : "https://sportsonline.si/channels/hd/hd6.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
 			},
 			{
 			"title" : "Live 4",
-			"matchUrl" : "https://sportsonline.si/channels/pt/eleven2.php"
+			"matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
 			}
 		]
 	}
