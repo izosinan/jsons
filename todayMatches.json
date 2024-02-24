@@ -5,7 +5,7 @@
 	  "team1Name" : "غرناطة",
 	  "team2Name" : "فالنسيا",
 	  "time" : "تأجلت",
-	  "gmt" : "",
+	  "gmt" : "     ",
 	  "color": 3,
 	  "leagueName" : "الدوري الإسباني الدرجة الأولى",
 	  "channelName" : "Unkown",
@@ -37,7 +37,7 @@
   "team2Name" : "الوداد الرياضي",
   "time" : "2:00 PM",
   "gmt" : "GMT+1",
-  "color": 1,
+  "color": 2,
   "leagueName" : "دوري أبطال أفريقيا",
   "channelName" : "beIN SPORTS 6",
   "matchUrl" : "https://sportsonline.si/channels/hd/hd11.php",
@@ -57,7 +57,7 @@
   "team2Name" : "بيراميدز",
   "time" : "2:00 PM",
   "gmt" : "GMT+1",
-  "color": 1,
+  "color": 2,
   "leagueName" : "دوري أبطال أفريقيا",
   "channelName" : "beIN SPORTS 8",
   "matchUrl" : "https://sportsonline.si/channels/pt/sporttv4.php",
@@ -70,6 +70,24 @@
 	"title" : "Live 2",
 	"matchUrl" : "https://sportsonline.si/channels/pt/sporttv4.php"
 	}
+  ]
+},
+	{
+  "team1Img" : "https://upload.wikimedia.org/wikipedia/ar/thumb/1/14/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A_2023.svg/1200px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%8A_2023.svg.png",
+  "team2Img" : "https://upload.wikimedia.org/wikipedia/ar/thumb/b/b2/Al-Ahli_Logo.svg/1200px-Al-Ahli_Logo.svg.png",
+  "team1Name" : "الطائي",
+  "team2Name" : "الأهلي",
+  "time" : "3:00 PM",
+  "gmt" : "GMT+1",
+  "color": 2,
+  "leagueName" : "الدوري السعودي للمحترفين",
+  "channelName" : "SSC Sports HD1",
+  "matchUrl" : "https://sportsonline.si/channels/hd/hd7.php",
+  "live" : [
+    {
+    "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
+    "matchUrl" : "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
+    }
   ]
 },
 {
