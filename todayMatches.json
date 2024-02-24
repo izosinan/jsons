@@ -44,7 +44,7 @@
   "live" : [
     {
     "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-    "matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports"
+    "matchUrl" : "https://sportsonline.si/channels/hd/hd11.php"
     }
   ]
 },
@@ -64,7 +64,7 @@
   "live" : [
     {
     "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-    "matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports"
+    "matchUrl" : "https://sportsonline.si/channels/pt/sporttv4.php"
     }
   ]
 },
@@ -82,7 +82,7 @@
   "live" : [
     {
     "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-    "matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports"
+    "matchUrl" : "https://sportsonline.si/channels/hd/hd7.php"
     }
   ]
 },
@@ -100,7 +100,7 @@
   "live" : [
     {
     "title" : "hhhhhhhhhhhhhhhhhhhhhhhhh",
-    "matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports"
+    "matchUrl" : "https://azrotv.com/m3u8/kuwaittv/?id=kwtvsports"
     }
   ]
 },
