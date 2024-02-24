@@ -1,67 +1,127 @@
 [
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/93.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/05/1920.png",
-		"team1Name" : "ليفربول",
-		"team2Name" : "برينتفورد",
-		"time" : "3:00 PM",
+	"team1Img" : "https://i0.wp.com/shoots.yalla-shoot-tv.live/wp-content/uploads/2023/07/458-1.png?ssl=1",
+	"team2Img" : "https://i0.wp.com/online.yalla-shoot-tv.live/wp-content/uploads/2023/12/566.png?ssl=1",
+	"team1Name" : "الهلال",
+	"team2Name" : "بيترو أتلتيكو",
+	"time" : "0 - 0",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "دوري أبطال أفريقيا",
+	"channelName" : "beIN SPORTS 5",
+	"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html",
+	"live" : [
+		{
+			"title" : "jazira",
+			"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+		}
+	]
+	},
+	{
+		"team1Img" : "https://i0.wp.com/shoots.yalla-shoot-tv.live/wp-content/uploads/2023/06/1.png?ssl=1",
+		"team2Img" : "https://i0.wp.com/shoots.yalla-shoot-tv.live/wp-content/uploads/2023/11/8341692282485.png?ssl=1",
+		"team1Name" : "الأهلي",
+		"team2Name" : "ميدياما",
+		"time" : "0 - 1",
 		"gmt" : "",
 		"color": 3,
-		"leagueName" : "الدوري الإنجليزي الممتاز",
-		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html",
+		"leagueName" : "دوري أبطال أفريقيا",
+		"channelName" : "beIN SPORTS 6",a
+		"matchUrl" : "https://www.elahmad.com/tv/arabic-tv-online.php?id=iraqiasport",
 		"live" : [
 			{
-				"title" : "test",
-				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
-			},
-			{
-				"title" : "test2",
-				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+				"title" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+				"matchUrl" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
 			}
 		]
 	},
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/93.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/05/1920.png",
-		"team1Name" : "ليفربول",
-		"team2Name" : "برينتفورد",
-		"time" : "3:00 pm",
-		"gmt" : "GMT+1",
-		"color": 1,
-		"leagueName" : "الدوري الإنجليزي الممتاز",
-		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html",
+		"team1Img" : "https://i0.wp.com/online.yalla-shoot-tv.live/wp-content/uploads/2023/12/498.png?ssl=1",
+		"team2Img" : "https://i0.wp.com/lives.yalla-shoot-tv.live/wp-content/uploads/2023/10/461.png?ssl=1",
+		"team1Name" : "أسيك ميموزا",
+		"team2Name" : "سيمبا",
+		"time" : "0 - 0",
+		"gmt" : "",
+		"color": 3,
+		"leagueName" : "دوري أبطال أفريقيا",
+		"channelName" : "beIN SPORTS 6",
+		"matchUrl" : "https://www.elahmad.com/tv/arabic-tv-online.php?id=iraqiasport",
 		"live" : [
 			{
-				"title" : "test",
-				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
-			},
-			{
-				"title" : "test2",
-				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+				"title" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+				"matchUrl" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
 			}
 		]
 	},
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/93.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/05/1920.png",
-		"team1Name" : "ليفربول",
-		"team2Name" : "برينتفورد",
-		"time" : "3:00 PM",
-		"gmt" : "GMT+1",
-		"color": 1,
-		"leagueName" : "الدوري الإنجليزي الممتاز",
+		"team1Img" : "https://i0.wp.com/shoots.yalla-shoot-tv.live/wp-content/uploads/2023/08/156.png?ssl=1",
+		"team2Img" : "https://i0.wp.com/lives.yalla-shoot-tv.live/wp-content/uploads/2023/10/297.png?ssl=1",
+		"team1Name" : "باير ليفركوزن",
+		"team2Name" : "ماينز 05",
+		"time" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+		"gmt" : "",
+		"color": 3,
+		"leagueName" : "الدوري الألماني",
 		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html",
+		"matchUrl" : "https://www.elahmad.com/tv/arabic-tv-online.php?id=iraqiasport",
 		"live" : [
 			{
-				"title" : "test",
-				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
-			},
+				"title" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+				"matchUrl" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+			}
+		]
+	},
+	{
+		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/129.png",
+		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/05/1395.png",
+		"team1Name" : "بولونيا",
+		"team2Name" : "هيلاس فيرونا",
+		"time" : "0 - 2",
+		"gmt" : "",
+		"color": 3,
+		"leagueName" : "الدوري الإيطالي",
+		"channelName" : "أبوظبي بريميوم 1",
+		"matchUrl" : "https://www.elahmad.com/tv/arabic-tv-online.php?id=iraqiasport",
+		"live" : [
 			{
-				"title" : "test2",
-				"matchUrl" : "https://vidtube.pro/embed-jtpj6ju1uysz.html"
+				"title" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+				"matchUrl" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+			}
+		]
+	},
+	{
+		"team1Img" : "https://i0.wp.com/stad.yalla-shoot-tv.live/wp-content/uploads/2023/08/311.png?ssl=1",
+		"team2Img" : "https://i0.wp.com/stad.yalla-shoot-tv.live/wp-content/uploads/2023/07/211.png?ssl=1",
+		"team1Name" : "ميتز",
+		"team2Name" : "ليون",
+		"time" : "2 - 1",
+		"gmt" : "",
+		"color": 3,
+		"leagueName" : "الدوري الفرنسي",
+		"channelName" : "beIN SPORTS 4",
+		"matchUrl" : "https://www.elahmad.com/tv/arabic-tv-online.php?id=iraqiasport",
+		"live" : [
+			{
+				"title" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+				"matchUrl" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+			}
+		]
+	},
+	{
+		"team1Img" : "https://i0.wp.com/shoots.yalla-shoot-tv.live/wp-content/uploads/2023/08/124.webp?ssl=1",
+		"team2Img" : "https://i0.wp.com/shoots.yalla-shoot-tv.live/wp-content/uploads/2023/08/127.png?ssl=1",
+		"team1Name" : "ريال سوسييداد",
+		"team2Name" : "فياريال",
+		"time" : "3 - 1",
+		"gmt" : "",
+		"color": 3,
+		"leagueName" : "الدوري الإسباني",
+		"channelName" : "beIN SPORTS 3",
+		"matchUrl" : "https://www.elahmad.com/tv/arabic-tv-online.php?id=iraqiasport",
+		"live" : [
+			{
+				"title" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+				"matchUrl" : "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
 			}
 		]
 	}
