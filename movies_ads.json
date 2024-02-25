@@ -1,6 +1,6 @@
 {
-  "ads": "admob",
-  "live_matches_ads" : "admob",
+  "ads": "facebook",
+  "live_matches_ads" : "facebook",
   "facebook" : 0,
   "instagram" : 0,
   "twiter" : 0,
