@@ -1,27 +1,27 @@
 [
 	{
-	  "team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/1296.png",
-	  "team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/112.png",
-	  "team1Name" : "غرناطة",
-	  "team2Name" : "فالنسيا",
-	  "time" : "تأجلت",
-	  "gmt" : "     ",
-	  "color": 3,
-	  "leagueName" : "الدوري الإسباني الدرجة الأولى",
-	  "channelName" : "Unkown",
-	  "matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-	  "live" : [
-	    {
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/1296.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/112.png",
+	"team1Name" : "غرناطة",
+	"team2Name" : "فالنسيا",
+	"time" : "تأجلت",
+	"gmt" : "     ",
+	"color": 3,
+	"leagueName" : "الدوري الإسباني الدرجة الأولى",
+	"channelName" : "Unkown",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-	  ]
+	]
 	},
 	
 	{
@@ -36,15 +36,15 @@
 	"channelName" : "beIN SPORTS 6",
 	"matchUrl" : "https://sportsonline.si/channels/hd/hd11.php",
 	"live" : [
-			    {
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
 	]
 	},
@@ -62,14 +62,14 @@
 	"channelName" : "beIN SPORTS 8",
 	"live" : [
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
 	]
 	},
@@ -85,14 +85,14 @@
 	"channelName" : "SSC Sports HD1",
 	"live" : [
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
 	]
 	},
@@ -108,14 +108,14 @@
 	"channelName" : "أبوظبي بريميوم 1",
 	"live" : [
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
 	]
 	},
@@ -132,14 +132,14 @@
 	"matchUrl" : "https://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 	"live" : [
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
 	]
 	},
@@ -158,14 +158,14 @@
 	"matchUrl" : "https://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 	"live" : [
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
 	]
 	},
@@ -181,433 +181,433 @@
 	"channelName" : "beIN SPORTS XTRA 1",
 	"matchUrl" : "https://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
 	"live" : [
-		{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
 	]
 	},
 	{
-		"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/1426.png",
-		"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/90.png",
-		"team1Name" : "برايتون",
-		"team2Name" : "إيفرتون",
-		"time" : "1 - 1",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الإنجليزي الممتاز",
-		"channelName" : "beIN SPORTS 2",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/1426.png",
+	"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/90.png",
+	"team1Name" : "برايتون",
+	"team2Name" : "إيفرتون",
+	"time" : "1 - 1",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الإنجليزي الممتاز",
+	"channelName" : "beIN SPORTS 2",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	{
-		"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/299.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/992.png",
-		"team1Name" : "كريستال بالاس",
-		"team2Name" : "بيرنلي      ",
-		"time" : "3 - 0",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الإنجليزي الممتاز",
-		"channelName" : "beIN SPORTS XTRA 2",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/299.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/992.png",
+	"team1Name" : "كريستال بالاس",
+	"team2Name" : "بيرنلي      ",
+	"time" : "3 - 0",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الإنجليزي الممتاز",
+	"channelName" : "beIN SPORTS XTRA 2",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/95.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/08/91.png",
-		"team1Name" : "مانشستر يونايتد",
-		"team2Name" : "         فولهام",
-		"time" : "1 - 2",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الإنجليزي الممتاز",
-		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/95.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/08/91.png",
+	"team1Name" : "مانشستر يونايتد",
+	"team2Name" : "         فولهام",
+	"time" : "1 - 2",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الإنجليزي الممتاز",
+	"channelName" : "beIN SPORTS 1",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/06/997.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/06/12889.png",
-		"team1Name" : "الفتح الرباطي",
-		"team2Name" : "شباب السوالم",
-		"time" : "1 - 0",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري المغربي",
-		"channelName" : "تمازيغت المغربية",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/06/997.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/06/12889.png",
+	"team1Name" : "الفتح الرباطي",
+	"team2Name" : "شباب السوالم",
+	"time" : "1 - 0",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري المغربي",
+	"channelName" : "تمازيغت المغربية",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	{
-		"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/111.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/317.png",
-		"team1Name" : "برشلونة",
-		"team2Name" : "خيتافي",
-		"time" : "4 - 0",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الإسباني الدرجة الأولى",
-		"channelName" : "beIN SPORTS 3",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/111.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/317.png",
+	"team1Name" : "برشلونة",
+	"team2Name" : "خيتافي",
+	"time" : "4 - 0",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الإسباني الدرجة الأولى",
+	"channelName" : "beIN SPORTS 3",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2023/03/2286.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2023/02/577.png",
-		"team1Name" : "          نواذيبو",
-		"team2Name" : "ماميلودي صن داونز",
-		"time" : "0 - 2",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "دوري أبطال أفريقيا",
-		"channelName" : "beIN SPORTS 8",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2023/03/2286.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2023/02/577.png",
+	"team1Name" : "          نواذيبو",
+	"team2Name" : "ماميلودي صن داونز",
+	"time" : "0 - 2",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "دوري أبطال أفريقيا",
+	"channelName" : "beIN SPORTS 8",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/10/713.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2023/02/941.png",
-		"team1Name" : "يونغ أفريكانز",
-		"team2Name" : "شباب بلوزداد",
-		"time" : "4 - 0",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "دوري أبطال أفريقيا",
-		"channelName" : "beIN SPORTS 6",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			    {
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/10/713.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2023/02/941.png",
+	"team1Name" : "يونغ أفريكانز",
+	"team2Name" : "شباب بلوزداد",
+	"time" : "4 - 0",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "دوري أبطال أفريقيا",
+	"channelName" : "beIN SPORTS 6",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/12880.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/08/12807.png",
-		"team1Name" : "ساليرنيتانا",
-		"team2Name" : "      مونزا",
-		"time" : "0 - 2",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الإيطالي الدرجة الأولى",
-		"channelName" : "أبوظبي بريميوم 1",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			  {
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/12880.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/08/12807.png",
+	"team1Name" : "ساليرنيتانا",
+	"team2Name" : "      مونزا",
+	"time" : "0 - 2",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الإيطالي الدرجة الأولى",
+	"channelName" : "أبوظبي بريميوم 1",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/09/561.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/06/451.png",
-		"team1Name" : "المغرب التطواني",
-		"team2Name" : "الرجاء الرياضي",
-		"time" : "1 - 1",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري المغربي",
-		"channelName" : "Arryadia",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/09/561.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/06/451.png",
+	"team1Name" : "المغرب التطواني",
+	"team2Name" : "الرجاء الرياضي",
+	"time" : "1 - 1",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري المغربي",
+	"channelName" : "Arryadia",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/08/1453.png",
-		"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/94.png",
-		"team1Name" : "بورنموث     ",
-		"team2Name" : "مانشستر سيتي",
-		"time" : "0 - 1",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الإنجليزي الممتاز",
-		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/08/1453.png",
+	"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/94.png",
+	"team1Name" : "بورنموث     ",
+	"team2Name" : "مانشستر سيتي",
+	"time" : "0 - 1",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الإنجليزي الممتاز",
+	"channelName" : "beIN SPORTS 1",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	
 	
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/115.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/121.png",
-		"team1Name" : "ديبورتيفو ألافيس",
-		"team2Name" : "مايوركا        ",
-		"time" : "1 - 1",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الإسباني الدرجة الأولى",
-		"channelName" : "beIN SPORTS 3",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/115.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/121.png",
+	"team1Name" : "ديبورتيفو ألافيس",
+	"team2Name" : "مايوركا        ",
+	"time" : "1 - 1",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الإسباني الدرجة الأولى",
+	"channelName" : "beIN SPORTS 3",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/153.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/1742.png",
-		"team1Name" : "بايرن ميونخ",
-		"team2Name" : "     لايبزيج",
-		"time" : "2 - 1",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الألماني الدرجة الأولى",
-		"channelName" : "beIN SPORTS 5",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/153.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/1742.png",
+	"team1Name" : "بايرن ميونخ",
+	"team2Name" : "     لايبزيج",
+	"time" : "2 - 1",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الألماني الدرجة الأولى",
+	"channelName" : "beIN SPORTS 5",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/540.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2024/01/12697.png",
-		"team1Name" : "أولمبيك آسفي",
-		"team2Name" : "نهضة الزمامرة",
-		"time" : "2 - 0",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري المغربي",
-		"channelName" : "Arryadia",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/04/540.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2024/01/12697.png",
+	"team1Name" : "أولمبيك آسفي",
+	"team2Name" : "نهضة الزمامرة",
+	"time" : "2 - 0",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري المغربي",
+	"channelName" : "Arryadia",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	
 	
 	
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/05/231.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/254.png",
-		"team1Name" : "النجم الساحلي",
-		"team2Name" : "الترجي الرياضي",
-		"time" : "0 - 2",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "دوري أبطال أفريقيا",
-		"channelName" : "beIN SPORTS 6",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			  {
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/05/231.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/254.png",
+	"team1Name" : "النجم الساحلي",
+	"team2Name" : "الترجي الرياضي",
+	"time" : "0 - 2",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "دوري أبطال أفريقيا",
+	"channelName" : "beIN SPORTS 6",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/05/514.png",
-		"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/145.png",
-		"team1Name" : "جنوى    ",
-		"team2Name" : "أودينيزي",
-		"time" : "2 - 0",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الإيطالي الدرجة الأولى",
-		"channelName" : "أبوظبي بريميوم 1",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			   {
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/05/514.png",
+	"team2Img" : "https://koooralive.online/wp-content/uploads/2022/04/145.png",
+	"team1Name" : "جنوى    ",
+	"team2Name" : "أودينيزي",
+	"time" : "2 - 0",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الإيطالي الدرجة الأولى",
+	"channelName" : "أبوظبي بريميوم 1",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	{
-		"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/83.png",
-		"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/97.png",
-		"team1Name" : "آرسنال         ",
-		"team2Name" : "نيوكاسل يونايتد",
-		"time" : "4 - 1",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الإنجليزي الممتاز",
-		"channelName" : "beIN SPORTS 1",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "http://koooralive.online/wp-content/uploads/2022/04/83.png",
+	"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/97.png",
+	"team1Name" : "آرسنال         ",
+	"team2Name" : "نيوكاسل يونايتد",
+	"time" : "4 - 1",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الإنجليزي الممتاز",
+	"channelName" : "beIN SPORTS 1",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	},
 	
 	{
-		"team1Img" : "https://koooralive.online/wp-content/uploads/2022/08/752.png",
-		"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/147.png",
-		"team1Name" : "ألميريا      ",
-		"team2Name" : "أتلتيكو مدريد",
-		"time" : "2 - 2",
-		"gmt" : "",
-		"color": 3,
-		"leagueName" : "الدوري الإسباني الدرجة الأولى",
-		"channelName" : "beIN SPORTS 3",
-		"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
-		"live" : [
-			{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"team1Img" : "https://koooralive.online/wp-content/uploads/2022/08/752.png",
+	"team2Img" : "http://koooralive.online/wp-content/uploads/2022/04/147.png",
+	"team1Name" : "ألميريا      ",
+	"team2Name" : "أتلتيكو مدريد",
+	"time" : "2 - 2",
+	"gmt" : "",
+	"color": 3,
+	"leagueName" : "الدوري الإسباني الدرجة الأولى",
+	"channelName" : "beIN SPORTS 3",
+	"matchUrl" : "http://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
+	"live" : [
+	{
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	},
 	{
-	  "title": "Live 1",
-	  "matchUrl":
-	      "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+	"title": "Live 1",
+	"matchUrl":
+	"https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
 	}
-		]
+	]
 	}
 ]
