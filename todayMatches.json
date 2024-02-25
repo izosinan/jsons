@@ -29,7 +29,7 @@
       "color": 1,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
       "channelName": "Unkown",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8",
       "live": [
         {
           "title": "Live 1",
@@ -52,7 +52,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=skynews_ar1"
+          "matchUrl": "https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq_480p/chunks.m3u8"
         }
       ]
     },
@@ -66,7 +66,7 @@
       "color": 1,
       "leagueName": "كأس الكونفدرالية الأفريقية",
       "channelName": "Unkown",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "https://rt-arb.rttv.com/live/rtarab/playlist_1600Kb.m3u8",
       "live": [
         {
           "title": "Live 1",
