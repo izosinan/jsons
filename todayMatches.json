@@ -225,25 +225,6 @@
       ]
     },
     {
-      "team1Img": "https://img.kooora.com/?i=kooora_logo%2Fteams%2Ffrance%2Fligue2%2Fhavre.gif",
-      "team2Img": "https://upload.wikimedia.org/wikipedia/ar/thumb/c/c9/Stade_de_Reims_Logo_%282020%29.svg/1200px-Stade_de_Reims_Logo_%282020%29.svg.png",
-      "team1Name": "لوهافر",
-      "team2Name": "ستاد ريمس",
-      "time": "3:00 PM",
-      "gmt": "GMT+1",
-      "color": 2,
-      "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "Unkown",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
-        }
-      ]
-    },
-    {
       "team1Img": "https://koooralive.online/wp-content/uploads/2022/04/1880.png",
       "team2Img": "https://koooralive.online/wp-content/uploads/2022/04/304.png",
       "team1Name": "فاركو",
