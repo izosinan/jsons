@@ -74,14 +74,22 @@
       "team2Name": "سيلتا فيغو",
       "time": "2:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإسباني الدرجة الأولى",
       "channelName": "beIN SPORTS 3",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/inewsiqpublish/inewsiq_480p/chunks.m3u8"
+          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
+        },
+                {
+          "title": "Live 2",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd6.php"
+        },
+                {
+          "title": "Live 3",
+          "matchUrl": "https://sportsonline.si/channels/pt/eleven1.php"
         }
       ]
     },
@@ -92,15 +100,25 @@
       "team2Name": "مودرن فيوتشر",
       "time": "2:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "كأس الكونفدرالية الأفريقية",
       "channelName": "beIN SPORTS 6",
-      "webview" : "https://rt-arb.rttv.com/live/rtarab/playlist_1600Kb.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd8.php"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/sporttv5.php"
         }
       ]
     },
@@ -118,7 +136,19 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd10.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch5.php"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl": "https://sportsonline.si/channels/pt/eleven2.php"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl": "https://sportsonline.si/channels/bra/br5.php"
         }
       ]
     },
@@ -156,7 +186,7 @@
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://sportsonline.si/channels/hd/hd4.php"
         }
       ]
     },
@@ -175,7 +205,7 @@
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://sportsonline.si/channels/hd/hd2.php"
         }
       ]
     },
@@ -208,7 +238,7 @@
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 2",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport2/tracks-v1a1/mono.m3u8?token=f3b5bc5437ab9549823fe969535ffe60c3b16fe3-aa5cfcebc9de2682c012e16856964808-1708874551-1708863751",
       "live": [
         {
           "title": "Live 1",
@@ -232,7 +262,22 @@
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch6.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd5.php"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd7.php"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/sporttv3.php"
         }
       ]
     },
@@ -454,7 +499,7 @@
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 1",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport/tracks-v1a1/mono.m3u8?token=cc9a0803097e2da70b08cc50de4812e88035ac53-d9fd34798add700dd59d3475feec8e1b-1708874420-1708863620",
       "live": [
         {
           "title": "Live 1",
