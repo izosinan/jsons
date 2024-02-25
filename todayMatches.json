@@ -6,7 +6,7 @@
       "team2Name": "فروسينوني",
       "time": "12:30 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
       "channelName": "أبوظبي بريميوم 1",
       "webview" : "https://rt-arb.rttv.com/live/rtarab/playlist_1600Kb.m3u8",
@@ -15,7 +15,26 @@
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
+        },
+          {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd2.php"
+        },
+          {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd7.php"
+        },
+          {
+          "title": "Live 4",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/sporttv2.php"
+        },{
+          "title": "Live 5",
+          "matchUrl":
+              "https://sportsonline.si/channels/bra/br2.php"
         }
       ]
     },
