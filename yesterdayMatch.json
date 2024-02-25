@@ -184,6 +184,7 @@
 	"time" : "4 - 2",
 	"gmt" : "",
 	"color":3,
+	"webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
 	"leagueName" : "الدوري الإنجليزي الممتاز",
 	"channelName" : "beIN SPORTS XTRA 1",
 	"matchUrl" : "https://azrotv.com/m3u8/kuwaittv/?id=kwtvsports",
