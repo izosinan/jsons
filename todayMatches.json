@@ -53,7 +53,17 @@
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd5.php"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd4.php"
         }
       ]
     },
