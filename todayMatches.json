@@ -4,9 +4,9 @@
       "team2Img": "https://koooralive.online/wp-content/uploads/2023/08/1534.png",
       "team1Name": "يوفنتوس",
       "team2Name": "فروسينوني",
-      "time": "12:30 PM",
-      "gmt": "GMT+1",
-      "color": 2,
+      "time": "3 - 2",
+      "gmt": "",
+      "color": 3,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
       "channelName": "أبوظبي بريميوم 1",
       "webview" : "",
@@ -183,13 +183,18 @@
       "team2Name": "ليل",
       "time": "3:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
       "channelName": "beIN SPORTS XTRA 2",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd4.php"
+        },
+        {
+          "title": "Live 2",
           "matchUrl":
               "https://sportsonline.si/channels/hd/hd4.php"
         }
@@ -202,13 +207,18 @@
       "team2Name": "كليرمونت",
       "time": "3:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
       "channelName": "beIN SPORTS XTRA 3",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd2.php"
+        },
+          {
+          "title": "Live 2",
           "matchUrl":
               "https://sportsonline.si/channels/hd/hd2.php"
         }
@@ -221,7 +231,7 @@
       "team2Name": "ستاد ريمس",
       "time": "3:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
       "channelName": "Unkown",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
@@ -240,7 +250,7 @@
       "team2Name": "طلائع الجيش",
       "time": "3:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 2",
       "webview" : "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport2/tracks-v1a1/mono.m3u8?token=f3b5bc5437ab9549823fe969535ffe60c3b16fe3-aa5cfcebc9de2682c012e16856964808-1708874551-1708863751",
@@ -259,10 +269,10 @@
       "team2Name": "نابولي",
       "time": "3:30 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
       "channelName": "أبوظبي بريميوم 1",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
@@ -296,7 +306,7 @@
       "color": 1,
       "leagueName": "الدوري الألماني الدرجة الأولى",
       "channelName": "Unkown",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
@@ -320,7 +330,7 @@
       "color": 1,
       "leagueName": "كأس الرابطة الإنجليزية للمحترفين",
       "channelName": "beIN SPORTS 1",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
@@ -373,7 +383,7 @@
       "color": 1,
       "leagueName": "الدوري الإسباني الدرجة الأولى",
       "channelName": "beIN SPORTS 3",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
@@ -399,10 +409,15 @@
       "color": 1,
       "leagueName": "كأس الكونفدرالية الأفريقية",
       "channelName": "beIN SPORTS 8",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
+          "matchUrl":
+              "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
+        },
+        {
+          "title": "Live 2",
           "matchUrl":
               "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
         }
@@ -418,7 +433,7 @@
       "color": 1,
       "leagueName": "كأس الكونفدرالية الأفريقية",
       "channelName": "beIN SPORTS 6",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
@@ -461,7 +476,7 @@
       "color": 1,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
       "channelName": "beIN SPORTS 4",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
@@ -500,12 +515,22 @@
       "color": 1,
       "leagueName": "الدوري الألماني الدرجة الأولى",
       "channelName": "beIN SPORTS 2",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch6.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd3.php"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/eleven3.php"
         }
       ]
     },
@@ -519,12 +544,32 @@
       "color": 1,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
       "channelName": "أبوظبي بريميوم 1",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch7.php"
+        },
+          {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd2.php"
+        },
+          {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd7.php"
+        },
+          {
+          "title": "Live 4",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/sporttv3.php"
+        },
+          {
+          "title": "Live 5",
+          "matchUrl":
+              "https://sportsonline.si/channels/bra/br5.php"
         }
       ]
     },
@@ -538,12 +583,27 @@
       "color": 1,
       "leagueName": "الدوري السعودي للمحترفين",
       "channelName": "SSC Sports HD1",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch8.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd11.php"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/sporttv4.php"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl":
+              "https://sportsonline.si/channels/bra/br4.php"
         }
       ]
     },
@@ -576,7 +636,7 @@
       "color": 1,
       "leagueName": "الدوري المغربي البطولة الإحترافية",
       "channelName": "arryadia",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
       "live": [
         {
           "title": "Live 1",
@@ -595,12 +655,22 @@
       "color": 1,
       "leagueName": "الدوري الإسباني الدرجة الأولى",
       "channelName": "beIN SPORTS 3",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://sportsonline.si/channels/hd/hd1.php"
+        },
+          {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd6.php"
+        },
+          {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/eleven1.php"
         }
       ]
     },
@@ -614,12 +684,17 @@
       "color": 1,
       "leagueName": "الدوري الألماني الدرجة الأولى",
       "channelName": "beIN SPORTS 5",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://sportsonline.si/channels/hd/hd3.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/eleven3.php"
         }
       ]
     },
@@ -633,7 +708,7 @@
       "color": 1,
       "leagueName": "الدوري المغربي البطولة الإحترافية",
       "channelName": "arryadia",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
       "live": [
         {
           "title": "Live 1",
@@ -652,12 +727,17 @@
       "color": 1,
       "leagueName": "كأس الكونفدرالية الأفريقية",
       "channelName": "beIN SPORTS 6",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd8.php"
         }
       ]
     },
@@ -671,12 +751,27 @@
       "color": 1,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
       "channelName": "أبوظبي بريميوم 1",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
+        },
+          {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd5.php"
+        },
+          {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd7.php"
+        },
+          {
+          "title": "Live 4",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/sporttv3.php"
         }
       ]
     },
@@ -690,12 +785,27 @@
       "color": 1,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
       "channelName": "beIN SPORTS 4",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
+        },
+          {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd2.php"
+        },
+          {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd4.php"
+        },
+          {
+          "title": "Live 4",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/eleven2.php"
         }
       ]
     },
@@ -709,12 +819,32 @@
       "color": 1,
       "leagueName": "الدوري الإسباني الدرجة الأولى",
       "channelName": "beIN SPORTS 1",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "webview" : "",
       "live": [
-        {
+         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+              "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
+        },
+          {
+          "title": "Live 2",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd1.php"
+        },
+          {
+          "title": "Live 3",
+          "matchUrl":
+              "https://sportsonline.si/channels/hd/hd6.php"
+        },
+          {
+          "title": "Live 4",
+          "matchUrl":
+              "https://sportsonline.si/channels/pt/eleven1.php"
+        },
+          {
+          "title": "Live 5",
+          "matchUrl":
+              "https://sportsonline.si/channels/bra/br2.php"
         }
       ]
     }
