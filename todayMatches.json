@@ -8,7 +8,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "أبوظبي بريميوم 1",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
    
       "live": [
@@ -28,7 +28,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 4",
       "webview" : "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8",
       "live": [
         {
@@ -47,7 +47,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الإسباني الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 3",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -65,7 +65,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 6",
       "webview" : "https://rt-arb.rttv.com/live/rtarab/playlist_1600Kb.m3u8",
       "live": [
         {
@@ -84,7 +84,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الإنجليزي الممتاز",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 2",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -102,7 +102,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري السعودي للمحترفين",
-      "channelName": "Unkown",
+      "channelName": "SSC Extra HD1",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -121,7 +121,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS XTRA 2",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -140,7 +140,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS XTRA 3",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -178,7 +178,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
-      "channelName": "Unkown",
+      "channelName": "أون تايم سبورت 2",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -197,7 +197,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "أبوظبي بريميوم 1",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -235,7 +235,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "كأس الرابطة الإنجليزية للمحترفين",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 1",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -254,7 +254,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري المغربي البطولة الإحترافية",
-      "channelName": "Unkown",
+      "channelName": "arrydia",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -273,7 +273,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الإسباني الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 3",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -291,7 +291,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 8",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -310,7 +310,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 6",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -329,7 +329,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS XTRA 1",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -348,7 +348,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 4",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -367,7 +367,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الألماني الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 2",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -386,7 +386,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "أبوظبي بريميوم 1",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -405,7 +405,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري السعودي للمحترفين",
-      "channelName": "Unkown",
+      "channelName": "SSC Sports HD1",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -424,7 +424,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
-      "channelName": "Unkown",
+      "channelName": "أون تايم سبورت 1",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -443,26 +443,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري المغربي البطولة الإحترافية",
-      "channelName": "Unkown",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/06/932.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/05/938.png",
-      "team1Name": "المغرب الفاسي",
-      "team2Name": "مولودية وجدة",
-      "time": "6:00 PM",
-      "gmt": "GMT+1",
-      "color": 1,
-      "leagueName": "الدوري المغربي البطولة الإحترافية",
-      "channelName": "Unkown",
+      "channelName": "arryadia",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -481,7 +462,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الإسباني الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 3",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -500,7 +481,26 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الألماني الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 5",
+      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl":
+              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
+        }
+      ]
+    },
+    {
+      "team1Img": "https://koooralive.online/wp-content/uploads/2022/06/932.png",
+      "team2Img": "https://koooralive.online/wp-content/uploads/2022/05/938.png",
+      "team1Name": "المغرب الفاسي",
+      "team2Name": "مولودية وجدة",
+      "time": "8:00 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "الدوري المغربي البطولة الإحترافية",
+      "channelName": "arryadia",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -519,7 +519,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 6",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -538,7 +538,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "أبوظبي بريميوم 1",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -557,7 +557,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 4",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
@@ -576,7 +576,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري الإسباني الدرجة الأولى",
-      "channelName": "Unkown",
+      "channelName": "beIN SPORTS 1",
       "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
       "live": [
         {
