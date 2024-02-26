@@ -9,7 +9,7 @@
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 1",
-      "webview": "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
@@ -43,7 +43,7 @@
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 2",
-      "webview": "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
@@ -77,7 +77,7 @@
       "color": 1,
       "leagueName": "الدوري السعودي للمحترفين",
       "channelName": "SSC Sports HD1",
-      "webview": "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
@@ -111,7 +111,7 @@
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 1",
-      "webview": "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
@@ -145,7 +145,7 @@
       "color": 1,
       "leagueName": "الدوري السعودي للمحترفين",
       "channelName": "SSC Sports HD1",
-      "webview": "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
@@ -179,7 +179,7 @@
       "color": 1,
       "leagueName": "الدوري التركي الممتاز",
       "channelName": "Unkown",
-      "webview": "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
@@ -213,7 +213,7 @@
       "color": 1,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
       "channelName": "أبوظبي بريميوم 1",
-      "webview": "https://www.elahmad.com/tv/radiant.php?id=aljazeer_ar1",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
