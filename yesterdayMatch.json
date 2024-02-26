@@ -234,7 +234,7 @@
       "color": 3,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 2",
-      "webview" : "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport2/tracks-v1a1/mono.m3u8?token=f3b5bc5437ab9549823fe969535ffe60c3b16fe3-aa5cfcebc9de2682c012e16856964808-1708874551-1708863751",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
@@ -598,7 +598,7 @@
       "color": 3,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 1",
-      "webview" : "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport/tracks-v1a1/mono.m3u8?token=cc9a0803097e2da70b08cc50de4812e88035ac53-d9fd34798add700dd59d3475feec8e1b-1708874420-1708863620",
+      "webview" : "",
       "live": [
         {
           "title": "Live 1",
