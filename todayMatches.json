@@ -9,27 +9,15 @@
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 1",
-      "webview": "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport/tracks-v1a1/mono.m3u8?token=f3f088f7ccd11aebb1e2e7390b63c83a73d695be-8f04da55b4515298bec199ce341b3b15-1708965818-1708955018",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport/tracks-v1a1/mono.m3u8?token=f3f088f7ccd11aebb1e2e7390b63c83a73d695be-8f04da55b4515298bec199ce341b3b15-1708965818-1708955018"
+          "matchUrl": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd2.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd7.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://sportsonline.si/channels/pt/sporttv2.php"
-        },
-        {
-          "title": "Live 5",
-          "matchUrl": "https://sportsonline.si/channels/bra/br2.php"
+          "matchUrl": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
         }
       ]
 },
