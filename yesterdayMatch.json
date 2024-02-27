@@ -1,138 +1,173 @@
 [
     {
-      "team1Img": "http://koooralive.online/wp-content/uploads/2022/04/135.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2023/08/1534.png",
-      "team1Name": "يوفنتوس",
-      "team2Name": "فروسينوني",
-      "time": "3 - 2",
+      "team1Img": "https://images.elbotola.com/stats/logos/y0or5jhl59lqwzv.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/jw2r09hllxkrz84.png",
+      "team1Name": "الجونة",
+      "team2Name": "الإسماعيلي",
+      "time": "0 - 0",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري الإيطالي الدرجة الأولى",
-      "channelName": "أبوظبي بريميوم 1",
-      "webview" : "",
-   
+      "leagueName": "الدوري المصري الممتاز",
+      "channelName": "أون تايم سبورت 1",
+      "webview": "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport/tracks-v1a1/mono.m3u8?token=f3f088f7ccd11aebb1e2e7390b63c83a73d695be-8f04da55b4515298bec199ce341b3b15-1708965818-1708955018",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
+          "matchUrl": "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport/tracks-v1a1/mono.m3u8?token=f3f088f7ccd11aebb1e2e7390b63c83a73d695be-8f04da55b4515298bec199ce341b3b15-1708965818-1708955018"
         },
-          {
+        {
           "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd2.php"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd2.php"
         },
-          {
+        {
           "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd7.php"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd7.php"
         },
-          {
+        {
           "title": "Live 4",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/sporttv2.php"
-        },{
+          "matchUrl": "https://sportsonline.si/channels/pt/sporttv2.php"
+        },
+        {
           "title": "Live 5",
-          "matchUrl":
-              "https://sportsonline.si/channels/bra/br2.php"
+          "matchUrl": "https://sportsonline.si/channels/bra/br2.php"
         }
       ]
     },
     {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/04/309.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/04/210.png",
-      "team1Name": "لانس",
-      "team2Name": "موناكو",
-      "time": "2 - 3",
+      "team1Img": "https://images.elbotola.com/stats/logos/zp5rzghp2pvq82w.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/ednm9whkojlryox.png",
+      "team1Name": "زد إف سي",
+      "team2Name": "إنبي",
+      "time": "0- 1",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "beIN SPORTS 4",
-      "webview" : "",
+      "leagueName": "الدوري المصري الممتاز",
+      "channelName": "أون تايم سبورت 2",
+      "webview": "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport2/tracks-v1a1/mono.m3u8?token=92caeda17c9f6bae026134adb51166ebe46c047a-8046fa332e9e6148437de5de63b37d88-1708965909-1708955109",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
+          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
         },
         {
           "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd5.php"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd2.php"
         },
         {
           "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd4.php"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd7.php"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl": "https://sportsonline.si/channels/pt/sporttv2.php"
+        },
+        {
+          "title": "Live 5",
+          "matchUrl": "https://sportsonline.si/channels/bra/br2.php"
         }
       ]
     },
     {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/04/513.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/04/117.png",
-      "team1Name": "قادش",
-      "team2Name": "سيلتا فيغو",
-      "time": "2 - 2",
+      "team1Img": "https://images.elbotola.com/stats/logos/kn54qllhlkwqvy9.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/kdj2ryohw6wq1zp.png",
+      "team1Name": "الإتفاق",
+      "team2Name": "الهلال",
+      "time": "0 - 2",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري الإسباني الدرجة الأولى",
-      "channelName": "beIN SPORTS 3",
-      "webview" : "",
+      "leagueName": "الدوري السعودي للمحترفين",
+      "channelName": "SSC Sports HD1",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
+          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
         },
-                {
+        {
           "title": "Live 2",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd6.php"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd11.php"
         },
-                {
+        {
           "title": "Live 3",
-          "matchUrl": "https://sportsonline.si/channels/pt/eleven1.php"
+          "matchUrl": "https://sportsonline.si/channels/pt/sporttv1.php"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl": "https://sportsonline.si/channels/bra/br4.php"
         }
       ]
     },
     {
-      "team1Img": "https://www.kora-lives.com/wp-content/uploads/2024/02/487.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2024/01/12724.png",
-      "team1Name": "سوبر سبورت يونايتد",
-      "team2Name": "مودرن فيوتشر",
-      "time": "1 - 1",
+      "team1Img": "https://images.elbotola.com/stats/logos/vjxm8gh44zor6od.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/318q66hoj5zqo9j.png",
+      "team1Name": "المقاولون العرب",
+      "team2Name": "المصري",
+      "time": "0 - 1",
       "gmt": "",
       "color": 3,
-      "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "beIN SPORTS 6",
-      "webview" : "",
+      "leagueName": "الدوري المصري الممتاز",
+      "channelName": "أون تايم سبورت 1",
+      "webview": "https://cdn1.ipslow.com/tv525_www.elahmad.com_on_sport/tracks-v1a1/mono.m3u8?token=f3f088f7ccd11aebb1e2e7390b63c83a73d695be-8f04da55b4515298bec199ce341b3b15-1708965818-1708955018",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
+          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
         },
         {
           "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd8.php"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd2.php"
         },
         {
           "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/sporttv5.php"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd7.php"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl": "https://sportsonline.si/channels/pt/sporttv2.php"
+        },
+        {
+          "title": "Live 5",
+          "matchUrl": "https://sportsonline.si/channels/bra/br2.php"
         }
       ]
     },
     {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/05/1028.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2023/03/660.png",
-      "team1Name": "وولفرهامبتون",
-      "team2Name": "شيفيلد يونايتد",
-      "time": "1 - 0",
+      "team1Img": "https://images.elbotola.com/stats/logos/9vjxm8ghyv3r6od.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/l7oqdehn47vr510.png",
+      "team1Name": "الاتحاد",
+      "team2Name": "الوحدة",
+      "time": "2 - 1",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري الإنجليزي الممتاز",
-      "channelName": "beIN SPORTS 2",
-      "webview" : "",
+      "leagueName": "الدوري السعودي للمحترفين",
+      "channelName": "SSC Sports HD1",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd11.php"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl": "https://sportsonline.si/channels/pt/sporttv2.php"
+        }
+      ]
+    },
+    {
+      "team1Img": "https://images.elbotola.com/stats/logos/z318q66hp66qo9j.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/kjw2r09hy0grz84.png",
+      "team1Name": "غلطة سراي",
+      "team2Name": "أنطاليا سبور",
+      "time": "2 - 1",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "الدوري التركي الممتاز",
+      "channelName": "Unkown",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
@@ -140,7 +175,120 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch5.php"
+          "matchUrl": "https://sportsonline.si/channels/pt/sporttv4.php"
+        }
+      ]
+    },
+    {
+      "team1Img": "https://images.elbotola.com/stats/logos/gx7lm7phel7m2wd.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/z8yomo4hw6lq0j6.png",
+      "team1Name": "روما",
+      "team2Name": "تورينو",
+      "time": "3 - 2",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "الدوري الإيطالي الدرجة الأولى",
+      "channelName": "أبوظبي بريميوم 1",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd5.php"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd7.php"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl": "https://sportsonline.si/channels/pt/sporttv1.php"
+        },
+        {
+          "title": "Live 5",
+          "matchUrl": "https://sportsonline.si/channels/bra/br5.php"
+        }
+      ]
+    },
+    {
+      "team1Img": "https://images.elbotola.com/stats/logos/8y39mp1h80jmojx.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/8y39mp1hg44mojx.png",
+      "team1Name": "فيورنتينا",
+      "team2Name": "لاتسيو",
+      "time": "2 - 1",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "الدوري الإيطالي الدرجة الأولى",
+      "channelName": "أبوظبي بريميوم 1",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd5.php"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd8.php"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl": "https://sportsonline.si/channels/pt/sporttv2.php"
+        },
+        {
+          "title": "Live 5",
+          "matchUrl": "https://sportsonline.si/channels/bra/br3.php"
+        }
+      ]
+    },
+    {
+      "team1Img": "https://images.elbotola.com/stats/logos/kdj2ryoh30zq1zp.png",
+      "team2Img": "https://img.btolat.com/teamslogo/9256.png",
+      "team1Name": "كوفنتري سيتي",
+      "team2Name": "ميدستون يونايتد",
+      "time": "5 - 0",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "كأس الاتحاد الإنجليزي",
+      "channelName": "beIN SPORTS 2",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd1.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://sportsonline.si/channels/pt/sporttv3.php"
+        }
+      ]
+    },
+    {
+      "team1Img": "https://images.elbotola.com/stats/logos/gy0or5jhdwxqwzv.png",
+      "team2Img":
+          "https://images.elbotola.com/stats/logos/kjw2r09hdk5rz84.png",
+      "team1Name": "وست هام يونايتد",
+      "team2Name": "برينتفورد",
+      "time": "4 - 2",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "الدوري الإنجليزي الممتاز",
+      "channelName": "beIN SPORTS 1",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd2.php"
         },
         {
           "title": "Live 3",
@@ -148,223 +296,21 @@
         },
         {
           "title": "Live 4",
-          "matchUrl": "https://sportsonline.si/channels/bra/br5.php"
+          "matchUrl": "https://sportsonline.si/channels/bra/br2.php"
         }
       ]
     },
     {
-      "team1Img": "https://upload.wikimedia.org/wikipedia/ar/e/e8/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1_2017.png",
-      "team2Img": "https://upload.wikimedia.org/wikipedia/ar/thumb/6/64/ABH.svg/180px-ABH.svg.png",
-      "team1Name": "الفيحاء",
-      "team2Name": "أبها",
-      "time": "3 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري السعودي للمحترفين",
-      "channelName": "SSC Extra HD1",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/08/315.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/05/310.png",
-      "team1Name": "تولوز",
-      "team2Name": "ليل",
-      "time": "3 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "beIN SPORTS XTRA 2",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd4.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd4.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://upload.wikimedia.org/wikipedia/ar/thumb/2/2e/OGC_Nice_logo.svg/1200px-OGC_Nice_logo.svg.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/e4wyrn4hno6q86p.png",
-      "team1Name": "نيس",
-      "team2Name": "كليرمونت",
-      "time": "0 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "beIN SPORTS XTRA 3",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd2.php"
-        },
-          {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd2.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/04/1880.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/04/304.png",
-      "team1Name": "فاركو",
-      "team2Name": "طلائع الجيش",
-      "time": "1 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري المصري الممتاز",
-      "channelName": "أون تايم سبورت 2",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/05/324.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/04/757.png",
-      "team1Name": "كالياري",
-      "team2Name": "نابولي",
-      "time": "1 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإيطالي الدرجة الأولى",
-      "channelName": "أبوظبي بريميوم 1",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch6.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd5.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd7.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/sporttv3.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2023/03/196.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/08/163.png",
-      "team1Name": "آينتراخت فرانكفورت",
-      "team2Name": "فولفسبورغ",
-      "time": "2 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الألماني الدرجة الأولى",
-      "channelName": "Unkown",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd3.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/eleven3.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "http://koooralive.online/wp-content/uploads/2022/04/89.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/04/93.png",
-      "team1Name": "تشيلسي",
-      "team2Name": "ليفربول",
-      "time": "0 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "كأس الرابطة الإنجليزية للمحترفين",
-      "channelName": "beIN SPORTS 1",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd1.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/sporttv2.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl":
-              "https://sportsonline.si/channels/bra/br2.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/06/227.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/06/936.png",
-      "team1Name": "حسنية أكادير",
-      "team2Name": "شباب المحمدية",
-      "time": "2 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري المغربي البطولة الإحترافية",
-      "channelName": "arrydia",
-      "webview" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/04/123.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/04/116.png",
-      "team1Name": "ريال بيتيس",
-      "team2Name": "أتلتيك بيلباو",
-      "time": "3 - 1",
+      "team1Img": "https://images.elbotola.com/stats/logos/p3glrw7h550qdyj.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/gy0or5jhp88qwzv.png",
+      "team1Name": "جيرونا",
+      "team2Name": "رايو فايكانو",
+      "time": "3 - 0",
       "gmt": "",
       "color": 3,
       "leagueName": "الدوري الإسباني الدرجة الأولى",
       "channelName": "beIN SPORTS 3",
-      "webview" : "",
+      "webview": "",
       "live": [
         {
           "title": "Live 1",
@@ -377,455 +323,10 @@
         {
           "title": "Live 3",
           "matchUrl": "https://sportsonline.si/channels/pt/eleven1.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://i0.wp.com/shoots.yalla-shoot-tv.live/wp-content/uploads/2023/12/7131696628343.png?ssl=1",
-      "team2Img": "https://i0.wp.com/live.yalla-shoot-tv.live/wp-content/uploads/2023/09/1125.png?ssl=1",
-      "team1Name": "الهلال",
-      "team2Name": "إتحاد الجزائر",
-      "time": "2 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "beIN SPORTS 8",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://www.kora-lives.com/wp-content/uploads/2024/02/13423.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/04/2.png",
-      "team1Name": "أبوسليم",
-      "team2Name": "الزمالك",
-      "time": "1 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "beIN SPORTS 6",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
-        },
-         {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd8.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://www.kora-lives.com/wp-content/uploads/2024/02/13348.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2023/05/430.png",
-      "team1Name": "دريمز",
-      "team2Name": "النادي الإفريقي",
-      "time": "1 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "beIN SPORTS XTRA 1",
-      "webview" : "https://live-hls-web-aja-fa.getaj.net/AJA/02.m3u8",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
-        }
-      ]
-    },
-    {
-      "team1Img": "http://koooralive.online/wp-content/uploads/2022/04/237.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/08/312.png",
-      "team1Name": "باريس سان جيرمان",
-      "team2Name": "رين",
-      "time": "1 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "beIN SPORTS 4",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch5.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd5.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd4.php"
         },
         {
           "title": "Live 4",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/eleven2.php"
-        },
-        {
-          "title": "Live 5",
-          "matchUrl":
-              "https://sportsonline.si/channels/bra/br3.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/04/154.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/09/848.png",
-      "team1Name": "بوروسيا دورتموند",
-      "team2Name": "هوفنهايم",
-      "time": "2 - 3",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الألماني الدرجة الأولى",
-      "channelName": "beIN SPORTS 2",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch6.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd3.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/eleven3.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/08/204.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/11/134.png",
-      "team1Name": "ليتشي",
-      "team2Name": "إنتر ميلان",
-      "time": "0 - 4",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإيطالي الدرجة الأولى",
-      "channelName": "أبوظبي بريميوم 1",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch7.php"
-        },
-          {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd2.php"
-        },
-          {
-          "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd7.php"
-        },
-          {
-          "title": "Live 4",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/sporttv3.php"
-        },
-          {
-          "title": "Live 5",
-          "matchUrl":
-              "https://sportsonline.si/channels/bra/br5.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/05/180.png",
-      "team2Img": "https://www.kora-lives.com/wp-content/uploads/2023/07/%D8%A7%D9%84%D9%86%D8%B5%D8%B1.png",
-      "team1Name": "الشباب",
-      "team2Name": "النصر",
-      "time": "2 - 3",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري السعودي للمحترفين",
-      "channelName": "SSC Sports HD1",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch8.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd11.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/sporttv4.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl":
-              "https://sportsonline.si/channels/bra/br4.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/04/13.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/05/2188.png",
-      "team1Name": "الاتحاد السكندري",
-      "team2Name": "البنك الأهلي",
-      "time": "0 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري المصري الممتاز",
-      "channelName": "أون تايم سبورت 1",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/06/440.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/09/13097.png",
-      "team1Name": "الجيش الملكي",
-      "team2Name": "الاتحاد التوركي",
-      "time": "3 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري المغربي البطولة الإحترافية",
-      "channelName": "arryadia",
-      "webview" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2023/08/1514.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/04/118.png",
-      "team1Name": "لاس بالماس",
-      "team2Name": "أوساسونا",
-      "time": "1 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإسباني الدرجة الأولى",
-      "channelName": "beIN SPORTS 3",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd1.php"
-        },
-          {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd6.php"
-        },
-          {
-          "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/eleven1.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/09/1297.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/05/195.png",
-      "team1Name": "أوجسبورج",
-      "team2Name": "فرايبورغ",
-      "time": "2 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الألماني الدرجة الأولى",
-      "channelName": "beIN SPORTS 5",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd3.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/eleven3.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/06/932.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/05/938.png",
-      "team1Name": "المغرب الفاسي",
-      "team2Name": "مولودية وجدة",
-      "time": "1 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري المغربي البطولة الإحترافية",
-      "channelName": "arryadia",
-      "webview" : "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://www.kora-lives.com/wp-content/uploads/2024/02/13427.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/05/1529.png",
-      "team1Name": "سيخوخون يونايتد",
-      "team2Name": "نهضة بركان",
-      "time": "0 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "beIN SPORTS 6",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch1.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd8.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/04/137.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/05/128.png",
-      "team1Name": "ميلان",
-      "team2Name": "أتالانتا",
-      "time": "1 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإيطالي الدرجة الأولى",
-      "channelName": "أبوظبي بريميوم 1",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch2.php"
-        },
-          {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd5.php"
-        },
-          {
-          "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd7.php"
-        },
-          {
-          "title": "Live 4",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/sporttv3.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://koooralive.online/wp-content/uploads/2022/07/222.png",
-      "team2Img": "https://koooralive.online/wp-content/uploads/2022/04/993.png",
-      "team1Name": "مارسيليا",
-      "team2Name": "مونبلييه",
-      "time": "4 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "beIN SPORTS 4",
-      "webview" : "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch3.php"
-        },
-          {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd2.php"
-        },
-          {
-          "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd4.php"
-        },
-          {
-          "title": "Live 4",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/eleven2.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/e4wyrn4h111q86p.png",
-      "team2Img": "https://img.btolat.com/teamslogo/16175.png?v=708",
-      "team1Name": "ريال مدريد",
-      "team2Name": "إشبيلية",
-      "time": "1 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإسباني الدرجة الأولى",
-      "channelName": "beIN SPORTS 1",
-      "webview" : "",
-      "live": [
-         {
-          "title": "Live 1",
-          "matchUrl":
-              "https://live12.yalla-shoot-tv.biz/chtv/ch4.php"
-        },
-          {
-          "title": "Live 2",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd1.php"
-        },
-          {
-          "title": "Live 3",
-          "matchUrl":
-              "https://sportsonline.si/channels/hd/hd6.php"
-        },
-          {
-          "title": "Live 4",
-          "matchUrl":
-              "https://sportsonline.si/channels/pt/eleven1.php"
-        },
-          {
-          "title": "Live 5",
-          "matchUrl":
-              "https://sportsonline.si/channels/bra/br2.php"
+          "matchUrl": "https://sportsonline.si/channels/bra/br5.php"
         }
       ]
     }
