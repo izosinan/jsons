@@ -13,11 +13,11 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
         },
         {
           "title": "Live 2",
-          "matchUrl": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
         }
       ]
 },
