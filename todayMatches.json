@@ -17,7 +17,7 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd10.phph?autoplay=1"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd10.php"
         },
         {
           "title": "Live 3",
@@ -29,7 +29,7 @@
         },
         {
           "title": "Live 5",
-          "matchUrl": "https://sportsonline.si/channels/bra/br5.php?autoplay=1"
+          "matchUrl": "https://sportsonline.si/channels/bra/br5.php"
         }
       ]
     },
