@@ -141,6 +141,30 @@
         }
       ]
     },
+     {
+      "team1Img": "https://upload.wikimedia.org/wikipedia/ar/1/12/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%87%D9%84%D9%8A_%D8%A8%D9%86%D8%BA%D8%A7%D8%B2%D9%8A.png",
+      "team2Img": "https://upload.wikimedia.org/wikipedia/ar/5/52/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A_%28%D9%84%D9%8A%D8%A8%D9%8A%D8%A7%29.png",
+      "team1Name": "الأهلي بنغازي",
+      "team2Name": "التحدي",
+      "time": "5:00 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "الدوري الليبي الممتاز",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl":
+              "https://www.elahmad.com/tv/radiant.php?id=libya_sport"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl":
+              "https://www.elahmad.com/tv/radiant.php?id=libya_sport"
+        }
+      ]
+    },
     {
       "team1Img": "https://images.elbotola.com/stats/logos/965mkyh7251r1ge.png",
       "team2Img": "https://images.elbotola.com/stats/logos/965mkyh3699r1ge.png",
