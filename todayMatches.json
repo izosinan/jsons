@@ -71,6 +71,31 @@
       ]
     },
     {
+      "team1Img":
+          "https://upload.wikimedia.org/wikipedia/ar/2/27/Al-Minaa_SC_logo_%282023%29.png",
+      "team2Img": "https://upload.wikimedia.org/wikipedia/ar/c/cb/Duhok_SC_logo_%282023%29.png",
+      "team1Name": "الميناء",
+      "team2Name": "دهوك",
+      "time": "3:00 PM",
+      "gmt": "GMT+1",
+      "color": 2,
+      "leagueName": "الدوري العراقي نجوم",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl":
+              "http://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl":
+              "http://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
+        }
+      ]
+    },
+    {
       "team1Img": "https://images.elbotola.com/stats/logos/vjxm8gh47epr6od.png",
       "team2Img": "https://images.elbotola.com/stats/logos/dj2ryohk4dnq1zp.png",
       "team1Name": "الرائد",
