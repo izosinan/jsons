@@ -50,7 +50,11 @@
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fastele.webp",
 			"channelName" : "Telemaroc",
-			"channelUrl" : "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false"	
+			"channelUrl" : "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]	
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fastmazig.webp",
 			"channelName" : "قناة تمازيغت",
