@@ -3,27 +3,50 @@
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fas2m.webp",
 			"channelName" : "قناة دوزيم",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fas2m.php"	
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]	
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fasalmgrbiya.webp",
 			"channelName" : "قناة المغربية",
-			"channelUrl" : "https://vidtube.pro/embed-iiia7dxgm2ia.html"	
+			"channelUrl" : "https://vidtube.pro/embed-iiia7dxgm2ia.html",
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]	
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fasalthqafya.webp",
 			"channelName" : "قناة الثقافية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fasalthqafya.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/fasalthqafya.php",
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]	
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fasasadisa.webp",
 			"channelName" : "قناة السادسة",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fasasadisa.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/fasasadisa.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fasmedi1.webp",
 			"channelName" : "Medi1",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fasmedi1.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/fasmedi1.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fassport.webp",
 			"channelName" : "الرياضية المغربية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fassport.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/fassport.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fastele.webp",
 			"channelName" : "Telemaroc",
@@ -31,435 +54,751 @@
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fastmazig.webp",
 			"channelName" : "قناة تمازيغت",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fastmazig.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/fastmazig.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fasaloula.webp",
 			"channelName" : "الاولى المغربية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fasaloula.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/fasaloula.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"algeria" : [
 		{
 			"channelImg" : "hhhh",
 			"channelName" : "hhhh",
-			"channelUrl" : "hhhhh"	
+			"channelUrl" : "hhhhh"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "hhhhhhhhhh",
 			"channelName" : "hhhhhhhhhh",
-			"channelUrl" : "hhhhhhhhhh"	
+			"channelUrl" : "hhhhhhhhhh"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "hhhhhhhhhh",
 			"channelName" : "hhhhhhhhhh",
-			"channelUrl" : "hhhhhhhhhh"	
+			"channelUrl" : "hhhhhhhhhh"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"tunisia" : [
 		{
 			"channelImg" : " ",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],"libya" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"egypte" : [
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/masr/masrelsharq.webp",
 			"channelName" : "قناة الشرق المصرية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/masrelsharq.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/masrelsharq.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/masr/masrwatan.webp",
 			"channelName" : "قناة وطن المصرية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/masrwatan.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/masrwatan.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/mbc/mbcm1.webp",
 			"channelName" : "ام بي سي مصر الاولى",
-			"channelUrl" : "https://web24iptv.online/player/phpar/mbcm1.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/mbcm1.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/mbc/mbcm2.webp",
 			"channelName" : "ام بي سي مصر الثانية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/mbcm2.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/mbcm2.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"ksa" : [
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/ahbariya.webp",
 			"channelName" : "السعودية الاخبارية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/ahbariya.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/ahbariya.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/alarabiye.webp",
 			"channelName" : "قناة العربية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/alarabiye.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/alarabiye.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/alhadas.webp",
 			"channelName" : "قناة الحدث",
-			"channelUrl" : "https://web24iptv.online/player/phpar/alhadas.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/alhadas.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksa1.webp",
 			"channelName" : "التلفزيون السعودي",
-			"channelUrl" : "https://web24iptv.online/player/phpar/ksa1.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/ksa1.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksasport1.webp",
 			"channelName" : "الرياضية السعودية الاولى",
-			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport1.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport1.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksasport2.webp",
 			"channelName" : "الرياضية السعودية الثانية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport2.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport2.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksasport3.webp",
 			"channelName" : "الرياضية السعودية الثالثة",
-			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport3.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport3.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/zikrayat.webp",
 			"channelName" : "ذكرايات",
-			"channelUrl" : "https://web24iptv.online/player/phpar/zikrayat.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/zikrayat.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/medine.webp",
 			"channelName" : "السنة النبوية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/medine.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/medine.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/quran.webp",
 			"channelName" : "القران الكريم",
-			"channelUrl" : "https://web24iptv.online/player/phpar/quran.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/quran.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/sbc.webp",
 			"channelName" : "SBC",
-			"channelUrl" : "https://web24iptv.online/player/phpar/sbc.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/sbc.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"uea" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"palestine" : [
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filalquds.webp",
 			"channelName" : "قناة القدس",
-			"channelUrl" : "http://live.web24iptv.online/player/phpar/filalquds.php"	
+			"channelUrl" : "http://live.web24iptv.online/player/phpar/filalquds.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filaqsa.webp",
 			"channelName" : "قناة الاقصى",
-			"channelUrl" : "https://web24iptv.online/player/phpar/filaqsa.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/filaqsa.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filaudeh.webp",
 			"channelName" : "قناة عودة",
-			"channelUrl" : "http://live.web24iptv.online/player/phpar/filaudeh.php"	
+			"channelUrl" : "http://live.web24iptv.online/player/phpar/filaudeh.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filhala.webp",
 			"channelName" : "قناة هلا",
-			"channelUrl" : "https://web24iptv.online/player/phpar/filhala.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/filhala.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filistintoday.webp",
 			"channelName" : "قناة فلسطين اليوم",
-			"channelUrl" : "https://web24iptv.online/player/phpar/filistintoday.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/filistintoday.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filmakan.webp",
 			"channelName" : "قناة مكان",
-			"channelUrl" : "https://web24iptv.online/player/phpar/filmakan.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/filmakan.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filrajin.webp",
 			"channelName" : "قناة راجعين",
-			"channelUrl" : "https://web24iptv.online/player/phpar/filrajin.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/filrajin.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"jordan" : [
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/jordan/almamlka.webp",
 			"channelName" : "قناة المملكة",
-			"channelUrl" : "https://web24iptv.online/player/phpar/joralmamlka.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/joralmamlka.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/jordan/ammantv.webp",
 			"channelName" : "قناة عمان",
-			"channelUrl" : "https://web24iptv.online/player/phpar/joramman.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/joramman.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/jordan/jordantv.webp",
 			"channelName" : "تلفزيون الاردن",
-			"channelUrl" : "https://web24iptv.online/player/phpar/jordantv.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/jordantv.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/jordan/jorsport.webp",
 			"channelName" : "قناة الاردن الرياضية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/jorsport.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/jorsport.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/jordan/royatv.webp",
 			"channelName" : "قناة رؤيا",
-			"channelUrl" : "https://web24iptv.online/player/phpar/jorroyatv.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/jorroyatv.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"lebanon" : [
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/lbc.webp",
 			"channelName" : "ال بي سي",
-			"channelUrl" : "https://www.web24iptv.online/player/phpar/lbnlbc.php"	
+			"channelUrl" : "https://www.web24iptv.online/player/phpar/lbnlbc.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/lbnone.webp",
 			"channelName" : "وان اللبنانية",
-			"channelUrl" : "https://media.mtv.com.lb/live/one"	
+			"channelUrl" : "https://media.mtv.com.lb/live/one"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/manar.webp",
 			"channelName" : "المنار",
-			"channelUrl" : "https://www.web24iptv.online/player/phpar/lbnmanar.php"	
+			"channelUrl" : "https://www.web24iptv.online/player/phpar/lbnmanar.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/mayadin.webp",
 			"channelName" : "الميادين",
-			"channelUrl" : "https://www.web24iptv.online/player/phpar/lbnmayadin.php"	
+			"channelUrl" : "https://www.web24iptv.online/player/phpar/lbnmayadin.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/mtv.webp",
 			"channelName" : "ام تي في",
-			"channelUrl" : "https://media.mtv.com.lb/live/mtv"	
+			"channelUrl" : "https://media.mtv.com.lb/live/mtv"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/nbn.webp",
 			"channelName" : "ان بي ان",
-			"channelUrl" : "http://live.web24iptv.online/player/phpar/lbnnbn.php"	
+			"channelUrl" : "http://live.web24iptv.online/player/phpar/lbnnbn.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"syria" : [
 		{
 			"channelImg" : "hhhhhhhhh",
 			"channelName" : "hhhhhhhhh",
-			"channelUrl" : "hhhhhhhhh"	
+			"channelUrl" : "hhhhhhhhh"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "hhhhhhhhh",
 			"channelName" : "hhhhhhhhh",
-			"channelUrl" : "hhhhhhhhh"	
+			"channelUrl" : "hhhhhhhhh"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "hhhhhhhhh",
 			"channelName" : "hhhhhhhhh",
-			"channelUrl" : "hhhhhhhhh"	
+			"channelUrl" : "hhhhhhhhh"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"iraq" : [
 		{
 			"channelImg" : "https://web24iptv.online/iraq/inews.html",
 			"channelName" : "Inews",
-			"channelUrl" : "https://web24iptv.online/player/phpar/iraqinews.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/iraqinews.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/iraq/iraqnews.webp",
 			"channelName" : "قناة الاخبارية العراقية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"	
+			"channelUrl" : "https://web24iptv.online/player/phpar/iraqnews.php"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"kuwait" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"bahrain" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"qatar" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"oman" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"yemen" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"sudan" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"mauritania" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"news tv" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	
+			"channelUrl" : ""	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	],
 	"kids" : [
 		{
 			"channelImg" : "hhhhhhhhhhhhhhhhh",
 			"channelName" : "kids",
-			"channelUrl" : "hhhhhhhhhhhhhhhhh"	
+			"channelUrl" : "hhhhhhhhhhhhhhhhh"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "hhhhhhhhhhhhhhhhh",
 			"channelName" : "kids",
-			"channelUrl" : "hhhhhhhhhhhhhhhhh"	
+			"channelUrl" : "hhhhhhhhhhhhhhhhh"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		},
 		{
 			"channelImg" : "hhhhhhhhhhhhhhhhh",
 			"channelName" : "kids",
-			"channelUrl" : "hhhhhhhhhhhhhhhhh"	
+			"channelUrl" : "hhhhhhhhhhhhhhhhh"	,
+			"lives" : [
+				"https://web24iptv.online/player/phpar/fas2m.php",
+				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 		}
 	]
 	
