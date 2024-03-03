@@ -685,16 +685,20 @@
       "channelName": "beIN SPORTS 4",
       "webview": "",
       "live": [
-        {
+          {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd11.php"
+          "matchUrl": "https://live13.yalla-shoot-tv.biz/chtv/ch2.php"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd4.php"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd11.php"
         },
         {
           "title": "Live 3",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd4.php"
+        },
+        {
+          "title": "Live 4",
           "matchUrl": "https://sportsonline.si/channels/pt/eleven2.php"
         }
       ]
