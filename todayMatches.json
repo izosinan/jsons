@@ -124,14 +124,14 @@
       "team2Name": "الملعب التونسي",
       "time": "5:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري التونسي الرابطة المحترفة الأولى",
       "channelName": "Unknown",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=watania1"
+          "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=watania2"
         },
         {
           "title": "Live 2",
