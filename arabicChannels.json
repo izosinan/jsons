@@ -75,30 +75,67 @@
 	],
 	"algeria" : [
 		{
-			"channelImg" : "hhhh",
-			"channelName" : "hhhh",
-			"channelUrl" : "hhhhh"	,
+			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerietv-en-direct.jpg",
+			"channelName" : "Algerie 1",
 			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
+				"https://azrotv.com/local/vlc/?id=Algi1",
+				"https://azrotv.com/local/vlc/?id=Algi1"
 			]
 		},
 		{
-			"channelImg" : "hhhhhhhhhh",
-			"channelName" : "hhhhhhhhhh",
-			"channelUrl" : "hhhhhhhhhh"	,
+			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/algeria2.jpg",
+			"channelName" : "Algerie 2",
 			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
+				"https://www.azrotv.com/pyr/?id=https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8",
+				"https://www.azrotv.com/pyr/?id=https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8"
 			]
 		},
 		{
-			"channelImg" : "hhhhhhhhhh",
-			"channelName" : "hhhhhhhhhh",
-			"channelUrl" : "hhhhhhhhhh"	,
+			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie3-Live.jpg",
+			"channelName" : "Algerie 3",
 			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
+				"https://azrotv.com/local/vlc/?id=Algi3",
+				"https://azrotv.com/local/vlc/?id=Algi3"
+			]
+		},
+		{
+			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie4.jpg",
+			"channelName" : "Algerie 4",
+			"lives" : [
+				"https://azrotv.com/local/vlc/?id=Algi4",
+				"https://azrotv.com/local/vlc/?id=Algi4"
+			]
+		},
+		{
+			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie5.jpg",
+			"channelName" : "Algerie 5",
+			"lives" : [
+				"https://azrotv.com/local/vlc/?id=Algi5",
+				"https://azrotv.com/local/vlc/?id=Algi5"
+			]
+		},
+		{
+			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/algerie6.jpg",
+			"channelName" : "Algerie 6",
+			"lives" : [
+				"https://azrotv.com/local/vlc/?id=Algi6",
+				"https://azrotv.com/local/vlc/?id=Algi6"
+			]
+		},
+		{
+			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/el-maarifatv.jpg",
+			"channelName" : "Algerie 7",
+			"lives" : [
+				"https://azrotv.com/local/vlc/?id=Algi7",
+				"https://azrotv.com/local/vlc/?id=Algi7"
+			]
+		},
+		{
+			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Alwatan-live.jpg",
+			"channelName" : "El Heddaf TV",
+			"lives" : [
+				"https://www.azrotv.com/pyr/?id=http://silvertv.net:1997/live/MehdiOIHAdAGAdir/H6ddKRJqjg/4983.ts",
+				"https://www.azrotv.com/pyr/?id=http://silvertv.net:1997/live/MehdiOIHAdAGAdir/H6ddKRJqjg/4983.ts"
 			]
 		}
 	],
