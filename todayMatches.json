@@ -170,7 +170,7 @@
       "team2Name": "سموحة",
       "time": "6:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 1",
       "webview": "",
@@ -194,7 +194,7 @@
       "team2Name": "الوداد الرياضي",
       "time": "6:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري المغربي البطولة الإحترافية",
       "channelName": "المغربية الرياضية",
       "webview": "",
@@ -218,35 +218,19 @@
       "team2Name": "شباب بلوزداد",
       "time": "6:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "كأس الجزائر",
       "channelName": "Unknown",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=elheddaf"
+          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie6"
         },
         {
           "title": "Live 2",
           "matchUrl":
-              "https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algeria3"
-        },
-        {
-          "title": "Live 5",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie4"
-        },
-        {
-          "title": "Live 6",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie5"
+              "https://www.elahmad.com/tv/algeria_live.php?id=algerie6"
         }
       ]
     },
