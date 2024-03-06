@@ -107,32 +107,6 @@
       },
       {
         "team1Img":
-            "https://images.elbotola.com/stats/logos/965mkyh7zngr1ge.png",
-        "team2Img":
-            "https://images.elbotola.com/stats/logos/zp5rzghjy41q82w.png",
-        "team1Name": "الزوراء",
-        "team2Name": "الطلبة",
-        "time": "3:00 PM",
-        "gmt": "GMT+1",
-        "color": 2,
-        "leagueName": "الدوري العراقي نجوم",
-        "channelName": "Unknown",
-        "webview": "",
-        "live": [
-          {
-            "title": "Live 1",
-            "matchUrl":
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
-          },
-          {
-            "title": "Live 2",
-            "matchUrl":
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
-          }
-        ]
-      },
-      {
-        "team1Img":
             "https://images.elbotola.com/stats/logos/j1l4rjnh7npm7vx.png",
         "team2Img":
             "https://images.elbotola.com/stats/logos/1l4rjnh6e1vm7vx.png",
@@ -200,6 +174,32 @@
           {
             "title": "Live 2",
             "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=watania2"
+          }
+        ]
+      },
+      {
+        "team1Img":
+            "https://images.elbotola.com/stats/logos/965mkyh7zngr1ge.png",
+        "team2Img":
+            "https://images.elbotola.com/stats/logos/zp5rzghjy41q82w.png",
+        "team1Name": "الزوراء",
+        "team2Name": "الطلبة",
+        "time": "5:30 PM",
+        "gmt": "GMT+1",
+        "color": 1,
+        "leagueName": "الدوري العراقي نجوم",
+        "channelName": "Unknown",
+        "webview": "",
+        "live": [
+          {
+            "title": "Live 1",
+            "matchUrl":
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
+          },
+          {
+            "title": "Live 2",
+            "matchUrl":
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
           }
         ]
       },
