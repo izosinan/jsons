@@ -232,27 +232,28 @@
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/y0or5jhln8nqwzv.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/6ypq3nh00jkmd7o.png",
-      "team1Name": "عجمان",
-      "team2Name": "بني ياس",
-      "time": "5:15 PM",
-      "gmt": "GMT+1",
-      "color": 1,
-      "leagueName": "الدوري الإماراتي",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
-        }
-      ]
+  "team1Img": "https://images.elbotola.com/stats/logos/y0or5jhln8nqwzv.png",
+  "team2Img": "https://images.elbotola.com/stats/logos/6ypq3nh00jkmd7o.png",
+  "team1Name": "عجمان",
+  "team2Name": "بني ياس",
+  "time": "5:15 PM",
+  "gmt": "GMT+1",
+  "color": 1,
+  "leagueName": "الدوري الإماراتي",
+  "channelName": "Unknown",
+  "webview": "",
+  "live": [
+    {
+      "title": "Live 1",
+      "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"
     },
+    {
+      "title": "Live 2",
+      "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
+    }
+  ]
+}
+,
     {
       "team1Img": "https://images.elbotola.com/stats/logos/9vjxm8ghyv3r6od.png",
       "team2Img": "https://images.elbotola.com/stats/logos/y39mp1h3dl6mojx.png",
