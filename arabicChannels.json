@@ -2,88 +2,83 @@
 	"morocco" : [
 		{
 			"channelImg" : "https://iconape.com/wp-content/files/gr/20316/png/2m-01.png",
-			"channelName" : "قناة دوزيم",
+			"channelName" : "2M TV",
 			"lives" : [
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				],
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				]
 			]	
 		},{
 			"channelImg" : "https://howiyapress.com/wp-content/uploads/2024/01/inbound6519609482613060480.png",
-			"channelName" : "قناة المغربية",
-			"channelUrl" : "https://vidtube.pro/embed-iiia7dxgm2ia.html",
+			"channelName" : "Al Maghribia",
 			"lives" : [
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				],
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				]
 				
 			]	
 		},{
 			"channelImg" : "https://www.dreamboxgate.com/imgcache/2019/508238_dreambox-sat.com.jpg",
-			"channelName" : "قناة الثقافية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fasalthqafya.php",
+			"channelName" : "Athaqafia",
 			"lives" : [
 				
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				],
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				]
 			]	
 		},{
 			"channelImg" : "https://www.elahmad.com/tv/mobiletv/images/assadissa.jpg?v=6",
-			"channelName" : "قناة السادسة",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fasasadisa.php"	,
+			"channelName" : "Assadissa HD",
 			"lives" : [
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				],
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				]
 				
 			]
 		},{
 			"channelImg" : "https://www.rekrute.com/rekrute/file/jobOfferLogo/jobOfferId/43312",
-			"channelName" : "Medi1",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fasmedi1.php"	,
+			"channelName" : "Medi1 TV",
 			"lives" : [
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w558331930_b328000_DVR_slar.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				],
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w558331930_b328000_DVR_slar.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				]
 				
 			]
 		},{
 			"channelImg" : "https://web24iptv.online/img/menu/fas/fassport.webp",
-			"channelName" : "الرياضية المغربية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fassport.php"	,
+			"channelName" : "Arryadia",
 			"lives" : [
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				],
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				]
 				
@@ -94,40 +89,38 @@
 			"channelUrl" : "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false"	,
 			"lives" : [
 				[
-					"https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false",
+					"https://playback.akamaized.net/streams/27130247_9197096_lsi0mhm223d861l0l8f_1/media/27130247_9197096_lsi0mhm223d861l0l8f_1@2756000p.m3u8?dw=14400&ts=1710140400&hdnts=exp=1710313806~acl=/streams/27130247_9197096_lsi0mhm223d861l0l8f_1/media*~hmac=399f19053ff45d99b6c00207f4f870fe651855554408a00af19d7aa4e0168ace",
 					"https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false"
 				],
 				[
-					"https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false",
+					"https://playback.akamaized.net/streams/27130247_9197096_lsi0mhm223d861l0l8f_1/media/27130247_9197096_lsi0mhm223d861l0l8f_1@2756000p.m3u8?dw=80&ts=1710140400&hdnts=exp=1710314020~acl=/streams/27130247_9197096_lsi0mhm223d861l0l8f_1/media*~hmac=59468db8baf6ed221fc979fb64fdbce2fb08cc5f3d7ad0952b1f46f764565d3c",
 					"https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false"
 				]
 			]	
 		},{
 			"channelImg" : "https://www.haca.ma/sites/default/files/upload/images/tamazight.png",
-			"channelName" : "قناة تمازيغت",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fastmazig.php"	,
+			"channelName" : "Tamazight TV",
 			"lives" : [
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				],
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				]
 				
 			]
 		},{
 			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/e/e4/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_Al_Aoula_Tv_Logo.png",
-			"channelName" : "الاولى المغربية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/fasaloula.php"	,
+			"channelName" : "Al Aoula",
 			"lives" : [
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				],
 				[
-					"https://web24iptv.online/player/phpar/fas2m.php",
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
 					"https://web24iptv.online/player/phpar/fas2m.php"
 				]
 			]
@@ -138,7 +131,7 @@
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerietv-en-direct.jpg",
 			"channelName" : "Algerie 1",
 			"lives" : [
-				"https://azrotv.com/local/vlc/?id=Algi1",
+				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_1/tracks-v1a1/mono.m3u8?token=ed908570c6ff193ba41bc3ec35608f572449373c-f994815cfa8ef2b4120ce889808615ea-1710181180-1710170380",
 				"https://azrotv.com/local/vlc/?id=Algi1"
 			]
 		},
@@ -146,7 +139,7 @@
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/algeria2.jpg",
 			"channelName" : "Algerie 2",
 			"lives" : [
-				"https://www.azrotv.com/pyr/?id=https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8",
+				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_2/tracks-v1a1/mono.m3u8?token=ef1b96aaba380da742bfe2c39ca14efc5dec4db8-7891e4c5bdb9bd7af22e757a8e045319-1710181481-1710170681",
 				"https://www.azrotv.com/pyr/?id=https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8"
 			]
 		},
@@ -154,78 +147,131 @@
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie3-Live.jpg",
 			"channelName" : "Algerie 3",
 			"lives" : [
-				"https://azrotv.com/local/vlc/?id=Algi3",
+				[
+				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_3/tracks-v1a1/mono.m3u8?token=5fefd207b4a12a43fcbf4cc15b8e1808da38b516-ab8c89dc8f9a17f55d5d2cbdcd440ef7-1710181655-1710170855",
 				"https://azrotv.com/local/vlc/?id=Algi3"
+				]
 			]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie4.jpg",
 			"channelName" : "Algerie 4",
-			"lives" : [
-				"https://azrotv.com/local/vlc/?id=Algi4",
+			"lives" : [[
+				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_4/index.m3u8?token=1cfa3f31f30179e05285f2c196c985872545381f-06ff976cef2f4e07e8775c5608278af3-1710181711-1710170911",
 				"https://azrotv.com/local/vlc/?id=Algi4"
-			]
+			]]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie5.jpg",
 			"channelName" : "Algerie 5",
-			"lives" : [
-				"https://azrotv.com/local/vlc/?id=Algi5",
+			"lives" : [[
+				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_5/tracks-v1a1/mono.m3u8?token=f7e641ca1c5aae879645f705c7ae42624b214b64-8a8854bf7176ca2cf3e0cc0659780611-1710181752-1710170952",
 				"https://azrotv.com/local/vlc/?id=Algi5"
-			]
+			]]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/algerie6.jpg",
 			"channelName" : "Algerie 6",
-			"lives" : [
-				"https://azrotv.com/local/vlc/?id=Algi6",
+			"lives" : [[
+				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_6/tracks-v1a1/mono.m3u8?token=b56030f24037fd97bec413b6eaba613728f7b7f8-9ab7957dd2bbaafe5b1f15d912f57e54-1710181823-1710171023",
 				"https://azrotv.com/local/vlc/?id=Algi6"
-			]
+			]]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/el-maarifatv.jpg",
 			"channelName" : "Algerie 7",
-			"lives" : [
-				"https://azrotv.com/local/vlc/?id=Algi7",
-				"https://azrotv.com/local/vlc/?id=Algi7"
-			]
+			"lives" : [[
+				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_7/tracks-v1a1/mono.m3u8?token=a0488bbbcbb93f830cf5bfa8efe9eec984750fd7-a175edbce2c200c3f3911b048f0fd5d7-1710181870-1710171070",
+				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_8/tracks-v1a1/mono.m3u8?token=978d5db54bd98e00b55b653f13a198751c9639ee-56b51178204fe43c44f9f3e0aeb8d3da-1710181910-1710171110"
+			]]
+		},
+		{
+			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/el-maarifatv.jpg",
+			"channelName" : "Algerie 8",
+			"lives" : [[
+				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_8/tracks-v1a1/mono.m3u8?token=978d5db54bd98e00b55b653f13a198751c9639ee-56b51178204fe43c44f9f3e0aeb8d3da-1710181910-1710171110",
+				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_8/tracks-v1a1/mono.m3u8?token=978d5db54bd98e00b55b653f13a198751c9639ee-56b51178204fe43c44f9f3e0aeb8d3da-1710181910-1710171110"
+			]]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Alwatan-live.jpg",
 			"channelName" : "El Heddaf TV",
-			"lives" : [
-				"https://www.azrotv.com/pyr/?id=http://silvertv.net:1997/live/MehdiOIHAdAGAdir/H6ddKRJqjg/4983.ts",
+			"lives" : [[
+				"https://cdn1.ipslow.com/tv526_www.elahmad.com_elheddaf/tracks-v1a1/mono.m3u8?token=dbdfb1d64c5ba03eb7261c6f7cffea88ee0e049b-cffb8530b3a5bb0165bbce27a1bba34a-1710181961-1710171161",
 				"https://www.azrotv.com/pyr/?id=http://silvertv.net:1997/live/MehdiOIHAdAGAdir/H6ddKRJqjg/4983.ts"
-			]
+			]]
 		}
 	],
 	"tunisia" : [
 		{
-			"channelImg" : " ",
-			"channelName" : "",
-			"channelUrl" : ""	,
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/150px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png",
+			"channelName" : "El Watania 1",
 			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+				[
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+					"https://web24iptv.online/player/phpar/fas2m.php"
+				],
+				[
+					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+					"https://web24iptv.online/player/phpar/fas2m.php"
+				]
+			]	
 		},
 		{
-			"channelImg" : "",
-			"channelName" : "",
-			"channelUrl" : ""	,
+			"channelImg" : "http://www.elahmad.com/tv/mobiletv/images/watania2.jpg?v=6",
+			"channelName" : "El Watania 2",
 			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+				[
+					"https://tv.ipslow.com/tv526_www.elahmad.com_watania2/tracks-v1a1/mono.m3u8?token=a83623f7b74ebcde9e61bdb2a55a04c20a61061c-f02bd37c6afd6db35cf8b6212e0d98ee-1710183530-1710172730",
+					"https://web24iptv.online/player/phpar/fas2m.php"
+				],
+				[
+					"https://tv.ipslow.com/tv526_www.elahmad.com_watania2/tracks-v1a1/mono.m3u8?token=a83623f7b74ebcde9e61bdb2a55a04c20a61061c-f02bd37c6afd6db35cf8b6212e0d98ee-1710183530-1710172730",
+					"https://web24iptv.online/player/phpar/fas2m.php"
+				]
+			]	
 		},
 		{
-			"channelImg" : "",
-			"channelName" : "",
-			"channelUrl" : ""	,
+			"channelImg" : "https://tunisia.mom-gmr.org/uploads/_processed_/5/2/csm_136_fa499b8db4.jpg",
+			"channelName" : "Nessma",
 			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+				[
+					"https://cdn1.ipslow.com/tv526_www.elahmad.com_nessma/tracks-v1a1/mono.m3u8?token=8870dc3170e705ce2c253458ffc09219ff51efbd-0e8a3428e306258ffe4ccf836c375f25-1710183287-1710172487",
+					"https://web24iptv.online/player/phpar/fas2m.php"
+				],
+				[
+					"https://cdn1.ipslow.com/tv526_www.elahmad.com_nessma/tracks-v1a1/mono.m3u8?token=8870dc3170e705ce2c253458ffc09219ff51efbd-0e8a3428e306258ffe4ccf836c375f25-1710183287-1710172487",
+					"https://web24iptv.online/player/phpar/fas2m.php"
+				]
+			]	
+		},
+		{
+			"channelImg" : "http://www.elahmad.com/tv/mobiletv/images/hannibal.jpg?v=6",
+			"channelName" : "Hannibal TV",
+			"lives" : [
+				[
+					"https://cdn1.ipslow.com/tv526_www.elahmad.com_hannibal/tracks-v1a1/mono.m3u8?token=94914c1616d08ba50e77df9ec359ae7b2a92d112-a36ab278081c0520a4afb95085456b4b-1710183571-1710172771",
+					"https://web24iptv.online/player/phpar/fas2m.php"
+				],
+				[
+					"https://cdn1.ipslow.com/tv526_www.elahmad.com_hannibal/tracks-v1a1/mono.m3u8?token=94914c1616d08ba50e77df9ec359ae7b2a92d112-a36ab278081c0520a4afb95085456b4b-1710183571-1710172771",
+					"https://web24iptv.online/player/phpar/fas2m.php"
+				]
+			]	
+		},
+		{
+			"channelImg" : "http://www.elahmad.com/tv/mobiletv/images/elhiwar_ettounsi.jpg?v=6",
+			"channelName" : "El Hiwar Ettounsi",
+			"lives" : [
+				[
+					"https://cdn1.ipslow.com/tv526_www.elahmad.com_elhiwar_ettounsi/tracks-v1a1/mono.m3u8?token=c722f4ef4d3cc1a37c75fc2a7c2df2e6d75d1616-0de4dc14aef833a6e2ee5682c428763d-1710183653-1710172853",
+					"https://web24iptv.online/player/phpar/fas2m.php"
+				],
+				[
+					"https://cdn1.ipslow.com/tv526_www.elahmad.com_elhiwar_ettounsi/tracks-v1a1/mono.m3u8?token=c722f4ef4d3cc1a37c75fc2a7c2df2e6d75d1616-0de4dc14aef833a6e2ee5682c428763d-1710183653-1710172853",
+					"https://web24iptv.online/player/phpar/fas2m.php"
+				]
+			]	
 		}
 	],"libya" : [
 		{
@@ -233,8 +279,10 @@
 			"channelName" : "",
 			"channelUrl" : ""	,
 			"lives" : [
+			[
 				"https://web24iptv.online/player/phpar/fas2m.php",
 				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 			]
 		},
 		{
@@ -242,8 +290,10 @@
 			"channelName" : "",
 			"channelUrl" : ""	,
 			"lives" : [
+			[
 				"https://web24iptv.online/player/phpar/fas2m.php",
 				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 			]
 		},
 		{
@@ -251,8 +301,10 @@
 			"channelName" : "",
 			"channelUrl" : ""	,
 			"lives" : [
+			[
 				"https://web24iptv.online/player/phpar/fas2m.php",
 				"https://web24iptv.online/player/phpar/fas2m.php"
+			]
 			]
 		}
 	],
