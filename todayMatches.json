@@ -543,22 +543,10 @@
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie"
+              "https://www.elahmad.com/tv/algeria_live.php?id=algerie6"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algeria3"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie5"
-        },
-        {
-          "title": "Live 5",
           "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie6"
         }
       ]
@@ -578,23 +566,11 @@
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie"
+              "https://www.youtube.com/embed/w0PL55dorD4?si=-ACjHuADXIgMvetZ"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algeria3"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie5"
-        },
-        {
-          "title": "Live 5",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie6"
+          "matchUrl": "https://www.youtube.com/embed/w0PL55dorD4?si=-ACjHuADXIgMvetZ"
         }
       ]
     },
