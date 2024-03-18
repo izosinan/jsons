@@ -22,6 +22,22 @@
       ]
     },
     {
+      "team1Img": "https://images.elbotola.com/stats/logos/9vjxm8ghdgkr6od.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/p3glrw7h86zqdyj.png",
+      "team1Name": "ريزه سبور",
+      "team2Name": "غازي عنتاب",
+      "time": "3 - 1",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "الدوري التركي الممتاز",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd9.php"
+        },
+    {
       "team1Img": "https://images.elbotola.com/stats/logos/kjw2r09hv63rz84.png",
       "team2Img": "https://images.elbotola.com/stats/logos/kjw2r09hv3zrz84.png",
       "team1Name": "فولندام",
@@ -1029,22 +1045,7 @@
         }
       ]
     },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/9vjxm8ghdgkr6od.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/p3glrw7h86zqdyj.png",
-      "team1Name": "ريزه سبور",
-      "team2Name": "غازي عنتاب",
-      "time": "11:30 PM",
-      "gmt": "GMT+1",
-      "color": 2,
-      "leagueName": "الدوري التركي الممتاز",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd9.php"
-        },
+    
         {
           "title": "Live 2",
           "matchUrl": "https://sportsonline.si/channels/hd/hd9.php"
