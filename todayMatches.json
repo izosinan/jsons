@@ -49,9 +49,9 @@
       "team2Img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/CRBlouizdad-star.png",
       "team1Name": "نجم مقرة",
       "team2Name": "شباب بلوزداد",
-      "time": "3:30 PM",
-      "gmt": "GMT+1",
-      "color": 1,
+      "time": "0 - 0",
+      "gmt": "",
+      "color": 3,
       "leagueName": "الدوري الجزائري الدرجة الأولى",
       "channelName": "Unknown",
       "webview": "",
@@ -184,7 +184,7 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie"
+          "matchUrl": "https://www.youtube.com/embed/zEK7hohI4QE?si=bo0QNfG1-Rb_gYVl"
         },
         {
           "title": "Live 3",
