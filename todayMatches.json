@@ -95,7 +95,7 @@
       "team2Name": "مولودية الجزائر",
       "time": "3:30 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الجزائري الدرجة الأولى",
       "channelName": "Unknown",
       "webview": "",
@@ -106,7 +106,7 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie"
+          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie6"
         },
         {
           "title": "Live 3",
@@ -118,7 +118,7 @@
         },
         {
           "title": "Live 5",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie6"
+          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie"
         }
       ]
 },
