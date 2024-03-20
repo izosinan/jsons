@@ -88,6 +88,40 @@
         }
       ]
 },
+	{
+      "team1Img": "https://upload.wikimedia.org/wikipedia/commons/a/ae/ES_Ben_Aknoun_logo.png",
+      "team2Img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Logo_MCA_1921.png/180px-Logo_MCA_1921.png",
+      "team1Name": "نجم بن عكنون",
+      "team2Name": "مولودية الجزائر",
+      "time": "3:30 PM",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "الدوري الجزائري الدرجة الأولى",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://live14.yalla-shoot-tv.biz/chtv/ch1.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie4"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie5"
+        },
+        {
+          "title": "Live 5",
+          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=algerie6"
+        }
+      ]
+},
 {
       "team1Img": "https://static.flashscore.com/res/image/data/46mySJyB-n1aOiT0J.png",
       "team2Img": "https://static.flashscore.com/res/image/data/GSQZijHG-GQt64pVA.png",
