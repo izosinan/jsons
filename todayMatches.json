@@ -406,12 +406,12 @@
 {
       "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/H23oIEP6qK-zNc3O8abnIA_96x96.png",
       "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/39h2zY5CckedxQa6QZpspA_96x96.png",
-      "team1Name": "Canada",
-      "team2Name": "Trinidad and Tobago",
+      "team1Name": "كندا",
+      "team2Name": "ترينداد وتوباغو",
       "time": "9:00 PM",
       "gmt": "GMT+1",
       "color": 1,
-      "leagueName": "Concacaf Nations League",
+      "leagueName": "دوري أمم الكونكاكاف",
       "channelName": "Unknown",
       "webview": "",
       "live": [
@@ -450,8 +450,8 @@
 {
       "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/TKitIqelDyN6M-kYt4Uc0g_96x96.png",
       "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/YjLHUeUkgTpiB87kChIVOQ_96x96.png",
-      "team1Name": "Espanyol",
-      "team2Name": "Tenerife",
+      "team1Name": "إسبانيول",
+      "team2Name": "تينيريفي",
       "time": "9:00 PM",
       "gmt": "GMT+1",
       "color": 1,
