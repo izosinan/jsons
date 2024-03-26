@@ -617,11 +617,11 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd10.php"
+          "matchUrl": "https://sportsonline.si/channels/pt/sporttv5.php"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://sportsonline.si/channels/pt/sporttv5.php"
+          "matchUrl": "https://sportsonline.si/channels/hd/hd10.php"
         }
       ]
 },
@@ -788,9 +788,9 @@
       "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/cI5rCchv6SjDgZ5NuEaMMQ_48x48.png",
       "team1Name": "فرنسا",
       "team2Name": "تشيلي",
-      "time": "9:00 PM",
-      "gmt": "GMT+1",
-      "color": 2,
+      "time": "3 - 2",
+      "gmt": "",
+      "color": 3,
       "leagueName": "وديات منتخبات",
       "channelName": "beIN SPORTS 4",
       "webview": "",
