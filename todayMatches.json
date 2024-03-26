@@ -96,16 +96,16 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "تصفيات كأس العالم آسيا",
-      "channelName": "Unknown",
+      "channelName": "الكاس 2",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://www.elahmad.com/tv/alkass_hd.php?id=one"
+          "matchUrl": "https://www.elahmad.com/tv/alkass_hd.php?id=2"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/alkass_hd.php?id=one"
+          "matchUrl": "https://www.elahmad.com/tv/alkass_hd.php?id=2"
         }
       ]
 },
@@ -294,6 +294,50 @@
       ]
 },
 {
+      "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/lYah1Uqw37XdicC6C4HNqg_48x48.png",
+      "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/QoAJxO46fHid3_T-7nRZ0Q_48x48.png",
+      "team1Name": "مصر",
+      "team2Name": "السعودية",
+      "time": "6:00 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "بطولة غرب آسيا تحت 23 سنة",
+      "channelName": "SSC Extra HD2",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://www.ipslow.com/tv/canal.php?id=ssc_extra2"
+        }
+      ]
+},
+{
+      "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/v_vORXEGt13cTEb-zw7yWA_48x48.png",
+      "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_48x48.png",
+      "team1Name": "الإمارات",
+      "team2Name": "تايلاند",
+      "time": "6:00 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "بطولة غرب آسيا تحت 23 سنة",
+      "channelName": "SSC Extra HD3",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dubaisport3"
+        }
+      ]
+},
+{
       "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/h1FhPLmDg9AHXzhygqvVPg_48x48.png",
       "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/AONx81jBfBSTySXu3HAw3w_48x48.png",
       "team1Name": "Germany U21",
@@ -346,7 +390,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "وديات منتخبات",
-      "channelName": "Unknown",
+      "channelName": "beIN SPORTS 9",
       "webview": "",
       "live": [
         {
@@ -478,7 +522,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "وديات منتخبات",
-      "channelName": "Unknown",
+      "channelName": "beIN SPORTS 5",
       "webview": "",
       "live": [
         {
@@ -508,12 +552,12 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "وديات منتخبات",
-      "channelName": "Unknown",
+      "channelName": "beIN SPORTS XTRA 1",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd2.php"
+          "matchUrl": "https://live14.yalla-shoot-tv.biz/chtv/ch2.php"
         },
         {
           "title": "Live 2",
@@ -538,12 +582,12 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "وديات منتخبات",
-      "channelName": "Unknown",
+      "channelName": "beIN SPORTS 6",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd3.php"
+          "matchUrl": "https://live14.yalla-shoot-tv.biz/chtv/ch3.php"
         },
         {
           "title": "Live 2",
@@ -568,7 +612,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "تصفيات أمم أوروبا",
-      "channelName": "Unknown",
+      "channelName": "beIN SPORTS 1",
       "webview": "",
       "live": [
         {
@@ -590,7 +634,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "وديات منتخبات",
-      "channelName": "Unknown",
+      "channelName": "beIN SPORTS EN2",
       "webview": "",
       "live": [
         {
@@ -612,7 +656,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "وديات منتخبات",
-      "channelName": "Unknown",
+      "channelName": "beIN SPORTS XTRA 2",
       "webview": "",
       "live": [
         {
@@ -634,7 +678,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "تصفيات أمم أوروبا",
-      "channelName": "Unknown",
+      "channelName": "beIN SPORTS 3",
       "webview": "",
       "live": [
         {
@@ -670,6 +714,76 @@
       ]
 },
 {
+      "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/lYah1Uqw37XdicC6C4HNqg_96x96.png",
+      "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_96x96.png",
+      "team1Name": "مصر",
+      "team2Name": "كرواتيا",
+      "time": "9:00 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "وديات منتخبات",
+      "channelName": "أون تايم سبورت 1",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
+        }
+      ]
+},
+{
+      "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/S5ivsscrfCG1mgqceKMPlQ_48x48.png",
+      "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/9swSmw5NICcCYIQ8FERjhw_48x48.png",
+      "team1Name": "العراق",
+      "team2Name": "الأردن",
+      "time": "9:00 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "بطولة غرب آسيا تحت 23 سنة",
+      "channelName": "SSC Extra HD3",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.elahmad.com/tv/watchtv.php?id=saudi_sport"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra3"
+        }
+      ]
+},
+{
+      "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/jSgw5z0EPOLzdUi-Aomq7Q_48x48.png",
+      "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/Uu5pwNmMHGd5bCooKrS3Lw_48x48.png",
+      "team1Name": "أستراليا",
+      "team2Name": "كوريا الجنوبية",
+      "time": "9:00 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "بطولة غرب آسيا تحت 23 سنة",
+      "channelName": "SSC Extra HD2",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.ipslow.com/tv/canal.php?id=ssc_extra2"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://www.elahmad.com/tv/watchtv.php?id=saudi_sport"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl": "URL"
+        }
+      ]
+}
+{
       "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_48x48.png",
       "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/cI5rCchv6SjDgZ5NuEaMMQ_48x48.png",
       "team1Name": "فرنسا",
@@ -678,12 +792,12 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "وديات منتخبات",
-      "channelName": "Unknown",
+      "channelName": "beIN SPORTS 4",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd8.php"
+          "matchUrl": "https://live14.yalla-shoot-tv.biz/chtv/ch5.php"
         },
         {
           "title": "Live 2",
@@ -697,7 +811,6 @@
           "title": "Live 4",
           "matchUrl": "https://sportsonline.si/channels/bra/br2.php"
         }
-      ]
 },
 {
       "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/5hLkf7KFHhmpaiOJQv8LmA_48x48.png",
@@ -708,12 +821,12 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "وديات منتخبات",
-      "channelName": "Unknown",
+      "channelName": "beIN SPORTS 2",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd9.php"
+          "matchUrl": "https://live14.yalla-shoot-tv.biz/chtv/ch6.php"
         },
         {
           "title": "Live 2",
@@ -742,16 +855,12 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "وديات منتخبات",
-      "channelName": "Unknown",
+      "channelName": "الجزائرية 6",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl": "https://live14.yalla-shoot-tv.biz/chtv/ch7.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie"
         },
         {
           "title": "Live 3",
@@ -768,7 +877,7 @@
       "gmt": "GMT+1",
       "color": 1,
       "leagueName": "وديات منتخبات",
-      "channelName": "Unknown",
+      "channelName": "Arryadia",
       "webview": "",
       "live": [
         {
@@ -843,7 +952,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd5.php"
+          "matchUrl": "https://live14.yalla-shoot-tv.biz/chtv/ch2.php"
         },
         {
           "title": "Live 2",
@@ -863,7 +972,4 @@
         }
       ]
 }
-
-
-
 ]
