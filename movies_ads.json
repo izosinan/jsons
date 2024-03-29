@@ -11,5 +11,7 @@
   "twiterUrl" : "",
   "youtubeUrl" : "https://www.youtube.com/channel/UCBfojxBJtqbWbb1BxehOREw",
   "showTik" : 0,
-  "tiktokUrl" : ""
+  "tiktokUrl" : "",
+  "showTeleg" : 1,
+  "telegramUrl" : "https://www.facebook.com/koragoal20"
 }
