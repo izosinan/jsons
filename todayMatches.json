@@ -311,6 +311,28 @@
         }
       ]
     },
+  {
+      "team1Img": "https://images.elbotola.com/stats/logos/2y8m4zhjwx4ql07.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/yl5ergph9lvr8k0.png",
+      "team1Name": "ريفرز يونايتد",
+      "team2Name": "إتحاد الجزائر",
+      "time": "2:00 PM",
+      "gmt": "GMT+1",
+      "color": 2,
+      "leagueName": "كأس الكونفدرالية الأفريقية",
+      "channelName": "beIN SPORTS 6",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch4.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch4.php"
+        }
+      ]
+    },
     {
       "team1Img": "https://images.elbotola.com/stats/logos/vl7oqdehzvnr510.png",
       "team2Img": "https://images.elbotola.com/stats/logos/yl5ergphj74r8k0.png",
@@ -496,28 +518,6 @@
         {
           "title": "Live 4",
           "matchUrl": "https://sportsonline.si/channels/bra/br1.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/2y8m4zhjwx4ql07.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/yl5ergph9lvr8k0.png",
-      "team1Name": "ريفرز يونايتد",
-      "team2Name": "إتحاد الجزائر",
-      "time": "5:00 PM",
-      "gmt": "GMT+1",
-      "color": 1,
-      "leagueName": "كأس الكونفدرالية الأفريقية",
-      "channelName": "beIN SPORTS 6",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch4.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch4.php"
         }
       ]
     },
