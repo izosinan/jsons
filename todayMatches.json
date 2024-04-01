@@ -289,7 +289,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd7.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch1.php"
         },
         {
           "title": "Live 2",
@@ -459,7 +459,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd2.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch1.php"
         },
         {
           "title": "Live 2",
@@ -544,6 +544,10 @@
         },
         {
           "title": "Live 2",
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch3.php"
+        },
+        {
+          "title": "Live 3",
           "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
         }
       ]
@@ -607,7 +611,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd5.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch2.php"
         },
         {
           "title": "Live 2",
