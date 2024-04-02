@@ -132,12 +132,16 @@
       "channelName": "beIN SPORTS 8",
       "webview": "",
       "live": [
-        {
+       {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd5.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch1.php"
         },
         {
           "title": "Live 2",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd5.php"
+        },
+        {
+          "title": "Live 3",
           "matchUrl": "https://sportsonline.si/channels/pt/eleven1.php"
         }
       ]
@@ -156,7 +160,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd2.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch2.php"
         },
         {
           "title": "Live 2",
@@ -212,7 +216,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd11.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch3.php"
         },
         {
           "title": "Live 2",
@@ -234,7 +238,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd10.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch4.php"
         },
         {
           "title": "Live 2",
@@ -256,7 +260,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd4.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch5.php"
         },
         {
           "title": "Live 2",
@@ -386,6 +390,10 @@
         },
         {
           "title": "Live 2",
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch6.php"
+        },
+        {
+          "title": "Live 3",
           "matchUrl": "https://sportsonline.si/channels/pt/sporttv5.php"
         }
       ]
@@ -404,7 +412,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd9.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch8.php"
         },
         {
           "title": "Live 2",
@@ -438,7 +446,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd1.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch9.php"
         },
         {
           "title": "Live 2",
