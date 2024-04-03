@@ -382,7 +382,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd2.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch1.php"
         },
         {
           "title": "Live 2",
@@ -410,12 +410,16 @@
       "channelName": "beIN SPORTS 8",
       "webview": "",
       "live": [
-        {
+            {
           "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch2.php"
         },
         {
           "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
+        },
+        {
+          "title": "Live 3",
           "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven3.php"
         }
       ]
@@ -488,7 +492,7 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch3.php"
         }
       ]
     },
@@ -528,16 +532,20 @@
       "channelName": "أبوظبي بريميوم 1",
       "webview": "",
       "live": [
-        {
+            {
           "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd7.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch4.php"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv2.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd7.php"
         },
         {
           "title": "Live 3",
+          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv2.php"
+        },
+        {
+          "title": "Live 4",
           "matchUrl": "https://v2.sportsonline.si/channels/bra/br6.php"
         }
       ]
@@ -554,12 +562,16 @@
       "channelName": "beIN SPORTS 4",
       "webview": "",
       "live": [
-        {
+          {
           "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd4.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch5.php"
         },
         {
           "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd4.php"
+        },
+        {
+          "title": "Live 3",
           "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv4.php"
         }
       ]
@@ -576,16 +588,20 @@
       "channelName": "beIN SPORTS 1",
       "webview": "",
       "live": [
-        {
+          {
           "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd1.php"
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch6.php"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven1.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd1.php"
         },
         {
           "title": "Live 3",
+          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven1.php"
+        },
+        {
+          "title": "Live 4",
           "matchUrl": "https://v2.sportsonline.si/channels/bra/br3.php"
         }
       ]
