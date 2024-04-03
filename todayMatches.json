@@ -187,9 +187,9 @@
           "https://ssl.gstatic.com/onebox/media/sports/logos/vwTaYpk8n3fNwFlvDcs3wQ_96x96.png",
       "team1Name": "بيرث غلوري",
       "team2Name": "سيدني",
-      "time": "11:15 AM",
-      "gmt": "GMT+1",
-      "color": 1,
+      "time": "1 - 1",
+      "gmt": "",
+      "color": 3,
       "leagueName": "الدوري الأسترالي الدرجة A",
       "channelName": "Unknown",
       "webview": "",
@@ -214,7 +214,7 @@
       "team2Name": "Virtus Entella",
       "time": "1:30 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "Serie C",
       "channelName": "Unknown",
       "webview": "",
@@ -237,7 +237,7 @@
       "team2Name": "فاتح كاراجومروك",
       "time": "3:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري التركي الممتاز",
       "channelName": "Unknown",
       "webview": "",
@@ -807,6 +807,36 @@
       ]
     },
 
+{
+      "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/dn0bMtTbbpx7v3Ieq6TZtQ_96x96.png",
+      "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/ahk7Sh_pHluBYjQ3AkMqqA_96x96.png",
+      "team1Name": "إنتر ميامي",
+      "team2Name": "مونتيري",
+      "time": "1:00 AM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "دوري أبطال الكونكاكاف",
+      "channelName": "SSC Sports HD1",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://live15.yalla-shoot-tv.biz/chtv/ch1.php"
+        },
+        {
+          "title": "Live 3",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd10.php"
+        }
+      ]
+},
     {
       "team1Img":
           "https://ssl.gstatic.com/onebox/media/sports/logos/cEY0fDx48kkZOPpbK_Bhsg_48x48.png",
@@ -963,6 +993,51 @@
         }
       ]
     },
+    
+{
+      "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/ihyO46MVvqfdD8I-v-0_VQ_96x96.png",
+      "team2Img": "https://static.flashscore.com/res/image/data/xdN63lKm-fe6Gn4eT.png",
+      "team1Name": "Motagua",
+      "team2Name": "Génesis",
+      "time": "2:30 AM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "Liga Nacional",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd9.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd9.php"
+        }
+      ]
+},
+{
+      "team1Img": "https://img.kooora.com/?i=ashrafzamrani%2Fherediano.jpg",
+      "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/6_YqNdUoLoI3s9-QrRvpig_96x96.png",
+      "team1Name": "سي اس هيريديانو",
+      "team2Name": "باتشوكا",
+      "time": "3:00 AM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "دوري أبطال الكونكاكاف",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd8.php"
+        }
+      ]
+},
     {
       "team1Img":
           "https://ssl.gstatic.com/onebox/media/sports/logos/qCw_WHnndLf6xUfOlwqcJQ_48x48.png",
