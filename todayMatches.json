@@ -490,9 +490,9 @@
       "team2Img": "https://images.elbotola.com/stats/logos/yl5ergphj44r8k0.png",
       "team1Name": "ميلوناريوس",
       "team2Name": "فلامنجو",
-      "time": "11:00 PM",
-      "gmt": "GMT+1",
-      "color": 2,
+      "time": "1 - 1",
+      "gmt": "",
+      "color": 3,
       "leagueName": "كوبا ليبرتادوريس",
       "channelName": "beIN SPORTS 2",
       "webview": "",
@@ -524,9 +524,9 @@
       "team2Img": "https://images.elbotola.com/stats/logos/l965mkyhxxxr1ge.png",
       "team1Name": "بيلغرانو",
       "team2Name": "إنترناسيونال",
-      "time": "11:00 PM",
-      "gmt": "GMT+1",
-      "color": 2,
+      "time": "0 - 0",
+      "gmt": "",
+      "color": 3,
       "leagueName": "كوبا سود أمريكانا",
       "channelName": "beIN SPORTS 5",
       "webview": "",
@@ -541,30 +541,7 @@
         }
       ]
     },
-    {
-      "team1Img":
-          "https://ssl.gstatic.com/onebox/media/sports/logos/IBLXsZ5cwR0GOtUheJm2Cw_96x96.png",
-      "team2Img":
-          "https://ssl.gstatic.com/onebox/media/sports/logos/TOy4xdFatfWxg_x05gvE0w_96x96.png",
-      "team1Name": "Columbus Crew",
-      "team2Name": "Tigres UANL",
-      "time": "12:00 AM",
-      "gmt": "GMT+1",
-      "color": 2,
-      "leagueName": "Concacaf Champions Cup",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd11.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://sportsonline.si/channels/hd/hd11.php"
-        }
-      ]
-    },
+    
     {
       "team1Img":
           "https://ssl.gstatic.com/onebox/media/sports/logos/n7PctzbrK3SsQvI81bU9DA_96x96.png",
@@ -666,6 +643,30 @@
         {
           "title": "Live 2",
           "matchUrl": "https://sportsonline.si/channels/bra/br2.php"
+        }
+      ]
+    },
+  {
+      "team1Img":
+          "https://ssl.gstatic.com/onebox/media/sports/logos/IBLXsZ5cwR0GOtUheJm2Cw_96x96.png",
+      "team2Img":
+          "https://ssl.gstatic.com/onebox/media/sports/logos/TOy4xdFatfWxg_x05gvE0w_96x96.png",
+      "team1Name": "Columbus Crew",
+      "team2Name": "Tigres UANL",
+      "time": "2:00 AM",
+      "gmt": "GMT+1",
+      "color": 2,
+      "leagueName": "Concacaf Champions Cup",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd11.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://sportsonline.si/channels/hd/hd11.php"
         }
       ]
     },
