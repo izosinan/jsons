@@ -215,8 +215,8 @@
       ]
     },
     {
-      "team1Img": "IMG",
-      "team2Img": "IMG",
+      "team1Img": "https://images.elbotola.com/stats/logos/p3glrw7hv0oqdyj.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/kdj2ryoh0ydq1zp.png",
       "team1Name": "روس كاونتى",
       "team2Name": "جلاسكو رينجرز",
       "time": "12:00 PM",
@@ -947,8 +947,8 @@
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/p3glrw7hv0oqdyj.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/kdj2ryoh0ydq1zp.png",
+      "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
+      "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
       "team1Name": "فاسكو دا غاما",
       "team2Name": "غريميو",
       "time": "8:00 PM",
