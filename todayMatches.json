@@ -102,9 +102,9 @@
           "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/25010",
       "team1Name": "اليابان",
       "team2Name": "الصين",
-      "time": "2:00 PM",
-      "gmt": "GMT+1",
-      "color": 2,
+      "time": "1 - 0",
+      "gmt": "",
+      "color": 3,
       "leagueName": "SSC Extra HD1",
       "channelName": "كأس آسيا تحت 23 سنة",
       "webview": "",
@@ -118,55 +118,6 @@
           "title": "Live 2",
           "matchUrl":
               "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1"
-        }
-      ]
-    },
-    {
-      "team1Img":
-          "https://ssl.gstatic.com/onebox/media/sports/logos/uuSfEroVsAlF4dtu3vAqew_96x96.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/dn1m1gh42g3moep.png",
-      "team1Name": "الجزيرة",
-      "team2Name": "خورفكان",
-      "time": "3:00 PM",
-      "gmt": "GMT+1",
-      "color": 2,
-      "leagueName": "الدوري الإماراتي",
-      "channelName": "أبوظبي الرياضية 1",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/y0or5jhln8nqwzv.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/965mkyh3699r1ge.png",
-      "team1Name": "عجمان",
-      "team2Name": "البطائح",
-      "time": "3:00 PM",
-      "gmt": "GMT+1",
-      "color": 2,
-      "leagueName": "الدوري الإماراتي",
-      "channelName": "أبوظبي الرياضية 2",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
         }
       ]
     },
@@ -245,43 +196,13 @@
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/4wyrn4h850yq86p.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/kdj2ryohw6wq1zp.png",
-      "team1Name": "العين",
-      "team2Name": "الهلال",
-      "time": "5:00 PM",
-      "gmt": "GMT+1",
-      "color": 1,
-      "leagueName": "دوري أبطال آسيا",
-      "channelName": "SSC Sports HD1",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://live17.yalla-shoot-tv.biz/chtv/ch1.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br6.php"
-        }
-      ]
-    },
-    {
       "team1Img": "https://images.elbotola.com/stats/logos/k82rekhv7gwrepz.png",
       "team2Img": "https://images.elbotola.com/stats/logos/l5ergpho0nlr8k0.png",
       "team1Name": "المرخية",
       "team2Name": "الغرافة",
       "time": "6:30 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري القطري نجوم قطر",
       "channelName": "الكاس 1",
       "webview": "",
@@ -305,7 +226,7 @@
       "team2Name": "طاجيكستان",
       "time": "7:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "كأس آسيا تحت 23 سنة",
       "channelName": "SSC Extra HD1",
       "webview": "",
