@@ -1,459 +1,104 @@
 [
-	{
-	  "team1Img": "https://images.elbotola.com/stats/logos/z8yomo4hpy5q0j6.png",
-	      "team2Img":
-		  "https://ssl.gstatic.com/onebox/media/sports/logos/9le8bJW_PjNZYbuV3CO2Pg_96x96.png",
-      "team1Name": "باتشوكا",
-      "team2Name": "غوادالاخارا",
-      "time": "0 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري المكسيكي الممتاز",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd10.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://www.aflam4you.pro/playerae.php?vid=68&aflam_s=1&aflam_k=2222222222"
-        }
-      ]
-    },
-    {
+      {
       "team1Img":
-          "https://ssl.gstatic.com/onebox/media/sports/logos/4w2Z97Hf9CSOqICK3a8AxQ_96x96.png",
+          "https://ssl.gstatic.com/onebox/media/sports/logos/KzNOpe-MPOS5T1F96FD1nA_96x96.png",
       "team2Img":
-          "https://ssl.gstatic.com/onebox/media/sports/logos/me10ephzRxdj45zVq1Risg_96x96.png",
-      "team1Name": "ساو باولو",
-      "team2Name": "فورتاليزا",
-      "time": "1 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البرازيلي الدرجة الأولى",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br4.php"
-        }
-      ]
-    },
-    {
-      "team1Img":
-          "https://ssl.gstatic.com/onebox/media/sports/logos/fCMxMMDF2AZPU7LzYKSlig_96x96.png",
-      "team2Img":
-          "https://ssl.gstatic.com/onebox/media/sports/logos/lMyw2zn1Z4cdkaxKJWnsQw_96x96.png",
-      "team1Name": "فلومينينسي",
-      "team2Name": "براغانتينو",
-      "time": "2 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البرازيلي الدرجة الأولى",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br1.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br3.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/p3glrw7he7gqdyj.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/vjxm8ghjyd1r6od.png",
-      "team1Name": "كانساس سيتي",
-      "team2Name": "إنتر ميامي",
+          "https://ssl.gstatic.com/onebox/media/sports/logos/1DQhf49J-kjaVmo0XSBAsA_96x96.png",
+      "team1Name": "Deportivo Pasto",
+      "team2Name": "Millonarios",
       "time": "2 - 3",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري الأمريكي MLS",
+      "leagueName": "Categoria Primera A",
       "channelName": "Unknown",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/gpxwrxlh60kryk0.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/ednm9whk9g2ryox.png",
-      "team1Name": "مونتيري",
-      "team2Name": "تايجرز أونال",
-      "time": "3 - 3",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري المكسيكي الممتاز",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd10.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd10.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/kn54qllh6ewqvy9.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/4zp5rzgh9ygq82w.png",
-      "team1Name": "هيراكليس",
-      "team2Name": "هيرنفين",
-      "time": "0 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الهولندي الممتاز",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/4zp5rzghvdoq82w.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/56ypq3nho80md7o.png",
-      "team1Name": "نابولي",
-      "team2Name": "فروسينوني",
-      "time": "2 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإيطالي الدرجة الأولى",
-      "channelName": "أبوظبي بريميوم 1",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://live17.yalla-shoot-tv.biz/chtv/ch1.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd7.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv3.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/8yomo4h7ynvq0j6.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/gx7lm7phyovm2wd.png",
-      "team1Name": "بينديك سبور",
-      "team2Name": "إسطنبول باشاكشهر",
-      "time": "2 - 3",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري التركي الممتاز",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd9.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd9.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/8y39mp1hnj7mojx.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/56ypq3nhynjmd7o.png",
-      "team1Name": "لوهافر",
-      "team2Name": "نانت",
-      "time": "0 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "beIN SPORTS 4",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd4.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven1.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/p3glrw7hv0oqdyj.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/kdj2ryoh0ydq1zp.png",
-      "team1Name": "روس كاونتى",
-      "team2Name": "جلاسكو رينجرز",
-      "time": "3 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإسكتلندي للمحترفين",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd1.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv2.php"
-        }
-      ]
-    },
-    {
-      "team1Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/67500",
-      "team2Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/11273",
-      "team1Name": "نوروز",
-      "team2Name": "زاخو",
-      "time": "0 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري العراقي نجوم",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/p3glrw7h2nyqdyj.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/z8yomo4hokxq0j6.png",
-      "team1Name": "لاس بالماس",
-      "team2Name": "إشبيلية",
-      "time": "0 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإسباني الدرجة الأولى",
-      "channelName": "beIN SPORTS 3",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://live17.yalla-shoot-tv.biz/chtv/ch2.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
         },
         {
           "title": "Live 2",
           "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven3.php"
         }
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/e4wyrn4hno6q86p.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/d23xmvkhjejqg8n.png",
-      "team1Name": "كليرمونت",
-      "team2Name": "مونبلييه",
-      "time": "1 - 1",
+      "team1Img":
+          "https://ssl.gstatic.com/onebox/media/sports/logos/EfPJSBOmHePNwgl6_FOuHA_96x96.png",
+      "team2Img":
+          "https://ssl.gstatic.com/onebox/media/sports/logos/IR3AyUUEoSWoeTmicHAlKA_96x96.png",
+      "team1Name": "Pumas UNAM",
+      "team2Name": "León",
+      "time": "1 - 0",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "beIN SPORTS XTRA 1",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd4.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd4.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/gpxwrxlhw8gryk0.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/vl7oqdehzkpr510.png",
-      "team1Name": "ليفربول",
-      "team2Name": "كريستال بالاس",
-      "time": "0 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإنجليزي الممتاز",
-      "channelName": "beIN SPORTS 1",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://live17.yalla-shoot-tv.biz/chtv/ch4.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd1.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven1.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/9vjxm8ghdgkr6od.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/kjw2r09hy0grz84.png",
-      "team1Name": "ريزه سبور",
-      "team2Name": "أنطاليا سبور",
-      "time": "3 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري التركي الممتاز",
+      "leagueName": "Liga MX",
       "channelName": "Unknown",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd9.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd10.php"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd9.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd10.php"
         }
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/gy0or5jhdwxqwzv.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/vl7oqdehz23r510.png",
-      "team1Name": "وست هام يونايتد",
-      "team2Name": "فولهام",
+      "team1Img":
+          "https://ssl.gstatic.com/onebox/media/sports/logos/MkiwuBjLlFLquj5mLdotmw_96x96.png",
+      "team2Img":
+          "https://ssl.gstatic.com/onebox/media/sports/logos/BzUfDwyu_dZcvhO3Y_bPXw_96x96.png",
+      "team1Name": "Alianza Petrolera",
+      "team2Name": "La Equidad",
+      "time": "0 - 3",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "Categoria Primera A",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
+        }
+      ]
+    },
+    {
+      "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/28921",
+      "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/28920",
+      "team1Name": "أستراليا",
+      "team2Name": "الأردن",
+      "time": "0 - 0",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "كأس آسيا تحت 23 سنة",
+      "channelName": "SSC Sports HD1",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
+        }
+      ]
+    },
+    {
+      "team1Img": "https://images.elbotola.com/stats/logos/vjxm8gh44zor6od.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/dn1m1gh4wgymoep.png",
+      "team1Name": "المقاولون العرب",
+      "team2Name": "بيراميدز",
       "time": "0 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإنجليزي الممتاز",
-      "channelName": "beIN SPORTS 2",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://live17.yalla-shoot-tv.biz/chtv/ch5.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd2.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven2.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br6.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/56ypq3nho80md7o.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/yl5ergph63er8k0.png",
-      "team1Name": "ساسولو",
-      "team2Name": "ميلان",
-      "time": "3 - 3",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإيطالي الدرجة الأولى",
-      "channelName": "أبوظبي بريميوم 1",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://live17.yalla-shoot-tv.biz/chtv/ch3.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd7.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv5.php"
-        },
-        {
-          "title": "Live 5",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br7.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/z318q66hy39qo9j.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/l965mkyh924r1ge.png",
-      "team1Name": "دارم شتات",
-      "team2Name": "فرايبورغ",
-      "time": "0 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الألماني الدرجة الأولى",
-      "channelName": "beIN SPORTS 6",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd3.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd3.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/pxwrxlh99veryk0.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/318q66hoj5zqo9j.png",
-      "team1Name": "سيراميكا كليوباترا",
-      "team2Name": "المصري",
-      "time": "1 - 1",
       "gmt": "",
       "color": 3,
       "leagueName": "الدوري المصري الممتاز",
@@ -473,84 +118,40 @@
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/v2y8m4zhdp6ql07.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/yl5ergph6lkr8k0.png",
-      "team1Name": "غرناطة",
-      "team2Name": "ديبورتيفو ألافيس",
-      "time": "2 - 0",
+      "team1Img": "https://images.elbotola.com/stats/logos/3glrw7hwnkkqdyj.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/x7lm7phkz41m2wd.png",
+      "team1Name": "الوصل",
+      "team2Name": "حتا",
+      "time": "3 - 0",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري الإسباني الدرجة الأولى",
-      "channelName": "beIN SPORTS 3",
+      "leagueName": "الدوري الإماراتي",
+      "channelName": "أبوظبي الرياضية 1",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
+          "matchUrl":
+              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven3.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/p4jwq2gh2ovm0ve.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/z8yomo4hp5dq0j6.png",
-      "team1Name": "إستريلا دا أمادورا",
-      "team2Name": "ريو أفي",
-      "time": "2 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البرتغالي الممتاز",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
+          "matchUrl":
+              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dubaisport1"
         }
       ]
     },
     {
       "team1Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8246",
+          "https://static.flashscore.com/res/image/data/KlMy8MGG-dIoxO1fK.png",
       "team2Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/11674",
-      "team1Name": "الشرطة",
-      "team2Name": "الميناء",
-      "time": "2 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري العراقي نجوم",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/jednm9whl7kryox.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/j1l4rjnhpjvm7vx.png",
-      "team1Name": "أياكس أمستردام",
-      "team2Name": "تونتي",
+          "https://static.flashscore.com/res/image/data/2kst0Sil-fZdE6zOJ.png",
+      "team1Name": "CSKA 1948",
+      "team2Name": "Lokomotiv Sofia 1929",
       "time": "2 - 1",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري الهولندي الممتاز",
+      "leagueName": "PARVA LIGA",
       "channelName": "Unknown",
       "webview": "",
       "live": [
@@ -565,76 +166,34 @@
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/z318q66hdd1qo9j.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/j1l4rjnh06om7vx.png",
-      "team1Name": "آرسنال",
-      "team2Name": "أستون فيلا",
-      "time": "0 - 2",
+      "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/13399",
+      "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/48221",
+      "team1Name": "قطر",
+      "team2Name": "إندونيسيا",
+      "time": "2 - 0",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري الإنجليزي الممتاز",
-      "channelName": "beIN SPORTS 1",
+      "leagueName": "كأس آسيا تحت 23 سنة",
+      "channelName": "SSC Sports HD1",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://live17.yalla-shoot-tv.biz/chtv/ch1.php"
+          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd1.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven1.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
+          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
         }
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/4zp5rzghewnq82w.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/9k82rekhdxorepz.png",
-      "team1Name": "باير ليفركوزن",
-      "team2Name": "فيردر بريمن",
-      "time": "5 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الألماني الدرجة الأولى",
-      "channelName": "beIN SPORTS 5",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://live17.yalla-shoot-tv.biz/chtv/ch2.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd3.php"
-        },
-        {
-          "title": "Live 4",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven2.php"
-        },
-        {
-          "title": "Live 5",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br1.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/gpxwrxlhwkgryk0.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/gx7lm7phel7m2wd.png",
-      "team1Name": "أودينيزي",
-      "team2Name": "روما",
+      "team1Img": "https://images.elbotola.com/stats/logos/8y39mp1h80jmojx.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/gy0or5jhkkzqwzv.png",
+      "team1Name": "فيورنتينا",
+      "team2Name": "جنوى",
       "time": "1 - 1",
-      "gmt": "لم تكتمل",
+      "gmt": "",
       "color": 3,
       "leagueName": "الدوري الإيطالي الدرجة الأولى",
       "channelName": "أبوظبي بريميوم 1",
@@ -642,7 +201,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://live17.yalla-shoot-tv.biz/chtv/ch3.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
         },
         {
           "title": "Live 2",
@@ -650,109 +209,40 @@
         },
         {
           "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv3.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
         }
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/8y39mp1hld2mojx.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/4jwq2gh73nem0ve.png",
-      "team1Name": "أولمبيك آسفي",
-      "team2Name": "نهضة بركان",
-      "time": "1 - 2",
+      "team1Img": "https://images.elbotola.com/stats/logos/965mkyh7251r1ge.png",
+      "team2Img": "https://upload.wikimedia.org/wikipedia/ar/a/ac/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%86%D8%A7%D8%AF%D9%8A_%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A9_%28%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%29.png",
+      "team1Name": "إتحاد كلباء",
+      "team2Name": "الوحدة",
+      "time": "1 - 0",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري المغربي البطولة الإحترافية",
-      "channelName": "Unknown",
+      "leagueName": "الدوري الإماراتي",
+      "channelName": "أبوظبي الرياضية 1",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=arryadia1"
+              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=al_maghribia"
+          "matchUrl":
+              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dubaisport1"
         }
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/jednm9wh134ryox.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/56ypq3nhdpymd7o.png",
-      "team1Name": "فاتح كاراجومروك",
-      "team2Name": "فنربخشة",
-      "time": "1 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري التركي الممتاز",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd9.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd9.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/kdj2ryoh3ozq1zp.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/pxwrxlhg1lxryk0.png",
-      "team1Name": "أندرلخت",
-      "team2Name": "سانت خيلويزي",
+      "team1Img": "https://images.elbotola.com/stats/logos/4wyrn4h8889q86p.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/ednm9whkkggryox.png",
+      "team1Name": "الزمالك",
+      "team2Name": "الأهلي",
       "time": "2 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البلجيكي الدرجة الأولى",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/gy0or5jhd6yqwzv.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/kjw2r09hvwwrz84.png",
-      "team1Name": "أتلتيك بيلباو",
-      "team2Name": "فياريال",
-      "time": "1 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري الإسباني الدرجة الأولى",
-      "channelName": "beIN SPORTS 3",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://live17.yalla-shoot-tv.biz/chtv/ch4.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
-        },
-        {
-          "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven3.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/jw2r09hllxkrz84.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/8yomo4h2kddq0j6.png",
-      "team1Name": "الإسماعيلي",
-      "team2Name": "مودرن فيوتشر",
-      "time": "1 - 1",
       "gmt": "",
       "color": 3,
       "leagueName": "الدوري المصري الممتاز",
@@ -772,42 +262,20 @@
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/4wyrn4h8ydkq86p.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/vl7oqdehzjxr510.png",
-      "team1Name": "أروكا",
-      "team2Name": "بوافيشتا",
-      "time": "2 - 1",
+      "team1Img": "https://images.elbotola.com/stats/logos/vjxm8gh45zkr6od.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/z318q66hp66qo9j.png",
+      "team1Name": "ألانيا سبور",
+      "team2Name": "غلطة سراي",
+      "time": "0 - 4",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري البرتغالي الممتاز",
+      "leagueName": "الدوري التركي الممتاز",
       "channelName": "Unknown",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/9k82rekhlg0repz.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/6ypq3nh0gl5md7o.png",
-      "team1Name": "بورتيمونينسي",
-      "team2Name": "كاسا بيا",
-      "time": "2 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البرتغالي الممتاز",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv2.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd10.php"
         },
         {
           "title": "Live 2",
@@ -817,58 +285,81 @@
     },
     {
       "team1Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8249",
+          "https://ssl.gstatic.com/onebox/media/sports/logos/ZARHj_kWktwGFA39drl-XA_96x96.png",
       "team2Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8248",
-      "team1Name": "أمانة بغداد",
-      "team2Name": "الزوراء",
-      "time": "1 - 2",
+          "https://ssl.gstatic.com/onebox/media/sports/logos/pa_6HLH5Uws7grfp6G4LhA_96x96.png",
+      "team1Name": "بياست غليويس",
+      "team2Name": "زاغليبي لوبين",
+      "time": "2 - 0",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري العراقي نجوم",
+      "leagueName": "الدوري البولندي الممتاز",
       "channelName": "Unknown",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd3.php"
         },
         {
           "title": "Live 2",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd3.php"
         }
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/4jwq2gh4z11m0ve.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/3glrw7hwzj9qdyj.png",
-      "team1Name": "المغرب التطواني",
-      "team2Name": "إتحاد طنجة",
-      "time": "1 - 1",
+      "team1Img":
+          "https://static.flashscore.com/res/image/data/b71m7bEa-n1yhZU94.png",
+      "team2Img":
+          "https://static.flashscore.com/res/image/data/EgI2jHAr-drJObEWA.png",
+      "team1Name": "Ludogorets",
+      "team2Name": "Arda",
+      "time": "2 - 0",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري المغربي البطولة الإحترافية",
+      "leagueName": "PARVA LIGA",
       "channelName": "Unknown",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=arryadia1"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=al_maghribia"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
         }
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/9dn1m1ghzl2moep.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/kn54qllh6xwqvy9.png",
-      "team1Name": "إنتر ميلان",
-      "team2Name": "كالياري",
+      "team1Img":
+          "https://static.flashscore.com/res/image/data/dOkn5SzB-x6MwZVJk.png",
+      "team2Img":
+          "https://static.flashscore.com/res/image/data/OjWnPqhl-pSmPbudq.png",
+      "team1Name": "Flamengo W",
+      "team2Name": "RB Bragantino W",
+      "time": "2 - 2",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "BRASILEIRO WOMEN",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://v2.sportsonline.si/channels/bra/br4.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/bra/br4.php"
+        }
+      ]
+    },
+    {
+      "team1Img": "https://images.elbotola.com/stats/logos/gx7lm7phyw6m2wd.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/4zp5rzghkgdq82w.png",
+      "team1Name": "أتالانتا",
+      "team2Name": "هيلاس فيرونا",
       "time": "2 - 2",
       "gmt": "",
       "color": 3,
@@ -886,24 +377,52 @@
         },
         {
           "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd7.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd8.php"
         },
         {
           "title": "Live 4",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br7.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv3.php"
+        },
+        {
+          "title": "Live 5",
+          "matchUrl": "https://v2.sportsonline.si/channels/bra/br3.php"
         }
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/8y39mp1hg8lmojx.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/p4jwq2ghdn7m0ve.png",
-      "team1Name": "ليون",
-      "team2Name": "بريست",
-      "time": "4 - 3",
+      "team1Img":
+          "https://ssl.gstatic.com/onebox/media/sports/logos/jtQqQTDGybMTV3xx3X_YpA_96x96.png",
+      "team2Img":
+          "https://ssl.gstatic.com/onebox/media/sports/logos/Be-wAQaZCDYKCGls1191zg_96x96.png",
+      "team1Name": "غرونوبل",
+      "team2Name": "أنجيه",
+      "time": "0 - 0",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري الفرنسي الدرجة الأولى",
-      "channelName": "beIN SPORTS 4",
+      "leagueName": "الدوري الفرنسي الدرجة الثانية",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd4.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd4.php"
+        }
+      ]
+    },
+    {
+      "team1Img": "https://images.elbotola.com/stats/logos/j1l4rjnhpdxm7vx.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/p3glrw7he21qdyj.png",
+      "team1Name": "تشيلسي",
+      "team2Name": "إيفرتون",
+      "time": "6 - 0",
+      "gmt": "",
+      "color": 3,
+      "leagueName": "الدوري الإنجليزي الممتاز",
+      "channelName": "beIN SPORTS 1",
       "webview": "",
       "live": [
         {
@@ -912,20 +431,28 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd4.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd1.php"
         },
         {
           "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven2.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd7.php"
+        },
+        {
+          "title": "Live 4",
+          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven1.php"
+        },
+        {
+          "title": "Live 5",
+          "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
         }
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/v2y8m4zhdd2ql07.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/9k82rekh4gxrepz.png",
-      "team1Name": "ريال سوسييداد",
-      "team2Name": "ألميريا",
-      "time": "2 - 2",
+      "team1Img": "https://images.elbotola.com/stats/logos/vl7oqdehkx5r510.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/56ypq3nhd2lmd7o.png",
+      "team1Name": "أوساسونا",
+      "team2Name": "فالنسيا",
+      "time": "0 - 1",
       "gmt": "",
       "color": 3,
       "leagueName": "الدوري الإسباني الدرجة الأولى",
@@ -938,136 +465,28 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd9.php"
         },
         {
           "title": "Live 3",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven1.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/hHwT8LwRmYCAGxQ-STLxYA_96x96.png",
-      "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/Ku-73v_TW9kpex-IEGb0ZA_96x96.png",
-      "team1Name": "فاسكو دا غاما",
-      "team2Name": "غريميو",
-      "time": "2 - 1",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البرازيلي الدرجة الأولى",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br4.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
         },
         {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br4.php"
-        }
-      ]
-    },
-    {
-      "team1Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1210",
-      "team2Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/9188",
-      "team1Name": "أتلتيكو باراناينسي",
-      "team2Name": "كويابا",
-      "time": "4 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البرازيلي الدرجة الأولى",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br5.php"
+          "title": "Live 4",
+          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven2.php"
         },
         {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br5.php"
+          "title": "Live 5",
+          "matchUrl": "https://v2.sportsonline.si/channels/bra/br6.php"
         }
       ]
     },
     {
-      "team1Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/5918",
-      "team2Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/1215",
-      "team1Name": "أتليتيكو غو",
-      "team2Name": "فلامنجو",
-      "time": "1 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البرازيلي الدرجة الأولى",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br1.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br8.php"
-        }
-      ]
-    },
-    {
-      "team1Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1267",
-      "team2Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1209",
-      "team1Name": "كورينثيانز",
-      "team2Name": "أتليتيكو مينيرو",
-      "time": "0 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البرازيلي الدرجة الأولى",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/z8yomo4hjyoq0j6.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/9dn1m1ghw1jmoep.png",
-      "team1Name": "بنفيكا",
-      "team2Name": "موريرنسي",
-      "time": "3 - 0",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البرتغالي الممتاز",
-      "channelName": "SSC Sports HD1",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/pt/btv.php"
-        }
-      ]
-    },
-    {
-      "team1Img": "https://images.elbotola.com/stats/logos/k82rekhv9p3repz.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/kdj2ryohw93q1zp.png",
-      "team1Name": "شباب المحمدية",
-      "team2Name": "الرجاء الرياضي",
-      "time": "0 - 2",
+      "team1Img": "https://images.elbotola.com/stats/logos/23xmvkho4y1qg8n.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/1l4rjnh6998m7vx.png",
+      "team1Name": "شباب السوالم",
+      "team2Name": "نهضة الزمامرة",
+      "time": "1 - 1",
       "gmt": "",
       "color": 3,
       "leagueName": "الدوري المغربي البطولة الإحترافية",
@@ -1081,55 +500,30 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=al_maghribia"
+          "matchUrl":
+              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=arryadia1"
         }
       ]
     },
     {
-      "team1Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/1213",
-      "team2Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1211",
-      "team1Name": "كروزيرو",
-      "team2Name": "بوتافوغو",
-      "time": "3 - 2",
-      "gmt": "",
-      "color": 3,
-      "leagueName": "الدوري البرازيلي الدرجة الأولى",
-      "channelName": "Unknown",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br3.php"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br3.php"
-        }
-      ]
-    },
-    {
-      "team1Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/1228",
-      "team2Img":
-          "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1222",
-      "team1Name": "فيتوريا",
-      "team2Name": "بالميراس",
+      "team1Img": "https://images.elbotola.com/stats/logos/4jwq2gh4p8gm0ve.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/yl5ergphx2dr8k0.png",
+      "team1Name": "فيزيلا",
+      "team2Name": "شافيز",
       "time": "0 - 1",
       "gmt": "",
       "color": 3,
-      "leagueName": "الدوري البرازيلي الدرجة الأولى",
+      "leagueName": "الدوري البرتغالي الممتاز",
       "channelName": "Unknown",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br1.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/bra/br8.php"
+          "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
         }
       ]
     }
