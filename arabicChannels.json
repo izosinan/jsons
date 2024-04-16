@@ -5,12 +5,12 @@
 			"channelName" : "2M TV",
 			"lives" : [
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=2m_monde"
 				],
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=2m_monde"
 				]
 			]	
 		},{
@@ -18,12 +18,12 @@
 			"channelName" : "Al Maghribia",
 			"lives" : [
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=al_maghribia"
 				],
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=al_maghribia"
 				]
 				
 			]	
@@ -33,12 +33,12 @@
 			"lives" : [
 				
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=arrabia"
 				],
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=arrabia"
 				]
 			]	
 		},{
@@ -46,12 +46,12 @@
 			"channelName" : "Assadissa HD",
 			"lives" : [
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=assadissatv"
 				],
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=assadissatv"
 				]
 				
 			]
@@ -60,12 +60,12 @@
 			"channelName" : "Medi1 TV",
 			"lives" : [
 				[
-					"https://het23.ycndownload.com/live/33523510/index.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=medi1tv"
 				],
 				[
-					"https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w558331930_b328000_DVR_slar.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=medi1tv"
 				]
 				
 			]
@@ -74,12 +74,12 @@
 			"channelName" : "Arryadia",
 			"lives" : [
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=arryadia1"
 				],
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=arryadia1"
 				]
 				
 			]
@@ -89,12 +89,12 @@
 			"channelUrl" : "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false"	,
 			"lives" : [
 				[
-					"https://playback.akamaized.net/streams/27130247_9197096_lsi0mhm223d861l0l8f_1/media/27130247_9197096_lsi0mhm223d861l0l8f_1@2756000p.m3u8?dw=14400&ts=1710140400&hdnts=exp=1710313806~acl=/streams/27130247_9197096_lsi0mhm223d861l0l8f_1/media*~hmac=399f19053ff45d99b6c00207f4f870fe651855554408a00af19d7aa4e0168ace",
-					"https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false"
+					"",
+					"https://www.elahmad.com/tv/live/live_stream.php?id=telemaroc"
 				],
 				[
-					"https://playback.akamaized.net/streams/27130247_9197096_lsi0mhm223d861l0l8f_1/media/27130247_9197096_lsi0mhm223d861l0l8f_1@2756000p.m3u8?dw=80&ts=1710140400&hdnts=exp=1710314020~acl=/streams/27130247_9197096_lsi0mhm223d861l0l8f_1/media*~hmac=59468db8baf6ed221fc979fb64fdbce2fb08cc5f3d7ad0952b1f46f764565d3c",
-					"https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false"
+					"",
+					"https://www.elahmad.com/tv/live/live_stream.php?id=telemaroc"
 				]
 			]	
 		},{
@@ -102,12 +102,12 @@
 			"channelName" : "Tamazight TV",
 			"lives" : [
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=tamazight"
 				],
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=tamazight"
 				]
 				
 			]
@@ -116,12 +116,12 @@
 			"channelName" : "Al Aoula",
 			"lives" : [
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
 				],
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
 				]
 			]
 		}
@@ -131,16 +131,28 @@
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerietv-en-direct.jpg",
 			"channelName" : "Algerie 1",
 			"lives" : [
-				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_1/tracks-v1a1/mono.m3u8?token=ed908570c6ff193ba41bc3ec35608f572449373c-f994815cfa8ef2b4120ce889808615ea-1710181180-1710170380",
-				"https://azrotv.com/local/vlc/?id=Algi1"
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]
 			]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/algeria2.jpg",
 			"channelName" : "Algerie 2",
 			"lives" : [
-				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_2/tracks-v1a1/mono.m3u8?token=ef1b96aaba380da742bfe2c39ca14efc5dec4db8-7891e4c5bdb9bd7af22e757a8e045319-1710181481-1710170681",
-				"https://www.azrotv.com/pyr/?id=https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8"
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]
 			]
 		},
 		{
@@ -148,8 +160,12 @@
 			"channelName" : "Algerie 3",
 			"lives" : [
 				[
-				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_3/tracks-v1a1/mono.m3u8?token=5fefd207b4a12a43fcbf4cc15b8e1808da38b516-ab8c89dc8f9a17f55d5d2cbdcd440ef7-1710181655-1710170855",
-				"https://azrotv.com/local/vlc/?id=Algi3"
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
 				]
 			]
 		},
@@ -157,155 +173,175 @@
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie4.jpg",
 			"channelName" : "Algerie 4",
 			"lives" : [[
-				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_4/index.m3u8?token=1cfa3f31f30179e05285f2c196c985872545381f-06ff976cef2f4e07e8775c5608278af3-1710181711-1710170911",
-				"https://azrotv.com/local/vlc/?id=Algi4"
-			]]
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie5.jpg",
 			"channelName" : "Algerie 5",
 			"lives" : [[
-				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_5/tracks-v1a1/mono.m3u8?token=f7e641ca1c5aae879645f705c7ae42624b214b64-8a8854bf7176ca2cf3e0cc0659780611-1710181752-1710170952",
-				"https://azrotv.com/local/vlc/?id=Algi5"
-			]]
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/algerie6.jpg",
 			"channelName" : "Algerie 6",
 			"lives" : [[
-				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_6/tracks-v1a1/mono.m3u8?token=b56030f24037fd97bec413b6eaba613728f7b7f8-9ab7957dd2bbaafe5b1f15d912f57e54-1710181823-1710171023",
-				"https://azrotv.com/local/vlc/?id=Algi6"
-			]]
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/el-maarifatv.jpg",
 			"channelName" : "Algerie 7",
 			"lives" : [[
-				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_7/tracks-v1a1/mono.m3u8?token=a0488bbbcbb93f830cf5bfa8efe9eec984750fd7-a175edbce2c200c3f3911b048f0fd5d7-1710181870-1710171070",
-				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_8/tracks-v1a1/mono.m3u8?token=978d5db54bd98e00b55b653f13a198751c9639ee-56b51178204fe43c44f9f3e0aeb8d3da-1710181910-1710171110"
-			]]
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/el-maarifatv.jpg",
 			"channelName" : "Algerie 8",
 			"lives" : [[
-				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_8/tracks-v1a1/mono.m3u8?token=978d5db54bd98e00b55b653f13a198751c9639ee-56b51178204fe43c44f9f3e0aeb8d3da-1710181910-1710171110",
-				"https://tv.ipslow.com/tv526_www.elahmad.com_alegria_8/tracks-v1a1/mono.m3u8?token=978d5db54bd98e00b55b653f13a198751c9639ee-56b51178204fe43c44f9f3e0aeb8d3da-1710181910-1710171110"
-			]]
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Alwatan-live.jpg",
 			"channelName" : "El Heddaf TV",
 			"lives" : [[
-				"https://cdn1.ipslow.com/tv526_www.elahmad.com_elheddaf/tracks-v1a1/mono.m3u8?token=dbdfb1d64c5ba03eb7261c6f7cffea88ee0e049b-cffb8530b3a5bb0165bbce27a1bba34a-1710181961-1710171161",
-				"https://www.azrotv.com/pyr/?id=http://silvertv.net:1997/live/MehdiOIHAdAGAdir/H6ddKRJqjg/4983.ts"
-			]]
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		}
 	],
 	"tunisia" : [
 		{
 			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/150px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png",
 			"channelName" : "El Watania 1",
-			"lives" : [
-				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
 				],
 				[
-					"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
-					"https://web24iptv.online/player/phpar/fas2m.php"
-				]
-			]	
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "http://www.elahmad.com/tv/mobiletv/images/watania2.jpg?v=6",
 			"channelName" : "El Watania 2",
-			"lives" : [
-				[
-					"https://tv.ipslow.com/tv526_www.elahmad.com_watania2/tracks-v1a1/mono.m3u8?token=a83623f7b74ebcde9e61bdb2a55a04c20a61061c-f02bd37c6afd6db35cf8b6212e0d98ee-1710183530-1710172730",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
 				],
 				[
-					"https://tv.ipslow.com/tv526_www.elahmad.com_watania2/tracks-v1a1/mono.m3u8?token=a83623f7b74ebcde9e61bdb2a55a04c20a61061c-f02bd37c6afd6db35cf8b6212e0d98ee-1710183530-1710172730",
-					"https://web24iptv.online/player/phpar/fas2m.php"
-				]
-			]	
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]	
 		},
 		{
 			"channelImg" : "https://tunisia.mom-gmr.org/uploads/_processed_/5/2/csm_136_fa499b8db4.jpg",
 			"channelName" : "Nessma",
-			"lives" : [
-				[
-					"https://cdn1.ipslow.com/tv526_www.elahmad.com_nessma/tracks-v1a1/mono.m3u8?token=8870dc3170e705ce2c253458ffc09219ff51efbd-0e8a3428e306258ffe4ccf836c375f25-1710183287-1710172487",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
 				],
 				[
-					"https://cdn1.ipslow.com/tv526_www.elahmad.com_nessma/tracks-v1a1/mono.m3u8?token=8870dc3170e705ce2c253458ffc09219ff51efbd-0e8a3428e306258ffe4ccf836c375f25-1710183287-1710172487",
-					"https://web24iptv.online/player/phpar/fas2m.php"
-				]
-			]	
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "http://www.elahmad.com/tv/mobiletv/images/hannibal.jpg?v=6",
 			"channelName" : "Hannibal TV",
-			"lives" : [
-				[
-					"https://cdn1.ipslow.com/tv526_www.elahmad.com_hannibal/tracks-v1a1/mono.m3u8?token=94914c1616d08ba50e77df9ec359ae7b2a92d112-a36ab278081c0520a4afb95085456b4b-1710183571-1710172771",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
 				],
 				[
-					"https://cdn1.ipslow.com/tv526_www.elahmad.com_hannibal/tracks-v1a1/mono.m3u8?token=94914c1616d08ba50e77df9ec359ae7b2a92d112-a36ab278081c0520a4afb95085456b4b-1710183571-1710172771",
-					"https://web24iptv.online/player/phpar/fas2m.php"
-				]
-			]	
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "http://www.elahmad.com/tv/mobiletv/images/elhiwar_ettounsi.jpg?v=6",
 			"channelName" : "El Hiwar Ettounsi",
-			"lives" : [
-				[
-					"https://cdn1.ipslow.com/tv526_www.elahmad.com_elhiwar_ettounsi/tracks-v1a1/mono.m3u8?token=c722f4ef4d3cc1a37c75fc2a7c2df2e6d75d1616-0de4dc14aef833a6e2ee5682c428763d-1710183653-1710172853",
-					"https://web24iptv.online/player/phpar/fas2m.php"
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
 				],
 				[
-					"https://cdn1.ipslow.com/tv526_www.elahmad.com_elhiwar_ettounsi/tracks-v1a1/mono.m3u8?token=c722f4ef4d3cc1a37c75fc2a7c2df2e6d75d1616-0de4dc14aef833a6e2ee5682c428763d-1710183653-1710172853",
-					"https://web24iptv.online/player/phpar/fas2m.php"
-				]
-			]	
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		}
 	],"libya" : [
 		{
 			"channelImg" : "",
 			"channelName" : "",
 			"channelUrl" : ""	,
-			"lives" : [
-			[
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	,
-			"lives" : [
-			[
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
-			]
+			"channelUrl" : "",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
-			"channelUrl" : ""	,
-			"lives" : [
-			[
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
-			]
+			"channelUrl" : "",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		}
 	],
 	"egypte" : [
@@ -313,37 +349,53 @@
 			"channelImg" : "https://web24iptv.online/img/menu/masr/masrelsharq.webp",
 			"channelName" : "قناة الشرق المصرية",
 			"channelUrl" : "https://web24iptv.online/player/phpar/masrelsharq.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/masr/masrwatan.webp",
 			"channelName" : "قناة وطن المصرية",
 			"channelUrl" : "https://web24iptv.online/player/phpar/masrwatan.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/mbc/mbcm1.webp",
 			"channelName" : "ام بي سي مصر الاولى",
 			"channelUrl" : "https://web24iptv.online/player/phpar/mbcm1.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/mbc/mbcm2.webp",
 			"channelName" : "ام بي سي مصر الثانية",
 			"channelUrl" : "https://web24iptv.online/player/phpar/mbcm2.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		}
 	],
 	"ksa" : [
@@ -351,100 +403,144 @@
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/ahbariya.webp",
 			"channelName" : "السعودية الاخبارية",
 			"channelUrl" : "https://web24iptv.online/player/phpar/ahbariya.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/alarabiye.webp",
 			"channelName" : "قناة العربية",
 			"channelUrl" : "https://web24iptv.online/player/phpar/alarabiye.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/alhadas.webp",
 			"channelName" : "قناة الحدث",
 			"channelUrl" : "https://web24iptv.online/player/phpar/alhadas.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksa1.webp",
 			"channelName" : "التلفزيون السعودي",
 			"channelUrl" : "https://web24iptv.online/player/phpar/ksa1.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksasport1.webp",
 			"channelName" : "الرياضية السعودية الاولى",
 			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport1.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksasport2.webp",
 			"channelName" : "الرياضية السعودية الثانية",
 			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport2.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksasport3.webp",
 			"channelName" : "الرياضية السعودية الثالثة",
 			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport3.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/zikrayat.webp",
 			"channelName" : "ذكرايات",
 			"channelUrl" : "https://web24iptv.online/player/phpar/zikrayat.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/medine.webp",
 			"channelName" : "السنة النبوية",
 			"channelUrl" : "https://web24iptv.online/player/phpar/medine.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/quran.webp",
 			"channelName" : "القران الكريم",
 			"channelUrl" : "https://web24iptv.online/player/phpar/quran.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/ksa/sbc.webp",
 			"channelName" : "SBC",
 			"channelUrl" : "https://web24iptv.online/player/phpar/sbc.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		}
 	],
 	"uea" : [
@@ -452,28 +548,40 @@
 			"channelImg" : "",
 			"channelName" : "",
 			"channelUrl" : ""	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
 			"channelUrl" : ""	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "",
 			"channelName" : "",
 			"channelUrl" : ""	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		}
 	],
 	"palestine" : [
@@ -481,64 +589,92 @@
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filalquds.webp",
 			"channelName" : "قناة القدس",
 			"channelUrl" : "http://live.web24iptv.online/player/phpar/filalquds.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filaqsa.webp",
 			"channelName" : "قناة الاقصى",
 			"channelUrl" : "https://web24iptv.online/player/phpar/filaqsa.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filaudeh.webp",
 			"channelName" : "قناة عودة",
 			"channelUrl" : "http://live.web24iptv.online/player/phpar/filaudeh.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filhala.webp",
 			"channelName" : "قناة هلا",
 			"channelUrl" : "https://web24iptv.online/player/phpar/filhala.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filistintoday.webp",
 			"channelName" : "قناة فلسطين اليوم",
 			"channelUrl" : "https://web24iptv.online/player/phpar/filistintoday.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filmakan.webp",
 			"channelName" : "قناة مكان",
 			"channelUrl" : "https://web24iptv.online/player/phpar/filmakan.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/filistin/filrajin.webp",
 			"channelName" : "قناة راجعين",
 			"channelUrl" : "https://web24iptv.online/player/phpar/filrajin.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		}
 	],
 	"jordan" : [
@@ -546,46 +682,66 @@
 			"channelImg" : "https://web24iptv.online/img/menu/jordan/almamlka.webp",
 			"channelName" : "قناة المملكة",
 			"channelUrl" : "https://web24iptv.online/player/phpar/joralmamlka.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/jordan/ammantv.webp",
 			"channelName" : "قناة عمان",
 			"channelUrl" : "https://web24iptv.online/player/phpar/joramman.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/jordan/jordantv.webp",
 			"channelName" : "تلفزيون الاردن",
 			"channelUrl" : "https://web24iptv.online/player/phpar/jordantv.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/jordan/jorsport.webp",
 			"channelName" : "قناة الاردن الرياضية",
 			"channelUrl" : "https://web24iptv.online/player/phpar/jorsport.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/jordan/royatv.webp",
 			"channelName" : "قناة رؤيا",
 			"channelUrl" : "https://web24iptv.online/player/phpar/jorroyatv.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		}
 	],
 	"lebanon" : [
@@ -593,55 +749,79 @@
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/lbc.webp",
 			"channelName" : "ال بي سي",
 			"channelUrl" : "https://www.web24iptv.online/player/phpar/lbnlbc.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/lbnone.webp",
 			"channelName" : "وان اللبنانية",
 			"channelUrl" : "https://media.mtv.com.lb/live/one"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/manar.webp",
 			"channelName" : "المنار",
 			"channelUrl" : "https://www.web24iptv.online/player/phpar/lbnmanar.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/mayadin.webp",
 			"channelName" : "الميادين",
 			"channelUrl" : "https://www.web24iptv.online/player/phpar/lbnmayadin.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/mtv.webp",
 			"channelName" : "ام تي في",
 			"channelUrl" : "https://media.mtv.com.lb/live/mtv"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		},
 		{
 			"channelImg" : "https://web24iptv.online/img/menu/lbn/nbn.webp",
 			"channelName" : "ان بي ان",
 			"channelUrl" : "http://live.web24iptv.online/player/phpar/lbnnbn.php"	,
-			"lives" : [
-				"https://web24iptv.online/player/phpar/fas2m.php",
-				"https://web24iptv.online/player/phpar/fas2m.php"
-			]
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
 		}
 	],
 	"syria" : [
