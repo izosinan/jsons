@@ -126,9 +126,9 @@
           "https://ssl.gstatic.com/onebox/media/sports/logos/cJH9pZPURSZ68UjxxS4nKw_48x48.png",
       "team1Name": "أوزبكستان",
       "team2Name": "ماليزيا",
-      "time": "2:00 PM",
-      "gmt": "GMT+1",
-      "color": 2,
+      "time": "2 - 0",
+      "gmt": "",
+      "color": 3,
       "leagueName": "كأس آسيا تحت 23 سنة",
       "channelName": "SSC Extra HD2",
       "webview": "",
@@ -148,9 +148,9 @@
       "team2Img": "https://images.elbotola.com/stats/logos/jw2r09hnjo6rz84.png",
       "team1Name": "الجونة",
       "team2Name": "سموحة",
-      "time": "3:00 PM",
-      "gmt": "GMT+1",
-      "color": 2,
+      "time": "1 - 0",
+      "gmt": "",
+      "color": 3,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 2",
       "webview": "",
@@ -168,30 +168,6 @@
       ]
     },
     {
-      "team1Img": "https://images.elbotola.com/stats/logos/6ypq3nh00jkmd7o.png",
-      "team2Img": "https://images.elbotola.com/stats/logos/jw2r09hljxnrz84.png",
-      "team1Name": "بني ياس",
-      "team2Name": "الشارقة",
-      "time": "3:00 PM",
-      "gmt": "GMT+1",
-      "color": 2,
-      "leagueName": "الدوري الإماراتي",
-      "channelName": "أبوظبي الرياضية 1",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl":
-              "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"
-        }
-      ]
-    },
-    {
       "team1Img":
           "https://ssl.gstatic.com/onebox/media/sports/logos/IUYV_ZAMxDdabQPzSpTJtg_48x48.png",
       "team2Img":
@@ -200,7 +176,7 @@
       "team2Name": "الكويت",
       "time": "4:30 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "كأس آسيا تحت 23 سنة",
       "channelName": "SSC Extra HD2",
       "webview": "",
@@ -222,7 +198,7 @@
       "team2Name": "الدحيل",
       "time": "4:30 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري القطري نجوم قطر",
       "channelName": "الكاس 1",
       "webview": "",
@@ -244,7 +220,7 @@
       "team2Name": "العربي",
       "time": "4:30 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري القطري نجوم قطر",
       "channelName": "الكاس 2",
       "webview": "",
@@ -266,7 +242,7 @@
       "team2Name": "الهلال",
       "time": "5:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "دوري أبطال آسيا",
       "channelName": "SSC Sports HD1",
       "webview": "",
@@ -288,7 +264,7 @@
       "team2Name": "شباب الأهلي",
       "time": "5:30 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإماراتي",
       "channelName": "أبوظبي الرياضية 1",
       "webview": "",
@@ -312,7 +288,7 @@
       "team2Name": "الداخلية",
       "time": "6:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 2",
       "webview": "",
@@ -336,7 +312,7 @@
       "team2Name": "طلائع الجيش",
       "time": "6:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 1",
       "webview": "",
