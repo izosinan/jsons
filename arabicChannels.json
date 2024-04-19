@@ -142,7 +142,7 @@
 			]
 		},
 		{
-			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/algeria2.jpg",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/canalAlgerie-95x93.gif",
 			"channelName" : "Algerie 2",
 			"lives" : [
 				[
@@ -239,6 +239,150 @@
 				[
 					"",
 					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAMECHANNEL",
+			"lives" : [[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
 				]]
 		}
 	],
