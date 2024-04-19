@@ -133,11 +133,11 @@
 			"lives" : [
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=entv_algerie"
 				]
 			]
 		},
@@ -147,11 +147,11 @@
 			"lives" : [
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie"
 				]
 			]
 		},
@@ -161,11 +161,11 @@
 			"lives" : [
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algeria3"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algeria3"
 				]
 			]
 		},
@@ -174,11 +174,11 @@
 			"channelName" : "Algerie 4",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie4"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie4"
 				]]
 		},
 		{
@@ -186,11 +186,11 @@
 			"channelName" : "Algerie 5",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie5"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie5"
 				]]
 		},
 		{
@@ -198,11 +198,11 @@
 			"channelName" : "Algerie 6",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie6"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie6"
 				]]
 		},
 		{
@@ -210,11 +210,11 @@
 			"channelName" : "Algerie 7",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie7"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie7"
 				]]
 		},
 		{
@@ -222,11 +222,11 @@
 			"channelName" : "Algerie 8",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie8"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=algerie8"
 				]]
 		},
 		{
@@ -234,11 +234,11 @@
 			"channelName" : "El Heddaf TV",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=elheddaf"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/algeria_live.php?id=elheddaf"
 				]]
 		},
 		{
@@ -246,23 +246,11 @@
 			"channelName" : "Samira TV",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=samira_tv"
 				],
 				[
 					"",
-					"URL"
-				]]
-		},
-		{
-			"channelImg" : "https://i5.satexpat.com/cha/dz/echourouk_95x38.gif",
-			"channelName" : "Echorouk TV",
-			"lives" : [[
-					"",
-					"URL"
-				],
-				[
-					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=samira_tv"
 				]]
 		},
 		{
@@ -270,11 +258,11 @@
 			"channelName" : "ELDJAZAIR N1",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				]]
 		},
 		{
@@ -282,11 +270,11 @@
 			"channelName" : "Ennahar TV",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				]]
 		},
 		{
@@ -294,11 +282,11 @@
 			"channelName" : "Alanis TV",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				]]
 		},
 		{
@@ -306,11 +294,11 @@
 			"channelName" : "Dzaïr TV",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				]]
 		},
 		{
@@ -318,11 +306,11 @@
 			"channelName" : "El Bilad TV",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				]]
 		},
 		{
@@ -330,11 +318,11 @@
 			"channelName" : "El Hayat",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				]]
 		},
 		{
@@ -342,11 +330,11 @@
 			"channelName" : "Al Fadjr TV",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				]]
 		},
 		{
@@ -354,11 +342,11 @@
 			"channelName" : "AL24 News",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				]]
 		},
 		{
@@ -366,11 +354,11 @@
 			"channelName" : "Al Magharibia",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.youtube.com/embed/KnHRo6RReeI?si=dhs_bRoojrMDsxLD"
 				],
 				[
 					"",
-					"URL"
+					"https://www.youtube.com/embed/KnHRo6RReeI?si=dhs_bRoojrMDsxLD"
 				]]
 		},
 		{
@@ -378,11 +366,11 @@
 			"channelName" : "El Watania TV",
 			"lives" : [[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
 				]]
 		}
 	],
