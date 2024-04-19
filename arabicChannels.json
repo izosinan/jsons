@@ -521,42 +521,160 @@
 		}
 	],"libya" : [
 		{
-			"channelImg" : "",
-			"channelName" : "",
-			"channelUrl" : ""	,
+			"channelImg" : "https://i5.satexpat.com/cha/ly/tanasoh_TV_95x40.gif",
+			"channelName" : "Tanasoh TV",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=tanasuh"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=tanasuh"
 				]]
 		},
 		{
-			"channelImg" : "",
-			"channelName" : "",
+			"channelImg" : "https://i5.satexpat.com/cha/ly/libyaAlHadath-95x73.gif",
+			"channelName" : "Libya al Hadath",
 			"channelUrl" : "",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=libya_alhadath"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=libya_alhadath"
 				]]
 		},
 		{
-			"channelImg" : "",
-			"channelName" : "",
-			"channelUrl" : "",
+			"channelImg" : "https://i5.satexpat.com/cha/ly/alJamahiria-95x43.gif",
+			"channelName" : "Akh TV (Aljamahiriya)",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=aljamahiriya"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=aljamahiriya"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/ly/libya-alahrar-tv-95x75.gif",
+			"channelName" : "Libya al-Ahrar TV",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libyatv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libyatv"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/ly/salam-95x56.gif",
+			"channelName" : "Salam TV",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=salam_tv_libya"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=salam_tv_libya"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/ly/libya-businness-95x74.gif",
+			"channelName" : "Libya Business",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libyanbusiness"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libyanbusiness"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/ly/libyaFebrayer-95x44.gif",
+			"channelName" : "Libya Febrayer",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=february_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=february_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/ly/libyaone-95x119.gif",
+			"channelName" : "Libya One",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libyaonetv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libyaonetv"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/ly/libya-alrasmeya-95x19.gif",
+			"channelName" : "Libya Alrsmia TV",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libya_alrasmeya"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libya_alrasmeya"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/alMasar-95x18.gif",
+			"channelName" : "Al Masar TV",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=almasartvlibya"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=almasartvlibya"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/ly/libya-almostaqbal-95x34.gif",
+			"channelName" : "Libya Al Mostaqbal",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libya_almostakbal"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libya_almostakbal"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/ly/libyaSport-95x28.gif",
+			"channelName" : "Libya Sport Channel",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libya_sport"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=libya_sport"
+				]]
+		},
+		{
+			"channelImg" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYlwSLrm252Mzqqhu0fQKUmWZvFhyGP6DrQ7RLalZDw&s",
+			"channelName" : "New Libya",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=new_libya"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=new_libya"
 				]]
 		}
 	],
