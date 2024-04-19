@@ -380,23 +380,23 @@
 			"channelName" : "El Watania 1",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=watania1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.youtube.com/embed/wzWRrreJ-18?si=IvBucD75Opa1qvOT"
 				]]
 		},
 		{
-			"channelImg" : "http://www.elahmad.com/tv/mobiletv/images/watania2.jpg?v=6",
+			"channelImg" : "https://i5.satexpat.com/cha/tn/ttn2-95x95.gif",
 			"channelName" : "El Watania 2",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=watania2"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=watania2"
 				]]	
 		},
 		{
@@ -404,11 +404,11 @@
 			"channelName" : "Nessma",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=nessma"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=nessma"
 				]]
 		},
 		{
@@ -416,11 +416,11 @@
 			"channelName" : "Hannibal TV",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=hannibal"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=hannibal"
 				]]
 		},
 		{
@@ -428,11 +428,95 @@
 			"channelName" : "El Hiwar Ettounsi",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=elhiwar_ettounsi"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=elhiwar_ettounsi"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/tn/al_insen_tv_95x67.gif",
+			"channelName" : "Al Insen TV",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alinsen"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alinsen"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/tn/zaytouna-95x51.gif",
+			"channelName" : "Zaytoona",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=zitounatv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=zitounatv"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/tn/alJanubia_95x95.gif",
+			"channelName" : "Al Janoubia TV",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aljanoubiya"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aljanoubiya"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/tn/telvza-95x39.gif",
+			"channelName" : "Telvza TV",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=telvza"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=telvza"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/b/b0/Almostaqila.jpg",
+			"channelName" : "Al Mustakillah TV",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=almustakillah"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=almustakillah"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/tn/attesia-95x65.gif",
+			"channelName" : "Attasiaa",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=attessia_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=attessia_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://i5.satexpat.com/cha/tn/tunisna-95x130.gif",
+			"channelName" : "Tunisna TV",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=tunisna"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=tunisna"
 				]]
 		}
 	],"libya" : [
