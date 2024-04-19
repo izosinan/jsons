@@ -128,7 +128,7 @@
 	],
 	"algeria" : [
 		{
-			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerietv-en-direct.jpg",
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/464px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png?20230916152720",
 			"channelName" : "Algerie 1",
 			"lives" : [
 				[
@@ -156,7 +156,7 @@
 			]
 		},
 		{
-			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie3-Live.jpg",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/algerie3-95x89.gif",
 			"channelName" : "Algerie 3",
 			"lives" : [
 				[
@@ -170,7 +170,7 @@
 			]
 		},
 		{
-			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie4.jpg",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/entv_4_95x92.gif",
 			"channelName" : "Algerie 4",
 			"lives" : [[
 					"",
@@ -182,7 +182,7 @@
 				]]
 		},
 		{
-			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/Algerie5.jpg",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/entv_5_95x92.gif",
 			"channelName" : "Algerie 5",
 			"lives" : [[
 					"",
@@ -194,7 +194,7 @@
 				]]
 		},
 		{
-			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/algerie6.jpg",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/tv6-95x96.gif",
 			"channelName" : "Algerie 6",
 			"lives" : [[
 					"",
@@ -206,7 +206,7 @@
 				]]
 		},
 		{
-			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/el-maarifatv.jpg",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/tv7ElMaarifa-95x81.gif",
 			"channelName" : "Algerie 7",
 			"lives" : [[
 					"",
@@ -218,7 +218,7 @@
 				]]
 		},
 		{
-			"channelImg" : "https://www.azrotv.com/iphone/images/ar_jpg/el-maarifatv.jpg",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/tv8-95x122.gif",
 			"channelName" : "Algerie 8",
 			"lives" : [[
 					"",
@@ -242,8 +242,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/samiraTV_95x82.gif",
+			"channelName" : "Samira TV",
 			"lives" : [[
 					"",
 					"URL"
@@ -254,8 +254,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/echourouk_95x38.gif",
+			"channelName" : "Echorouk TV",
 			"lives" : [[
 					"",
 					"URL"
@@ -266,8 +266,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/elDjazairN1-95x95.gif",
+			"channelName" : "ELDJAZAIR N1",
 			"lives" : [[
 					"",
 					"URL"
@@ -278,8 +278,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/ennaharTV_95x40.gif",
+			"channelName" : "Ennahar TV",
 			"lives" : [[
 					"",
 					"URL"
@@ -290,8 +290,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/alanis-tv-95x94.gif",
+			"channelName" : "Alanis TV",
 			"lives" : [[
 					"",
 					"URL"
@@ -302,8 +302,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/dzair_tv_95x30.gif",
+			"channelName" : "Dzaïr TV",
 			"lives" : [[
 					"",
 					"URL"
@@ -314,8 +314,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/elbilad-95x32.gif",
+			"channelName" : "El Bilad TV",
 			"lives" : [[
 					"",
 					"URL"
@@ -326,8 +326,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/alHayat-95x40.gif",
+			"channelName" : "El Hayat",
 			"lives" : [[
 					"",
 					"URL"
@@ -338,8 +338,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/alfadjr-95x24.gif",
+			"channelName" : "Al Fadjr TV",
 			"lives" : [[
 					"",
 					"URL"
@@ -350,8 +350,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/AL24-News-95x62.gif",
+			"channelName" : "AL24 News",
 			"lives" : [[
 					"",
 					"URL"
@@ -362,8 +362,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/almagharibia-95x75.gif",
+			"channelName" : "Al Magharibia",
 			"lives" : [[
 					"",
 					"URL"
@@ -374,8 +374,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAMECHANNEL",
+			"channelImg" : "https://i5.satexpat.com/cha/dz/elWataniaTV-95x84.gif",
+			"channelName" : "El Watania TV",
 			"lives" : [[
 					"",
 					"URL"
