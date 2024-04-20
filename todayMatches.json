@@ -1,5 +1,4 @@
- [
-    
+ [   
     {
       "team1Img": "https://images.elbotola.com/stats/logos/d23xmvkhz5gqg8n.png",
       "team2Img": "https://images.elbotola.com/stats/logos/jednm9wh134ryox.png",
@@ -22,6 +21,28 @@
         }
       ]
     },
+  {
+      "team1Img": "https://images.elbotola.com/stats/logos/z8yomo4hjonq0j6.png",
+      "team2Img": "https://images.elbotola.com/stats/logos/d23xmvkhzwnqg8n.png",
+      "team1Name": "ليستر سيتي",
+      "team2Name": "وست بروميتش ألبيون",
+      "time": "12:30 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "تشامبيونشيب البطولة الإنجليزية",
+      "channelName": "beIN SPORTS 2",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd2.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
+        }
+      ]
+},
     {
       "team1Img": "https://images.elbotola.com/stats/logos/v2y8m4zh90gql07.png",
       "team2Img": "https://images.elbotola.com/stats/logos/p3glrw7h2nyqdyj.png",
