@@ -585,6 +585,28 @@
         }
       ]
     },
+  {
+      "team1Img": "https://static.flashscore.com/res/image/data/29unvygl-6F3rP4w9.png",
+      "team2Img": "https://static.flashscore.com/res/image/data/GSQZijHG-GQt64pVA.png",
+      "team1Name": "Olympique Lyonnais W",
+      "team2Name": "PSG W",
+      "time": "6:00 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "CHAMPIONS LEAGUE WOMEN",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd8.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven3.php"
+        }
+      ]
+},
     {
       "team1Img": "https://images.elbotola.com/stats/logos/x7lm7phk98lm2wd.png",
       "team2Img": "https://images.elbotola.com/stats/logos/k82rekhv9p3repz.png",
