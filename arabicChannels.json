@@ -680,55 +680,411 @@
 	],
 	"egypte" : [
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/masr/masrelsharq.webp",
-			"channelName" : "قناة الشرق المصرية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/masrelsharq.php"	,
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logoelnas.png/200px-Logoelnas.png",
+			"channelName" : "El Nas",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=elnastv"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=elnastv"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/masr/masrwatan.webp",
-			"channelName" : "قناة وطن المصرية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/masrwatan.php"	,
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/ar/0/07/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%B5%D9%81%D8%A7_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9.png",
+			"channelName" : "Safa TV",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=safatv"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=safatv"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/mbc/mbcm1.webp",
-			"channelName" : "ام بي سي مصر الاولى",
-			"channelUrl" : "https://web24iptv.online/player/phpar/mbcm1.php"	,
+			"channelImg" : "https://watanegypt.tv/wp-content/uploads/2021/10/Logo2020-1.png",
+			"channelName" : "Watan Egypt",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"http://www.elahmad.com/tv/radiant.php?id=watanegypt"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"http://www.elahmad.com/tv/radiant.php?id=watanegypt"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/mbc/mbcm2.webp",
-			"channelName" : "ام بي سي مصر الثانية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/mbcm2.php"	,
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/El_Sharq_New_Logo.png/220px-El_Sharq_New_Logo.png",
+			"channelName" : "El Sharq",
 			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"http://www.elahmad.com/tv/radiant.php?id=elsharqtv1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"http://www.elahmad.com/tv/radiant.php?id=elsharqtv1"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D9%85%D9%84%D9%8A%D9%86.jpg/220px-%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D9%85%D9%84%D9%8A%D9%86.jpg",
+			"channelName" : "Mekameleen TV",
+			"lives" :[[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=mekameleen_tv1"
+				],
+				[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=mekameleen_tv1"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/ar/5/53/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D8%A9_%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9.png",
+			"channelName" : "Al Rahma",
+			"lives" :[[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=alrahma_1"
+				],
+				[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=alrahma_1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/alfath-tv-eg.png",
+			"channelName" : "Al Fath",
+			"lives" :[[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=alfath_tv"
+				],
+				[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=alfath_tv"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Al_Masriyah_Logo.png/200px-Al_Masriyah_Logo.png",
+			"channelName" : "Al Masriyah",
+			"lives" :[[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=almasriyah"
+				],
+				[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=almasriyah"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Channel_1.png/200px-Channel_1.png",
+			"channelName" : "Egyptian Channel 1",
+			"lives" :[[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=egypt_channel1"
+				],
+				[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=egypt_channel1"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Thanyalogo2.png/280px-Thanyalogo2.png",
+			"channelName" : "Egyptian Channel 2",
+			"lives" :[[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=al_thaniya"
+				],
+				[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=al_thaniya"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/220px-ON_logo.png",
+			"channelName" : "On E",
+			"lives" :[[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=ontv1"
+				],
+				[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=ontv1"
+				]]
+		},
+		{
+			"channelImg" : "https://channel.s3.eu-west-3.amazonaws.com/Logos/On+Drama+900x800.png",
+			"channelName" : "ON Drama",
+			"lives" :[[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=on_drama"
+				],
+				[
+					"",
+					"http://www.elahmad.com/tv/radiant.php?id=on_drama"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Dmc_logo.png/280px-Dmc_logo.png",
+			"channelName" : "DmC",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dmc_live_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dmc_live_tv"
+				]]
+		},
+		{
+			"channelImg" : "DMC Drama Tv",
+			"channelName" : "https://upload.wikimedia.org/wikipedia/commons/c/c4/Dmc_drama_logo.png",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dmc_drama_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dmc_drama_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://cdn.imgbin.com/25/22/14/imgbin-egypt-nile-tv-international-news-television-channel-egypt-2NVBgbr4BQb38Gz224D7nC40b.jpg",
+			"channelName" : "Nile News",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=nile_news"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=nile_news"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/en/d/d9/Nile_TV_International.jpg",
+			"channelName" : "Nile TV International",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=nile_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=nile_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/EL_MEHWAR_TV.png/640px-EL_MEHWAR_TV.png",
+			"channelName" : "Mehwar TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=elmehwar"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=elmehwar"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nile_Drama.png/280px-Nile_Drama.png",
+			"channelName" : "Nile Drama",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=niledrama"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=niledrama"
+				]]
+		},
+		{
+			"channelImg" : "https://media0043.elcinema.com/tvguide/1157_1.png",
+			"channelName" : "Nile Cinema",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=nilecinema"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=nilecinema"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/nn/nile_culture_eg.png",
+			"channelName" : "Nile Culture",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=nileculture"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=nileculture"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/nn/nile_life_eg.png",
+			"channelName" : "Nile Life",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=nilelife"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=nilelife"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
 				]]
 		}
 	],
