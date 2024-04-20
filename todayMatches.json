@@ -43,6 +43,28 @@
         }
       ]
 },
+  {
+      "team1Img": "https://static.flashscore.com/res/image/data/6DVY2oh5-WGDgkDs1.png",
+      "team2Img": "https://static.flashscore.com/res/image/data/Miv9FHHG-hfSzJW3s.png",
+      "team1Name": "Barcelona W",
+      "team2Name": "Chelsea FC W",
+      "time": "12:30 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "CHAMPIONS LEAGUE WOMEN",
+      "channelName": "Unknown",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven1.php"
+        }
+      ]
+},
     {
       "team1Img": "https://images.elbotola.com/stats/logos/v2y8m4zh90gql07.png",
       "team2Img": "https://images.elbotola.com/stats/logos/p3glrw7h2nyqdyj.png",
