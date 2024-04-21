@@ -145,6 +145,10 @@
       "channelName": "beIN SPORTS 1",
       "webview": "",
       "live": [
+       {
+          "title": "Live 1",
+          "matchUrl": "https://www.aflam4you.pro/playerae.php?vid=68&aflam_s=1&aflam_k=2222222222"
+        },
         {
           "title": "Live 1",
           "matchUrl": "https://live18.yalla-shoot-tv.biz/chtv/ch1.php"
@@ -363,6 +367,10 @@
       "channelName": "beIN SPORTS 2",
       "webview": "",
       "live": [
+       {
+          "title": "Live 1",
+          "matchUrl": "https://www.aflam4you.pro/playerae.php?vid=2&aflam_s=1&aflam_w=100%&aflam_h=250&aflam_k=2222222222"
+        },
         {
           "title": "Live 1",
           "matchUrl": "https://live18.yalla-shoot-tv.biz/chtv/ch3.php"
@@ -520,6 +528,10 @@
       "channelName": "beIN SPORTS 1",
       "webview": "",
       "live": [
+       {
+          "title": "Live 1",
+          "matchUrl": "https://www.aflam4you.pro/playerae.php?vid=68&aflam_s=1&aflam_k=2222222222"
+        },
         {
           "title": "Live 1",
           "matchUrl": "https://live18.yalla-shoot-tv.biz/chtv/ch5.php"
