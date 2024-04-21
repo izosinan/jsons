@@ -944,147 +944,375 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/nn/nile_sport_eg.png",
+			"channelName" : "Nile Sport",
 			"lives" :[[
 					"",
-					"URL"
+					"http://www.elahmad.com/tv/radiant.php?id=nile_sport"
 				],
 				[
 					"",
-					"URL"
+					"http://www.elahmad.com/tv/radiant.php?id=nile_sport"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/nn/nile_comedy_eg.png",
+			"channelName" : "Nile Comedy",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=nilecomedy"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=nilecomedy"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/alhayah-eg.png",
+			"channelName" : "Alhayah",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant.php?id=alhayat_1"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant.php?id=alhayat_1"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/alhayah-series-eg.png",
+			"channelName" : "Alhayah Series",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant.php?id=alhayat_drama"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant.php?id=alhayat_drama"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/cc/cbc_eg_sofra.png",
+			"channelName" : "CBC Sofra",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant.php?id=cbc_sofra"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant.php?id=cbc_sofra"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/cc/cbc_eg.png",
+			"channelName" : "CBC",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant.php?id=cbc"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant.php?id=cbc"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/cc/cbc_eg_drama.png",
+			"channelName" : "CBC Drama",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant.php?id=cbc_drama_1"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant.php?id=cbc_drama_1"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rotana_Aflam_New.png/280px-Rotana_Aflam_New.png",
+			"channelName" : "Rotana Aflam",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant_player.php?id=rotana_masriya"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/radiant_player.php?id=rotana_masriya"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/rr/rotana_cinema.png",
+			"channelName" : "Rotana Cinema",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/rr/rotana_cinema.png",
+			"channelName" : "Rotana Cinema Egypt",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema_egypt"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_cinema_egypt"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/280px-Rotana_Kids_Logo.png",
+			"channelName" : "Rotana Kids",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_kids"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_kids"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rotana_khalijia_New.png/280px-Rotana_khalijia_New.png",
+			"channelName" : "Rotana khalijia",
 			"lives" :[[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana-khalijia"
 				],
 				[
 					"",
-					"URL"
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana-khalijia"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rotana_Drama_New_Logo.png",
+			"channelName" : "Rotana Drama",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_drama"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_drama"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rotana_Comedy_Logo.png/280px-Rotana_Comedy_Logo.png",
+			"channelName" : "Rotana Comedy",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_comedy"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_comedy"
+				]]
+		},
+		{
+			"channelImg" : "https://media0043.elcinema.com/tvguide/1217_1.png",
+			"channelName" : "Rotana Classic",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_classic"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=rotana_classic"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/c/c1/PNC_Drama_1.jpg",
+			"channelName" : "PNC Drama",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=panorama_drama"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=panorama_drama"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/pp/pnc-drama-2-eg.png",
+			"channelName" : "PNC Drama 2",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=panorama_drama2"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=panorama_drama2"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/pp/pnc-film-eg.png",
+			"channelName" : "PNC Film",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=panorama_film"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=panorama_film"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/pp/pnc-food-eg.png",
+			"channelName" : "PNC Food",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=panorama_food"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=panorama_food"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al-nahar-algadid-eg.png",
+			"channelName" : "Al-Nahar Algadid",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=nahar_tv1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=nahar_tv1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al-nahar-drama-eg.png",
+			"channelName" : "Al-Nahar Drama",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=nahar_drama1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=nahar_drama1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ss/sada_el_balad_tv.png",
+			"channelName" : "Sada Elbalad",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=sadaelbalad"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=sadaelbalad"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ss/sada_el_balad_drama.png",
+			"channelName" : "Sada Elbalad Drama",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=sadadrama"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=sadadrama"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ss/sada_el_balad_tv_2.png",
+			"channelName" : "Sada Elbalad 2",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=elbaladtv2"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=elbaladtv2"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al-kahera-wal-nas-eg.png",
+			"channelName" : "Al Kahera Wal Nas",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=alkaherawalnas1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=alkaherawalnas1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al-kahera-wal-nas-2-eg.png",
+			"channelName" : "Al Kahera Wal Nas 2",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=alkaherawalnas2"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/arabic-tv-online.php?id=alkaherawalnas2"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/alghad-tv-eg.png",
+			"channelName" : "Alghad TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/mobiletv/glarb.php?id=alghad_alarab"
+				],
+				[
+					"",
+					"https://www.youtube.com/embed/xayoDN4BNNI?si=f4gswZIE9r6HjsT9"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/tt/ten-eg.png",
+			"channelName" : "Ten",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=tentv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=tentv"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/mm/mix-hollywood-eg.png",
+			"channelName" : "Mix Hollywood",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=mixbelaraby"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=mixbelaraby"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al-ahly-tv-eg.png",
+			"channelName" : "Al Ahly TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alahly_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alahly_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/zz/zambek-tv-eg.png",
+			"channelName" : "Zamalek TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=zamalek"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=zamalek"
 				]]
 		}
 	],
