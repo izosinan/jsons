@@ -780,11 +780,11 @@
 			"channelName" : "Al Masriyah",
 			"lives" :[[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=almasriyah"
+					"https://www.elahmad.com/tv/radiant.php?id=almasriyah"
 				],
 				[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=almasriyah"
+					"https://www.elahmad.com/tv/radiant.php?id=almasriyah"
 				]]
 		},
 		{
@@ -792,11 +792,11 @@
 			"channelName" : "Egyptian Channel 1",
 			"lives" :[[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=egypt_channel1"
+					"https://www.elahmad.com/tv/radiant.php?id=egypt_channel1"
 				],
 				[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=egypt_channel1"
+					"https://www.elahmad.com/tv/radiant.php?id=egypt_channel1"
 				]]
 		},
 		{
@@ -804,11 +804,11 @@
 			"channelName" : "Egyptian Channel 2",
 			"lives" :[[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=al_thaniya"
+					"https://www.elahmad.com/tv/radiant.php?id=al_thaniya"
 				],
 				[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=al_thaniya"
+					"https://www.elahmad.com/tv/radiant.php?id=al_thaniya"
 				]]
 		},
 		{
@@ -816,11 +816,11 @@
 			"channelName" : "On E",
 			"lives" :[[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=ontv1"
+					"https://www.elahmad.com/tv/radiant.php?id=ontv1"
 				],
 				[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=ontv1"
+					"https://www.elahmad.com/tv/radiant.php?id=ontv1"
 				]]
 		},
 		{
@@ -828,11 +828,11 @@
 			"channelName" : "ON Drama",
 			"lives" :[[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=on_drama"
+					"https://www.elahmad.com/tv/radiant.php?id=on_drama"
 				],
 				[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=on_drama"
+					"https://www.elahmad.com/tv/radiant.php?id=on_drama"
 				]]
 		},
 		{
@@ -948,11 +948,11 @@
 			"channelName" : "Nile Sport",
 			"lives" :[[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=nile_sport"
+					"https://www.elahmad.com/tv/radiant.php?id=nile_sport"
 				],
 				[
 					"",
-					"http://www.elahmad.com/tv/radiant.php?id=nile_sport"
+					"https://www.elahmad.com/tv/radiant.php?id=nile_sport"
 				]]
 		},
 		{
@@ -1318,146 +1318,231 @@
 	],
 	"ksa" : [
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/ahbariya.webp",
-			"channelName" : "السعودية الاخبارية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/ahbariya.php"	,
-			"lives" : [[
-					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
-				],
-				[
-					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
-				]]
-		},
-		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/alarabiye.webp",
-			"channelName" : "قناة العربية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/alarabiye.php"	,
+			"channelImg" : "https://www.lyngsat.com/logo/tv/qq/quran-tv-sa.png",
+			"channelName" : "Quran TV",
 			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=qoran_tv"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=qoran_tv"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/alhadas.webp",
-			"channelName" : "قناة الحدث",
-			"channelUrl" : "https://web24iptv.online/player/phpar/alhadas.php"	,
-			"lives" : [[
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ss/saudi-tv-sa.png",
+			"channelName" : "Saudi TV",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_tv"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_tv"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksa1.webp",
-			"channelName" : "التلفزيون السعودي",
-			"channelUrl" : "https://web24iptv.online/player/phpar/ksa1.php"	,
-			"lives" : [[
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ee/ekhbariya-tv-sa.png",
+			"channelName" : "Ekhbariya TV",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_ekhbariya"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_ekhbariya"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksasport1.webp",
-			"channelName" : "الرياضية السعودية الاولى",
-			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport1.php"	,
-			"lives" : [[
+			"channelImg" : "https://www.lyngsat.com/logo/tv/tt/thikrayat-tv-sa.png",
+			"channelName" : "Thikrayat TV",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_thikrayat"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_thikrayat"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksasport2.webp",
-			"channelName" : "الرياضية السعودية الثانية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport2.php"	,
-			"lives" : [[
+			"channelImg" : "https://www.lyngsat.com/logo/tv/kk/ksa-sports-1-sa.png",
+			"channelName" : "KSA Sports 1",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_sport"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_sport"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/ksasport3.webp",
-			"channelName" : "الرياضية السعودية الثالثة",
-			"channelUrl" : "https://web24iptv.online/player/phpar/ksasport3.php"	,
-			"lives" : [[
+			"channelImg" : "https://www.lyngsat.com/logo/tv/kk/ksa-sports-2-sa.png",
+			"channelName" : "KSA Sports 2",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_sport2"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_sport2"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/zikrayat.webp",
-			"channelName" : "ذكرايات",
-			"channelUrl" : "https://web24iptv.online/player/phpar/zikrayat.php"	,
-			"lives" : [[
+			"channelImg" : "https://www.lyngsat.com/logo/tv/kk/ksa-sports-3-sa.png",
+			"channelName" : "KSA Sports 3",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_sport3"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_sport3"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/medine.webp",
-			"channelName" : "السنة النبوية",
-			"channelUrl" : "https://web24iptv.online/player/phpar/medine.php"	,
-			"lives" : [[
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg",
+			"channelName" : "KSA Sports 4",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_sport4"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_sport4"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/quran.webp",
-			"channelName" : "القران الكريم",
-			"channelUrl" : "https://web24iptv.online/player/phpar/quran.php"	,
-			"lives" : [[
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ss/saudia-alaan-tv-sa.png",
+			"channelName" : "Saudia Alaan TV",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_now"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=saudi_now"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/ksa/sbc.webp",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al-thaqafeya-sa.png",
+			"channelName" : "Al Thaqafeya",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=saudi_thaqafiya"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=saudi_thaqafiya"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ss/sbc-sa.png",
 			"channelName" : "SBC",
-			"channelUrl" : "https://web24iptv.online/player/phpar/sbc.php"	,
-			"lives" : [[
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=sbc_tv"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/watchtv.php?id=sbc_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ii/iqraa-arabic-sa.png",
+			"channelName" : "Iqraa Arabic",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=iqraa_arabic"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=iqraa_arabic"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ii/iqraa-arabic-sa.png",
+			"channelName" : "Iqraa Africa",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=iqraa_africa"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=iqraa_africa"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al-majd-channel-sa.png",
+			"channelName" : "Al-Majd Channel",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al_majd_sa_holy_quran.png",
+			"channelName" : "Holy Quran Channel",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_quran"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_quran"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/%D8%A7%D9%84%D9%85%D8%AC%D8%AF_%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A%D8%A9.png/746px-%D8%A7%D9%84%D9%85%D8%AC%D8%AF_%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A%D8%A9.png",
+			"channelName" : "Almajd Documentary",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_documentary"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_documentary"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_hadeeth"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_hadeeth"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"NAME"
+				],
+				[
+					"",
+					"NAME"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"NAME"
+				],
+				[
+					"",
+					"NAME"
 				]]
 		}
 	],
