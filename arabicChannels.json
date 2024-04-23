@@ -1510,8 +1510,8 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/pp/prophets-al-hadeth-channel-sa.png",
+			"channelName" : "Prophet's Al Hadeth Channel",
 			"lives" :[[
 					"",
 					"https://www.elahmad.com/tv/live/channel.php?id=almajd_hadeeth"
@@ -1522,161 +1522,775 @@
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ee/elmia-channel-sa.png",
+			"channelName" : "Elmia Channel",
 			"lives" :[[
 					"",
-					"NAME"
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_scientific"
 				],
 				[
 					"",
-					"NAME"
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_scientific"
 				]]
 		},
 		{
-			"channelImg" : "IMG",
-			"channelName" : "NAME",
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%D8%B1%D9%88%D8%B6%D8%A9.png/220px-%D8%B1%D9%88%D8%B6%D8%A9.png",
+			"channelName" : "Almajd Rawda",
 			"lives" :[[
 					"",
-					"NAME"
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_rawda"
 				],
 				[
 					"",
-					"NAME"
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_rawda"
+				]]
+		},
+		{
+			"channelImg" : "Almajd Taghreed",
+			"channelName" : "https://almajdtv.com/wp-content/uploads/2021/08/Taghreed_Cover2.png",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_taghreed"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_taghreed"
+				]]
+		},
+		{
+			"channelImg" : "https://almajdtv.com/wp-content/uploads/2021/08/Massah_Cover-1.png",
+			"channelName" : "Almajd Bassma",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_bassma"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_bassma"
+				]]
+		},
+		{
+			"channelImg" : "https://static.wikia.nocookie.net/logopedia/images/c/c0/Almajd_Kids_logo_2023.png/revision/latest/scale-to-width-down/300?cb=20240219150302",
+			"channelName" : "Almajd kids",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_kids"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_kids"
+				]]
+		},
+		{
+			"channelImg" : "https://almajdtv.com/wp-content/uploads/2021/08/Massah_cover.png",
+			"channelName" : "Almajd Masa",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_masa"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/live/channel.php?id=almajd_masa"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/mm/makkah-tv-sa.png",
+			"channelName" : "Makkah TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=makkahtv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=makkahtv"
+				]]
+		},
+		{
+			"channelImg" : "https://pbs.twimg.com/profile_images/1460540748261171203/rnpH_Qto_400x400.jpg",
+			"channelName" : "Al Khalij",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=al_khalij"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=al_khalij"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/asharq-news-ae.svg",
+			"channelName" : "Asharq News",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=asharq_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=asharq_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al_resalah.png",
+			"channelName" : "Alresalah TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alsahraatv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alsahraatv"
 				]]
 		}
 	],
 	"uea" : [
 		{
-			"channelImg" : "",
-			"channelName" : "",
-			"channelUrl" : ""	,
+			"channelImg" : "Al Arabiya",
+			"channelName" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Al-Arabiya_logo_%28old%29.svg/1280px-Al-Arabiya_logo_%28old%29.svg.png",
 			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=alarabiya1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=alarabiya1"
 				]]
 		},
 		{
-			"channelImg" : "",
-			"channelName" : "",
-			"channelUrl" : ""	,
-			"lives" : [[
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Al_Hadath_TV_logo_2023.svg/220px-Al_Hadath_TV_logo_2023.svg.png",
+			"channelName" : "Al Hadath TV",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=alarabiya_alhadath1"
 				]]
 		},
 		{
-			"channelImg" : "",
-			"channelName" : "",
-			"channelUrl" : ""	,
-			"lives" : [[
+			"channelImg" : "https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltbb2b0cf0f8615935/61ee9cfc284f0d35bcbb3af2/Main-Image-SN.jpg",
+			"channelName" : "Skynews",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=skynews_ar1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=skynews_ar1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ss/sharjah-tv-ae.png",
+			"channelName" : "Sharjah TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=al_shariqah1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=al_shariqah1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ss/sharqiya-tv-ae.png",
+			"channelName" : "sharjah Kalba",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=al_sharjah_kalba1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=al_sharjah_kalba1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ss/sharjah_sports_tv.png",
+			"channelName" : "Sharjah Sports",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=al_sharjah_sport1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=al_sharjah_sport1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/dd/dubai-tv-ae.png",
+			"channelName" : "Dubai TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaitv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaitv"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ss/sama-dubai-ae.png",
+			"channelName" : "Sama Dubai",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=samadubai"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=samadubai"
+				]]
+		},
+		{
+			"channelImg" : "https://media0043.elcinema.com/tvguide/1284_1.png",
+			"channelName" : "Dubai Drama",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaidrama"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaidrama"
+				]]
+		},
+		{
+			"channelImg" : "https://media0043.elcinema.com/tvguide/1283_1.png",
+			"channelName" : "Dubai Zaman",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaizaman"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaizaman"
+				]]
+		},
+		{
+			"channelImg" : "https://play-lh.googleusercontent.com/cGkvcdTsHuNR9BALZH24Ib_zjh7yAs9d8Hdta-nJzf8Oi11WWA8d4CrZ9Mcgj_AGqrY",
+			"channelName" : "Noor Dubai",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=noordubai"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=noordubai"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png",
+			"channelName" : "Dubai Racing",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubairacing1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubairacing1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png",
+			"channelName" : "Dubai Racing 2",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubairacing2"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubairacing2"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/dd/dubai-racing-ae.png",
+			"channelName" : "Dubai Racing 3",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubairacing3"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubairacing3"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/dd/dubai-one-ae.png",
+			"channelName" : "Dubai One",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaione"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaione"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+			"channelName" : "Dubai Sports",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaisport1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaisport1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+			"channelName" : "Dubai Sports 2",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaisport2"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaisport2"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png",
+			"channelName" : "Dubai Sports 3",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaisport3"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=dubaisport3"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/1/15/Abu_Dhabi_TV.png",
+			"channelName" : "Abu Dhabi TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=abudhabi_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=abudhabi_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Al%20Emarat.png",
+			"channelName" : "Al Emarat TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=abudhabi_alemarat"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=abudhabi_alemarat"
+				]]
+		},
+		{
+			"channelImg" : "https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20YAS%20TV.png",
+			"channelName" : "Yas TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=yas_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=yas_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://static.wikia.nocookie.net/logopedia/images/6/60/Baynounah_tv_2023.png/revision/latest/scale-to-width-down/300?cb=20231007130951",
+			"channelName" : "Baynounah TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=abudhabi_drama"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=abudhabi_drama"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/220px-Abu_Dhabi_Sports_logo_2023.svg.png",
+			"channelName" : "Abu Dhabi Sports TV 1",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=abudhabi_sports1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=abudhabi_sports1"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ad_sport_2.jpg",
+			"channelName" : "Abu Dhabi Sports TV 2",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=abudhabi_sports_2"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=abudhabi_sports_2"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al-dafrah-tv-ae.png",
+			"channelName" : "Al Dafrah TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aldafrah_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=aldafrah_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al-aan-tv-ae.png",
+			"channelName" : "Al Aan TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alaan1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alaan1"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/ajman-tv-ae.png",
+			"channelName" : "Ajman TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=ajmantv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=ajmantv"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/ff/fujairah-tv-ae.png",
+			"channelName" : "Fujairah TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=fujtv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant_player.php?id=fujtv"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al_wousta_tv_ae.png",
+			"channelName" : "Al Wousta TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alwousta"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alwousta"
 				]]
 		}
 	],
 	"palestine" : [
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/filistin/filalquds.webp",
-			"channelName" : "قناة القدس",
-			"channelUrl" : "http://live.web24iptv.online/player/phpar/filalquds.php"	,
+			"channelImg" : "https://www.lyngsat.com/logo/tv/pp/palestinian-satellite-channel-ps.png",
+			"channelName" : "Palestine TV",
 			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=palestine1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=palestine1"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/filistin/filaqsa.webp",
-			"channelName" : "قناة الاقصى",
-			"channelUrl" : "https://web24iptv.online/player/phpar/filaqsa.php"	,
-			"lives" : [[
+			"channelImg" : "https://www.lyngsat.com/logo/tv/pp/palestine-mobasher-ps.png",
+			"channelName" : "Palestine Mobasher",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=palestine_live"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=palestine_live"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/filistin/filaudeh.webp",
-			"channelName" : "قناة عودة",
-			"channelUrl" : "http://live.web24iptv.online/player/phpar/filaudeh.php"	,
-			"lives" : [[
+			"channelImg" : "https://www.lyngsat.com/logo/tv/mm/musawa-ps.png",
+			"channelName" : "Musawa",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=musawa"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=musawa"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/filistin/filhala.webp",
-			"channelName" : "قناة هلا",
-			"channelUrl" : "https://web24iptv.online/player/phpar/filhala.php"	,
-			"lives" : [[
+			"channelImg" : "https://mr7baksa.com/wp-content/uploads/2023/07/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%B3%D8%B1%D8%A7%D8%AC-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89.jpg",
+			"channelName" : "Al-Aqsa TV",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=aqsatv1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=aqsatv1"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/filistin/filistintoday.webp",
-			"channelName" : "قناة فلسطين اليوم",
-			"channelUrl" : "https://web24iptv.online/player/phpar/filistintoday.php"	,
-			"lives" : [[
+			"channelImg" : "PalToday",
+			"channelName" : "https://media.licdn.com/dms/image/D4E0BAQE4qUJq2PMwig/company-logo_200_200/0/1699537425573/paltoday_tv_logo?e=2147483647&v=beta&t=rbzJ4cAXXscKF4LHkf3vI9cEvj1dqlN8RWuMPQG090s",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=paltoday1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=paltoday1"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/filistin/filmakan.webp",
-			"channelName" : "قناة مكان",
-			"channelUrl" : "https://web24iptv.online/player/phpar/filmakan.php"	,
-			"lives" : [[
+			"channelImg" : "https://www.lyngsat.com/logo/tv/aa/al-quds-today-tv-ps.png",
+			"channelName" : "Al Quds Today TV",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant_player.php?id=qudstv1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant_player.php?id=qudstv1"
 				]]
 		},
 		{
-			"channelImg" : "https://web24iptv.online/img/menu/filistin/filrajin.webp",
-			"channelName" : "قناة راجعين",
-			"channelUrl" : "https://web24iptv.online/player/phpar/filrajin.php"	,
-			"lives" : [[
+			"channelImg" : "http://www.elahmad.com/tv/mobiletv/images/palestinian_tv.jpg?v=6",
+			"channelName" : "Palestinian Tv",
+			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=palestinian_tv"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=palestinian_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://i0.wp.com/alfajertv.com/wp-content/uploads/2021/03/1891383451.jpg?fit=1440%2C1280&ssl=1",
+			"channelName" : "Alfajer Tv",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alfajertv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alfajertv"
+				]]
+		},
+		{
+			"channelImg" : "https://i0.wp.com/alfajertv.com/wp-content/uploads/2021/03/1891383451.jpg?fit=1440%2C1280&ssl=1",
+			"channelName" : "Alfajer Tv 2",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alfajertv2"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alfajertv2"
+				]]
+		},
+		{
+			"channelImg" : "https://i0.wp.com/alfajertv.com/wp-content/uploads/2021/03/1891383451.jpg?fit=1440%2C1280&ssl=1",
+			"channelName" : "Alfajer Tv 3",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alfajertv3"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alfajertv3"
+				]]
+		},
+		{
+			"channelImg" : "https://i0.wp.com/alfajertv.com/wp-content/uploads/2021/03/1891383451.jpg?fit=1440%2C1280&ssl=1",
+			"channelName" : "Alfajer Tv 4",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alfajertv4"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alfajertv4"
+				]]
+		},
+		{
+			"channelImg" : "https://i0.wp.com/alfajertv.com/wp-content/uploads/2021/03/1891383451.jpg?fit=1440%2C1280&ssl=1",
+			"channelName" : "Alfajer Tv 5",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alfajertv5"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alfajertv5"
+				]]
+		},
+		{
+			"channelImg" : "https://www.lyngsat.com/logo/tv/mm/maan-tv-ps.png",
+			"channelName" : "Ma'an TV",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=maannews1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=maannews1"
+				]]
+		},
+		{
+			"channelImg" : "https://arn.ps/assets/images/ajyal_og.jpg",
+			"channelName" : "Ajyal 1",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=ajyal_arn_1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=ajyal_arn_1"
+				]]
+		},
+		{
+			"channelImg" : "http://www.elahmad.com/tv/mobiletv/images/najah.jpg?v=6",
+			"channelName" : "Najah Tv",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=najah_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=najah_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://qanawat.taghtia.com/assets/channels/audeh-tv.png",
+			"channelName" : "Audeh Tv",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=audeh_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=audeh_tv"
+				]]
+		},
+		{
+			"channelImg" : "http://www.elahmad.com/tv/mobiletv/images/watartv.jpg?v=6",
+			"channelName" : "Watar Tv",
+			"lives" :[[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=watartv_1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=watartv_1"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
+				]]
+		},
+		{
+			"channelImg" : "IMG",
+			"channelName" : "NAME",
+			"lives" :[[
+					"",
+					"URL"
+				],
+				[
+					"",
+					"URL"
 				]]
 		}
 	],
