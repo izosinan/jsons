@@ -148,30 +148,7 @@
         }
       ]
     },
-    {
-      "team1Img":
-          "https://ssl.gstatic.com/onebox/media/sports/logos/QKZVogU66ByvZRqIAIVtmA_96x96.png",
-      "team2Img":
-          "https://ssl.gstatic.com/onebox/media/sports/logos/9dscoX8iYhzbjSNxXVp2gQ_96x96.png",
-      "team1Name": "كلوب أميريكا",
-      "team2Name": "باتشوكا",
-      "time": "3:15 PM",
-      "gmt": "GMT+1",
-      "color": 1,
-      "leagueName": "دوري أبطال الكونكاكاف",
-      "channelName": "SSC Sports HD1",
-      "webview": "",
-      "live": [
-        {
-          "title": "Live 1",
-          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
-        },
-        {
-          "title": "Live 2",
-          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
-        }
-      ]
-    },
+
     {
       "team1Img":
           "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/28919",
@@ -697,6 +674,30 @@
         {
           "title": "Live 2",
           "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
+        }
+      ]
+    },
+           {
+      "team1Img":
+          "https://ssl.gstatic.com/onebox/media/sports/logos/QKZVogU66ByvZRqIAIVtmA_96x96.png",
+      "team2Img":
+          "https://ssl.gstatic.com/onebox/media/sports/logos/9dscoX8iYhzbjSNxXVp2gQ_96x96.png",
+      "team1Name": "كلوب أميريكا",
+      "team2Name": "باتشوكا",
+      "time": "3:15 AM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "دوري أبطال الكونكاكاف",
+      "channelName": "SSC Sports HD1",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
         }
       ]
     }
