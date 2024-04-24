@@ -164,7 +164,7 @@
       "team2Name": "أبديش آتا",
       "time": "10:00 AM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "كأس الاتحاد الآسيوي",
       "channelName": "SSC Extra HD1",
       "webview": "",
@@ -188,14 +188,14 @@
       "team2Name": "أولسان هيونداي",
       "time": "11:00 AM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "دوري أبطال آسيا",
       "channelName": "SSC Sports HD1",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://www.aflam4you.net/playeraf.php?vid=167&aflam_s=1&aflam_w=100%&aflam_h=250&aflam_k=1111222211111"
+          "matchUrl": "https://www.aflam4you.net/playeraf.php?vid=167&aflam_s=2&aflam_w=100%&aflam_h=250&aflam_k=1111222211111"
         },
         {
           "title": "Live 2",
@@ -730,7 +730,7 @@
         {
           "title": "Live 1",
           "matchUrl":
-              "https://www.aflam4you.net/playeraf.php?vid=167&aflam_s=1&aflam_w=100%&aflam_h=250&aflam_k=1111222211111"
+              "https://www.aflam4you.net/playeraf.php?vid=167&aflam_s=2&aflam_w=100%&aflam_h=250&aflam_k=1111222211111"
         },
         {
           "title": "Live 2",
