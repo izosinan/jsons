@@ -2600,44 +2600,126 @@
 	],
 	"syria" : [
 		{
-			"channelImg" : "hhhhhhhhh",
-			"channelName" : "hhhhhhhhh",
-			"channelUrl" : "hhhhhhhhh"	,
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/en/7/71/Syrian_TV_Logo.png",
+			"channelName" : "Syrian TV",
 			"lives" :[[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=syriatv2"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=syriatv2"
 				]]
 		},
 		{
-			"channelImg" : "hhhhhhhhh",
-			"channelName" : "hhhhhhhhh",
-			"channelUrl" : "hhhhhhhhh"	,
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/ar/3/3e/%D9%82%D9%86%D8%A7%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9_%D8%AF%D8%B1%D8%A7%D9%85%D8%A7.png",
+			"channelName" : "Syria Drama",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=syria_drama1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=syria_drama1"
 				]]
 		},
 		{
-			"channelImg" : "hhhhhhhhh",
-			"channelName" : "hhhhhhhhh",
-			"channelUrl" : "hhhhhhhhh"	,
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/en/a/a2/Syrian_News_Logo.png",
+			"channelName" : "Syrian News",
 			"lives" : [[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=alikhbaria_syria1"
 				],
 				[
 					"",
-					"https://www.elahmad.com/tv/radiant.php?id=aloula1"
+					"https://www.elahmad.com/tv/radiant.php?id=alikhbaria_syria1"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png",
+			"channelName" : "Sama TV",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=sama_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=sama_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/0/00/Ugarittv.png",
+			"channelName" : "Ugarit Tv",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=syria_ugarit"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=syria_ugarit"
+				]]
+		},
+		{
+			"channelImg" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%AD%D9%84%D8%A8_%D8%A7%D9%84%D9%8A%D9%88%D9%85.jpg/800px-%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%AD%D9%84%D8%A8_%D8%A7%D9%84%D9%8A%D9%88%D9%85.jpg",
+			"channelName" : "Halabtoday Tv",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=halabtoday1"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=halabtoday1"
+				]]
+		},
+		{
+			"channelImg" : "https://tlfaz.com/wp-content/uploads/2023/03/Lana-Tv-300x300.png",
+			"channelName" : "Lana Tv",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=lana_syria"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=lana_syria"
+				]]
+		},
+		{
+			"channelImg" : "https://play-lh.googleusercontent.com/ihmGKNbRH9VO9NwrYuLl9L3I-3TbP7VVxKFBqfKeSKqYexLzXFADU_c8lHakvtQdgOc2",
+			"channelName" : "Syria Tv",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=syria_tv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=syria_tv"
+				]]
+		},
+		{
+			"channelImg" : "https://alyaumtv.net/wp-content/uploads/2017/02/alyaom-1-1-1.png",
+			"channelName" : "Alyaom Tv",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alyaumtv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/watchtv.php?id=alyaumtv"
+				]]
+		},
+		{
+			"channelImg" : "https://media.licdn.com/dms/image/C4D0BAQFC5M9PqPbpOA/company-logo_200_200/0/1631314839326?e=2147483647&v=beta&t=UjPOrp03XHk299MsokzX6QInyrx-if6G-nJFQoBZdJc",
+			"channelName" : "Alqanat Tv",
+			"lives" : [[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alqanattv"
+				],
+				[
+					"",
+					"https://www.elahmad.com/tv/radiant.php?id=alqanattv"
 				]]
 		}
+		
 	],
 	"iraq" : [
 		{
