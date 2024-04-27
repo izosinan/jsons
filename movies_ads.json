@@ -2,6 +2,7 @@
   "ads": "facebook",
   "live_matches_ads" : "facebook",
   "yacir_tv_ads" : "facebook",
+  "admob_id" : 1,
   "facebook" : 0,
   "instagram" : 0,
   "twiter" : 0,
