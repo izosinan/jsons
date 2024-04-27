@@ -76,9 +76,9 @@
       "team2Img": "https://images.elbotola.com/stats/logos/gpxwrxlhw8gryk0.png",
       "team1Name": "وست هام يونايتد",
       "team2Name": "ليفربول",
-      "time": "12:30 PM",
-      "gmt": "GMT+1",
-      "color": 2,
+      "time": "2 - 2",
+      "gmt": "",
+      "color": 3,
       "leagueName": "الدوري الإنجليزي الممتاز",
       "channelName": "beIN SPORTS 1",
       "webview": "",
@@ -208,7 +208,7 @@
       "team2Name": "كريستال بالاس",
       "time": "3:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإنجليزي الممتاز",
       "channelName": "Unknown",
       "webview": "",
@@ -234,7 +234,7 @@
       "team2Name": "بيرنلي",
       "time": "3:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإنجليزي الممتاز",
       "channelName": "beIN SPORTS 1",
       "webview": "",
@@ -245,11 +245,11 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://freesportstime.com/total/soccer8.php"
+          "matchUrl": "https://www.aflam4you.pro/playerae.php?vid=68&aflam_s=1&aflam_k=2222222222"
         },
         {
           "title": "Live 3",
-          "matchUrl": "https://freesportstime.com/total/soccer7.php"
+          "matchUrl": "https://freesportstime.com/total/soccer8.php"
         }
       ]
     },
@@ -260,7 +260,7 @@
       "team2Name": "شيفيلد يونايتد",
       "time": "3:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإنجليزي الممتاز",
       "channelName": "beIN SPORTS 2",
       "webview": "",
@@ -271,11 +271,11 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://freesportstime.com/total/soccer8.php"
+          "matchUrl": "https://www.aflam4you.pro/playerae.php?vid=2&aflam_s=1&aflam_w=100%&aflam_h=250&aflam_k=2222222222"
         },
         {
           "title": "Live 3",
-          "matchUrl": "https://freesportstime.com/total/soccer7.php"
+          "matchUrl": "https://freesportstime.com/total/soccer8.php"
         }
       ]
     },
@@ -286,7 +286,7 @@
       "team2Name": "لوتون تاون",
       "time": "3:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإنجليزي الممتاز",
       "channelName": "Unknown",
       "webview": "",
@@ -312,7 +312,7 @@
       "team2Name": "زد إف سي",
       "time": "3:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 2",
       "webview": "",
@@ -336,7 +336,7 @@
       "team2Name": "خورفكان",
       "time": "3:05 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإماراتي",
       "channelName": "أبوظبي الرياضية 2",
       "webview": "",
@@ -363,7 +363,7 @@
       "team2Name": "البطائح",
       "time": "3:05 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإماراتي",
       "channelName": "أبوظبي الرياضية 1",
       "webview": "",
@@ -390,7 +390,7 @@
       "team2Name": "خيتافي",
       "time": "3:15 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإسباني",
       "channelName": "beIN SPORTS 3",
       "webview": "",
@@ -577,11 +577,11 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://freesportstime.com/total/soccer8.php"
+          "matchUrl": "https://www.aflam4you.pro/playerae.php?vid=2&aflam_s=1&aflam_w=100%&aflam_h=250&aflam_k=2222222222"
         },
         {
           "title": "Live 3",
-          "matchUrl": "https://freesportstime.com/total/soccer7.php"
+          "matchUrl": "https://freesportstime.com/total/soccer8.php"
         }
       ]
     },
@@ -629,7 +629,7 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://freesportstime.com/total/soccer8.php"
+          "matchUrl": "https://www.aflam4you.pro/playerae.php?vid=68&aflam_s=1&aflam_k=2222222222"
         },
         {
           "title": "Live 3",
@@ -810,7 +810,7 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://freesportstime.com/total/soccer8.php"
+          "matchUrl": "https://www.aflam4you.pro/playerae.php?vid=68&aflam_s=1&aflam_k=2222222222"
         },
         {
           "title": "Live 3",
@@ -836,7 +836,7 @@
         },
         {
           "title": "Live 2",
-          "matchUrl": "https://freesportstime.com/total/soccer8.php"
+          "matchUrl": "https://www.aflam4you.pro/playerae.php?vid=1&aflam_s=1&aflam_w=100%&aflam_h=250&aflam_k=2222222222"
         },
         {
           "title": "Live 3",
