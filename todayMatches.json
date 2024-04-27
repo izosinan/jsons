@@ -78,7 +78,7 @@
       "team2Name": "ليفربول",
       "time": "12:30 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإنجليزي الممتاز",
       "channelName": "beIN SPORTS 1",
       "webview": "",
@@ -104,14 +104,14 @@
       "team2Name": "جيرونا",
       "time": "1:00 PM",
       "gmt": "GMT+1",
-      "color": 1,
+      "color": 2,
       "leagueName": "الدوري الإسباني",
       "channelName": "beIN SPORTS 3",
       "webview": "",
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://streambtw.com/iframe/ch6.php"
+          "matchUrl": "https://live19.yalla-shoot-tv.biz/chtv/ch2.php"
         },
         {
           "title": "Live 2",
