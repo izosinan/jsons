@@ -4,6 +4,7 @@
   "yacir_tv_ads" : "adfb",
   "admob_id_number" : 1,
   "live_matches" : {
+    "admob_app_id" : "ca-app-pub-8695999282220809~5942466208",
     "admob_banner_id" : "ca-app-pub-8695999282220809/7527011893",
     "admob_inter_id" : "ca-app-pub-8695999282220809/8648521875",
     "facebook_banner_id" : "940628810829071_940629617495657",
