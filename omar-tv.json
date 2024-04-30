@@ -1,7 +1,7 @@
 {
   "ads": "facebook",
   "app_version" : "1.0.4",
-  "show_app" : false,
+  "show_apps" : false,
   "show_channels" : false,
   "fb_id" : {
     "facebook_banner_id" : "940628810829071_940629617495657",
