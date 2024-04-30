@@ -1,6 +1,7 @@
 {
   "ads": "facebook",
   "app_version" : "1.0.4",
+  "version_number" : 0,
   "show_apps" : false,
   "show_channels" : false,
   "fb_id" : {
