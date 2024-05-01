@@ -4,6 +4,7 @@
   "version_number" : 0,
   "show_apps" : false,
   "show_channels" : false,
+  "packageName" : "",
   "fb_id" : {
     "facebook_banner_id" : "940628810829071_940629617495657",
     "facebook_inter_id" : "940628810829071_940629714162314",
