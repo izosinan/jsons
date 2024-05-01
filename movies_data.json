@@ -19,6 +19,7 @@
   "yacir_tv_version" : "1.17.0",
   "yacir_tv_num" : 0,
   "live_matches_version" : "1.12.4",
+  "live_matches_package_name" : "",
   "live_matches_num" : 1,
   "show" : false,
   "cpm_video" : {
