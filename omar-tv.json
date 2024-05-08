@@ -3,7 +3,7 @@
   "app_version" : "1.1",
   "version_number" : 0,
   "show_apps" : false,
-  "show_channels" : true,
+  "show_channels" : false,
   "packageName" : "",
   "fb_id" : {
     "facebook_banner_id" : "940628810829071_940629617495657",
