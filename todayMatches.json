@@ -13,11 +13,11 @@
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
       },
       {
         "title": "Live 2",
-        "matchUrl": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
       }
     ]
   },
@@ -35,11 +35,11 @@
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
       },
       {
         "title": "Live 2",
-        "matchUrl": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
       }    
 ]
   },
@@ -57,11 +57,11 @@
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
       },
       {
         "title": "Live 2",
-        "matchUrl": "http://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
       }    
     ]
   },
