@@ -1,79 +1,78 @@
 [
-  
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/5599",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5102",
-    "team1Name": "موريتانيا",
-    "team2Name": "السنغال",
-    "time": "0 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم أفريقيا",
-    "channelName": "SSC Extra1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5096",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5104",
-    "team1Name": "ناميبيا",
-    "team2Name": "تونس",
-    "time": "0 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم أفريقيا",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5419",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5100",
+    "team1Name": "غينيا بيساو",
+    "team2Name": "مصر",
+    "time": "5:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "تصفيات كأس العالم",
     "channelName": "SSC HD1",
     "webview": "",
     "live": [
-     {
+      {
         "title": "Live 1",
         "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_1"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://live28.yalla-shoot-tv.biz/chtv/ch1"
+        "matchUrl": "https://live28.yalla-shoot-tv.biz/chtv/ch1.php"
       }
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5039",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5043",
-    "team1Name": "سلوفاكيا",
-    "team2Name": "ويلز",
-    "time": "4 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "وديات منتخبات",
-    "channelName": "beIN SPORTS 4",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5107",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5109",
+    "team1Name": "أوغندا",
+    "team2Name": "الجزائر",
+    "time": "5:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "تصفيات كأس العالم",
+    "channelName": "SSC Extra1",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
+        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
+        "matchUrl": "https://live28.yalla-shoot-tv.biz/chtv/ch2.php"
       }
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2375",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5048",
-    "team1Name": "إيطاليا",
-    "team2Name": "البوسنة والهرسك",
-    "time": "1 - 0",
-    "gmt": "",
-    "color": 3,
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5098",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2386",
+    "team1Name": "بنين",
+    "team2Name": "نيجيريا",
+    "time": "5:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "تصفيات كأس العالم",
+    "channelName": "SSC Extra2",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2377",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5067",
+    "team1Name": "هولندا",
+    "team2Name": "آيسلندا",
+    "time": "7:45 PM",
+    "gmt": "GMT+1",
+    "color": 1,
     "leagueName": "وديات منتخبات",
     "channelName": "beIN SPORTS 3",
     "webview": "",
@@ -84,41 +83,11 @@
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd8.php"
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd1.php"
       },
       {
         "title": "Live 3",
-        "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
-      },
-      {
-        "title": "Live 4",
-        "matchUrl": "https://v2.sportsonline.si/channels/bra/br5.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5061",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2388",
-    "team1Name": "فرنسا",
-    "team2Name": "كندا",
-    "time": "0 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "وديات منتخبات",
-    "channelName": "beIN SPORTS 2",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live28.yalla-shoot-tv.biz/chtv/ch2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
-      },
-      {
-        "title": "Live 3",
-        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd4.php"
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd2.php"
       },
       {
         "title": "Live 4",
@@ -131,28 +100,80 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/2378",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5075",
-    "team1Name": "الأرجنتين",
-    "team2Name": "الإكوادور",
-    "time": "1 - 0",
-    "gmt": "",
-    "color": 3,
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5038",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5047",
+    "team1Name": "بولندا",
+    "team2Name": "تركيا",
+    "time": "7:45 PM",
+    "gmt": "GMT+1",
+    "color": 1,
     "leagueName": "وديات منتخبات",
-    "channelName": "الشارقة الرياضية",
+    "channelName": "beIN SPORTS 2",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live28.yalla-shoot-tv.biz/chtv/ch3.php"
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd10.php"
       },
       {
         "title": "Live 3",
-        "matchUrl": "https://v2.sportsonline.si/channels/bra/br1.php"
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd11.php"
+      },
+      {
+        "title": "Live 4",
+        "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
+      },
+      {
+        "title": "Live 5",
+        "matchUrl": "https://v2.sportsonline.si/channels/bra/br6.php"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5420",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5603",
+    "team1Name": "بوركينا فاسو",
+    "team2Name": "سيرا ليون",
+    "time": "8:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "تصفيات كأس العالم",
+    "channelName": "SSC Extra3",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra3"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra3"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5094",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5418",
+    "team1Name": "غانا",
+    "team2Name": "أفريقيا الوسطى",
+    "time": "8:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "تصفيات كأس العالم",
+    "channelName": "SSC HD1",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_1"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://live28.yalla-shoot-tv.biz/chtv/ch1"
       }
     ]
   }
