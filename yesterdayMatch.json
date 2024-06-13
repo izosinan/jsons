@@ -1,268 +1,92 @@
 [
- 
+  
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5079",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5491",
-    "team1Name": "قطر",
-    "team2Name": "الهند",
-    "time": "2 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "الكاس 1",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/28912",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5414",
+    "team1Name": "اليابان",
+    "team2Name": "بنما",
+    "time": "1:30 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "دورة تولون الدولية",
+    "channelName": "Unknown",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/alkass_hd.php?id=one"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/alkass_hd.php?id=one"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5092",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/12989",
-    "team1Name": "الكويت",
-    "team2Name": "أفغانستان",
-    "time": "1 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "الكاس 2",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "http://www.elahmad.com/tv/alkass_hd.php?id=2"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "http://www.elahmad.com/tv/alkass_hd.php?id=2"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5081",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/11295",
-    "team1Name": "عمان",
-    "team2Name": "قرغيزستان",
-    "time": "1 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "الكاس 4",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "http://www.elahmad.com/tv/alkass_hd.php?id=4"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "http://www.elahmad.com/tv/alkass_hd.php?id=4"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5088",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/13895",
-    "team1Name": "لبنان",
-    "team2Name": "بنجلاديش",
-    "time": "4 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "الكاس 5",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "http://www.elahmad.com/tv/alkass_hd.php?id=5"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "http://www.elahmad.com/tv/alkass_hd.php?id=5"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5411",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5908",
-    "team1Name": "الرأس الأخضر",
-    "team2Name": "ليبيا",
-    "time": "1 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "SSC HD5",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_5"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5101",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5407",
-    "team1Name": "زامبيا",
-    "team2Name": "تنزانيا",
-    "time": "0 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "SSC HD2",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_2"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_2"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5089",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5080",
-    "team1Name": "الإمارات",
-    "team2Name": "البحرين",
-    "time": "1 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "أبوظبي الرياضية 1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports1"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5078",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5462",
-    "team1Name": "العراق",
-    "team2Name": "فيتنام",
-    "time": "3 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "العراقية الرياضية",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aliraqya_sport"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5087",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5083",
-    "team1Name": "السعودية",
-    "team2Name": "الأردن",
-    "time": "1 - 2",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "الكاس 1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/alkass_hd.php?id=one"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/alkass_hd.php?id=one"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/7497",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8584",
-    "team1Name": "اليمن",
-    "team2Name": "نيبال",
-    "time": "2 - 2",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "الكردية العراقية",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=kurdistan_tv"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=kurdistan_tv"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5028",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5064",
-    "team1Name": "البرتغال",
-    "team2Name": "أيرلندا",
-    "time": "3 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "وديات منتخبات",
-    "channelName": "beIN SPORTS 2",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live28.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd1.php"
-      },
-      {
-        "title": "Live 3",
-        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd3.php"
-      },
-      {
-        "title": "Live 4",
         "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
       },
       {
-        "title": "Live 5",
-        "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
+        "title": "Live 2",
+        "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
       }
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5110",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5093",
-    "team1Name": "الكونغو",
-    "team2Name": "المغرب",
-    "time": "0 - 6",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2375",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/6499",
+    "team1Name": "إيطاليا",
+    "team2Name": "إندونيسيا",
+    "time": "5:15 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "دورة تولون الدولية",
+    "channelName": "Unknown",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://v2.sportsonline.si/channels/pt/sporttv1.php"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://images.elbotola.com/stats/logos/8y39mp1h84jmojx.png",
+    "team2Img": "https://images.elbotola.com/stats/logos/d23xmvkh562qg8n.png",
+    "team1Name": "إيبار",
+    "team2Name": "ريال أوفييدو",
+    "time": "8:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "الدوري الإسباني الدرجة الثانية",
+    "channelName": "Unknown",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
+      },
+      {
+        "title": "Live 3",
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd7.php"
+      },
+      {
+        "title": "Live 4",
+        "matchUrl": "https://v2.sportsonline.si/channels/pt/eleven1.php"
+      },
+      {
+        "title": "Live 5",
+        "matchUrl": "https://v2.sportsonline.si/channels/bra/br6.php"
+      }
+    ]
+  },
+ {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/27972",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2379",
+    "team1Name": "الولايات المتحدة",
+    "team2Name": "البرازيل",
+    "time": "12:00 AM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "وديات منتخبات",
     "channelName": "SSC HD1",
     "webview": "",
     "live": [
@@ -272,29 +96,41 @@
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_1"
+        "matchUrl": "https://live28.yalla-shoot-tv.biz/chtv/ch1.php"
+      },
+      {
+        "title": "Live 3",
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd5.php"
+      },
+      {
+        "title": "Live 4",
+        "matchUrl": "https://v2.sportsonline.si/channels/bra/br1.php"
+      },
+      {
+        "title": "Live 5",
+        "matchUrl": "https://v2.sportsonline.si/channels/bra/br2.php"
       }
     ]
   },
-   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5074",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5070",
-    "team1Name": "تشيلي",
-    "team2Name": "باراغواي",
-    "time": "3 - 0",
-    "gmt": "",
-    "color": 3,
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5075",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5077",
+    "team1Name": "الإكوادور",
+    "team2Name": "بوليفيا",
+    "time": "1:30 AM",
+    "gmt": "GMT+1",
+    "color": 1,
     "leagueName": "وديات منتخبات",
     "channelName": "Unknown",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd10.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd6.php"
+        "matchUrl": "https://v2.sportsonline.si/channels/hd/hd10.php"
       }
     ]
   }
