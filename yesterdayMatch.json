@@ -1,7 +1,7 @@
 [
 {
-      "team1Img": "IMG",
-      "team2Img": "IMG",
+      "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5039",
+      "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5060",
       "team1Name": "سلوفاكيا",
       "team2Name": "رومانيا",
       "time": "1 - 1",
@@ -22,8 +22,8 @@
       ]
 },
 {
-      "team1Img": "IMG",
-      "team2Img": "IMG",
+      "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5057",
+      "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2373",
       "team1Name": "أوكرانيا",
       "team2Name": "بلجيكا",
       "time": "0 - 0",
@@ -44,8 +44,8 @@
       ]
 },
 {
-      "team1Img": "IMG",
-      "team2Img": "IMG",
+      "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5040",
+      "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5047",
       "team1Name": "التشيك",
       "team2Name": "تركيا",
       "time": "1 - 2",
@@ -66,8 +66,8 @@
       ]
 },
 {
-      "team1Img": "IMG",
-      "team2Img": "IMG",
+      "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5066",
+      "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5028",
       "team1Name": "جورجيا",
       "team2Name": "البرتغال",
       "time": "2 - 0",
