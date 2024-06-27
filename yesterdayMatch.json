@@ -1,20 +1,20 @@
 [
- 
+  
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/5055",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2375",
-    "team1Name": "كرواتيا",
-    "team2Name": "إيطاليا",
-    "time": "1 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "كأس أمم أوروبا ",
-    "channelName": "beINSPORTS MAX1",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2377",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/5059",
+    "team1Name": "هولندا",
+    "team2Name": "النمسا",
+    "time": "5:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "كأس أمم أوروبا",
+    "channelName": "beINSPORTS MAX2",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live37.yalla-shoot-tv.biz/chtv/ch2.php"
+        "matchUrl": "https://live38.yalla-shoot-tv.biz/chtv/ch1.php"
       },
       {
         "title": "Live 2",
@@ -22,11 +22,45 @@
       },
       {
         "title": "Live 3",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd10.php"
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd8.php"
       },
       {
         "title": "Live 4",
         "matchUrl": "https://v3.sportsonline.si/channels/pt/sporttv2.php"
+      },
+      {
+        "title": "Live 5",
+        "matchUrl": "https://v3.sportsonline.si/channels/bra/br3.php"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5061",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5038",
+    "team1Name": "فرنسا",
+    "team2Name": "بولندا",
+    "time": "5:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "كأس أمم أوروبا",
+    "channelName": "beINSPORTS MAX1",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://live38.yalla-shoot-tv.biz/chtv/ch2.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd1.php"
+      },
+      {
+        "title": "Live 3",
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd6.php"
+      },
+      {
+        "title": "Live 4",
+        "matchUrl": "https://v3.sportsonline.si/channels/pt/sporttv1.php"
       },
       {
         "title": "Live 5",
@@ -35,24 +69,80 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5029",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5050",
-    "team1Name": "ألبانيا",
-    "team2Name": "إسبانيا",
-    "time": "0 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "كأس أمم أوروبا ",
+    "team1Img": "https://images.elbotola.com/stats/logos/ednm9whkkggryox.png",
+    "team2Img": "https://images.elbotola.com/stats/logos/4wyrn4h8889q86p.png",
+    "team1Name": "الأهلي",
+    "team2Name": "الزمالك",
+    "time": "5:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "الدوري المصري الممتاز",
+    "channelName": "Unknown",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5054",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5041",
+    "team1Name": "إنجلترا",
+    "team2Name": "سلوفينيا",
+    "time": "8:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "كأس أمم أوروبا",
+    "channelName": "beINSPORTS MAX1",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://live38.yalla-shoot-tv.biz/chtv/ch2.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd1.php"
+      },
+      {
+        "title": "Live 3",
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd6.php"
+      },
+      {
+        "title": "Live 4",
+        "matchUrl": "https://v3.sportsonline.si/channels/pt/sporttv2.php"
+      },
+      {
+        "title": "Live 5",
+        "matchUrl": "https://v3.sportsonline.si/channels/bra/br3.php"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5027",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2374",
+    "team1Name": "الدنمارك",
+    "team2Name": "صربيا",
+    "time": "8:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "كأس أمم أوروبا",
     "channelName": "beINSPORTS MAX2",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live37.yalla-shoot-tv.biz/chtv/ch1.php"
+        "matchUrl": "https://live38.yalla-shoot-tv.biz/chtv/ch1.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd1.php"
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd2.php"
       },
       {
         "title": "Live 3",
@@ -64,29 +154,51 @@
       },
       {
         "title": "Live 5",
-        "matchUrl": "https://v3.sportsonline.si/channels/bra/br3.php"
+        "matchUrl": "https://v3.sportsonline.si/channels/bra/br1.php"
       }
     ]
   },
-   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v12/Competitors/2379",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v11/Competitors/5424",
-    "team1Name": "البرازيل",
-    "team2Name": "كوستاريكا",
-    "time": "0 - 0",
-    "gmt": "",
-    "color": 3,
+  {
+    "team1Img": "https://images.elbotola.com/stats/logos/kdj2ryohw93q1zp.png",
+    "team2Img": "https://images.elbotola.com/stats/logos/x7lm7phk98lm2wd.png",
+    "team1Name": "الرجاء الرياضي",
+    "team2Name": "مولودية وجدة",
+    "time": "8:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "كأس العرش المغربي",
+    "channelName": "Unknown",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://www.youtube.com/embed/bqkz4VikhlU?si=UuKNsPP-2XbaYfwh"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://www.youtube.com/embed/bqkz4VikhlU?si=UuKNsPP-2XbaYfwh"
+      }
+    ]
+  },
+ {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v11/Competitors/5074",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v15/Competitors/2378",
+    "team1Name": "تشيلي",
+    "team2Name": "الأرجنتين",
+    "time": "2:00 AM",
+    "gmt": "GMT+1",
+    "color": 1,
     "leagueName": "كوبا أمريكا",
     "channelName": "Unknown",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live37.yalla-shoot-tv.biz/chtv/ch3.php"
+        "matchUrl": "https://v3.sportsonline.si/channels/bra/br1.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd1.php"
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd2.php"
       },
       {
         "title": "Live 3",
