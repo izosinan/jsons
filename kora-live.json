@@ -1,0 +1,36 @@
+{
+  "ads": "ff",
+  "app_version" : "1.1",
+  "version_number" : 0,
+  "show_apps" : false,
+  "show_channels" : false,
+  "packageName" : "",
+  "fb_id" : {
+    "facebook_banner_id" : "940628810829071_940629617495657",
+    "facebook_inter_id" : "940628810829071_940629714162314",
+    "facebook_native_id" : "940628810829071_958159965742622"
+    },
+  "send_trafic" : {
+   "app_number" : 0,
+   "app_id" : "com.imamhusseinwallpaper.imamhussein",
+   "app_image" : "https://play-lh.googleusercontent.com/lK3TtEb_FqIJlQGbkcJ8ItUMmcb6juIrmbKrz5tVlfmCAKZSFaZd0Nhbh0l6GnLvMw=w240-h480",
+   "background_image" : "https://play-lh.googleusercontent.com/u_sCezGaNJvck3vP1hX8d5xQ7zJbv9WMjyiq2eqkr35CPEybjB7sBsJcgEXAeTP7A3I=w2560-h1440",
+   "text" : "شاهد المباريات بدون إنقطاع وبجودة عالية على التطبيق"
+  },
+  "apps" : [
+    {
+     "app_name": "amazing 4K water wallpaper",
+     "app_ID": "com.waterfall.wallpaper4k.wallpaper",
+     "app_image": "https://play-lh.googleusercontent.com/xV709QicWwU4Qrckj-vzXYIALFcIghKNyyHN5WD-7APtwb7kKYUzWhtK_y9MNBR_ai7-=w240-h480"
+   },
+   {
+     "app_name": "Wednesday Addams 4k wallpaper",
+     "app_ID": "com.wednesdayaddams.wednesdaywallpaper.tocabocawednesday",
+     "app_image": "https://play-lh.googleusercontent.com/eHK_1gP9FTkZRbxvGT7GWeJ5tMe4Ou-XxOohmwCahMY8hXxCg2ZfhhHZVDitYSZEyA=w240-h480"
+   },{
+     "app_name": "Live Matches",
+     "app_ID": "com.koralive.kooralive",
+     "app_image": "https://play-lh.googleusercontent.com/IFzMfpXJ-dagUdwX2uVrd1k7sDsNRJYmukEhmmJlU-mriyVUSZn-LnhGwNny9OqziUs=w240-h480-rw"
+   }
+  ]
+}
