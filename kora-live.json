@@ -1,7 +1,7 @@
 {
   "ads": "ff",
-  "app_version" : "1.1.8",
-  "version_number" : 1,
+  "app_version" : "1.1.7",
+  "version_number" : 0,
   "show_apps" : true,
   "show_channels" : true,
   "packageName" : "",
