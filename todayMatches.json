@@ -10,7 +10,7 @@
     "color": 1,
     "leagueName": "الدوري المصري الممتاز",
     "channelName": "أون تايم سبورت 2",
-    "webview": "https://live.kwikmotion.com/ksasports4live/ksasports4.smil/ksasports4publish/ksasports4_source/hdntl=exp=1720134068~acl=%2fksasports4live%2fksasports4.smil%2f*~data=hdntl~hmac=d49282dbae86e05678b12c6983cdc2c08a4194aca0b8ab3a2983636030a5ca60/chunks_dvr.m3u8",
+    "webview": "https://cdn7.elahmad.online/tv601_www.elahmad.com_alahly_tv/tracks-v1a1/mono.m3u8?token=f85f3667e47c7c87289ae297c896181123ebaee0-d2affc2ad41d1c1dcf55ae37b718e3e6-1720060904-1720050104",
     "live": [
       {
         "title": "Live 1",
