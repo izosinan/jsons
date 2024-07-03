@@ -2,8 +2,8 @@
   "ads": "ff",
   "app_version" : "1.1.8",
   "version_number" : 1,
-  "show_apps" : false,
-  "show_channels" : false,
+  "show_apps" : true,
+  "show_channels" : true,
   "packageName" : "",
   "fb_id" : {
     "facebook_banner_id" : "940628810829071_940629617495657",
