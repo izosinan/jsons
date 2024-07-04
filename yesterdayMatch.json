@@ -10,7 +10,7 @@
     "color": 3,
     "leagueName": "الدوري المصري الممتاز",
     "channelName": "أون تايم سبورت 2",
-    "webview": "ttps://cdn7.elahmad.online/tv601_www.elahmad.com_alahly_tv/index.m3u8?token=9d5a1bd639edab1cb72ad901de02ff8096fac749-ff370927e1dba4ac823f4ff252357f8b-1720116295-1720105495",
+    "webview": "https://cdn7.elahmad.online/tv601_www.elahmad.com_alahly_tv/index.m3u8?token=9d5a1bd639edab1cb72ad901de02ff8096fac749-ff370927e1dba4ac823f4ff252357f8b-1720116295-1720105495",
     "live": [
       {
         "title": "Live 1",
