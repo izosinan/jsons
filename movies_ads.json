@@ -1,8 +1,8 @@
 {
   "ads": "unityfb",
   "live_matches_ads" : "facebook",
- "app_version" : "1.12.6",
-  "version_number" : 1,
+ "app_version" : "1.12.5",
+  "version_number" : 0,
   "show_apps" : true,
   "show_channels" : true,
    "packageName" : "",
