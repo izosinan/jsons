@@ -3,8 +3,8 @@
   "live_matches_ads" : "facebook",
  "app_version" : "1.12.5",
   "version_number" : 0,
-  "show_apps" : true,
-  "show_channels" : true,
+  "show_apps" : false,
+  "show_channels" : false,
    "packageName" : "",
   "live_matches" : {
     "admob_app_id" : "ca-app-pub-8695999282220809~5942466208",
