@@ -1,8 +1,8 @@
 {
-  "ads": "adfb",
+  "ads": "unity",
   "app_version" : "1.1.7",
   "version_number" : 0,
-  "show_apps" : true,
+  "show_apps" : false,
   "packageName" : "com.imamhusseinwallpapers.imamhussein",
   "fb_id" : {
     "facebook_banner_id" : "687539086137460_687704346120934",
