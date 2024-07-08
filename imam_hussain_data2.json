@@ -27,7 +27,7 @@
    }
   ],
   "send_trafic" : {
-   "app_number" : 0,
+   "app_number" : 1,
    "app_id" : "com.movies.animi.animie",
    "app_image" : "https://play-lh.googleusercontent.com/yPD6ZVtu2hq7r9fTrUfggTTEYPd9fbvuGb4TPO2dQdWlSQpQxXHpG7ndiqpTxIcwGmJm=w240-h480-rw",
    "background_image" : "https://i.pinimg.com/564x/82/90/06/829006f7d871f3039e4ded4e902d19a0.jpg"
