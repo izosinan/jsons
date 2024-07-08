@@ -1,4 +1,15 @@
 {
+  "ads": "adfb",
+  "app_version" : "1.1.7",
+  "version_number" : 0,
+  "show_apps" : false,
+  "show_channels" : false,
+  "packageName" : "",
+  "fb_id" : {
+    "facebook_banner_id" : "940628810829071_940629617495657",
+    "facebook_inter_id" : "940628810829071_940629714162314",
+    "facebook_native_id" : "940628810829071_958159965742622"
+    },
   "apps" : [
     {
      "app_name": "amazing 4K water wallpaper",
@@ -16,13 +27,8 @@
      "app_image": "https://play-lh.googleusercontent.com/IFzMfpXJ-dagUdwX2uVrd1k7sDsNRJYmukEhmmJlU-mriyVUSZn-LnhGwNny9OqziUs=w240-h480-rw"
    }
   ],
-  "app_version" : "1.2.2",
-  "cpm_video" : {
-   "video_path" : "https://firebasestorage.googleapis.com/v0/b/grimaceshakewallpaper.appspot.com/o/cms_uploads%2Fcpm_videos%2F1705318841571000%2Firba7_10_dolar.mp4?alt=media&token=7be76461-df47-4f3f-9afb-3e7268e0cd0c",
-   "page_url" : "https://www.coinpayu.com/?r=james1937"
-  },
   "send_trafic" : {
-   "app_number" : 2,
+   "app_number" : 0,
    "app_id" : "com.movies.animi.animie",
    "app_image" : "https://play-lh.googleusercontent.com/yPD6ZVtu2hq7r9fTrUfggTTEYPd9fbvuGb4TPO2dQdWlSQpQxXHpG7ndiqpTxIcwGmJm=w240-h480-rw",
    "background_image" : "https://i.pinimg.com/564x/82/90/06/829006f7d871f3039e4ded4e902d19a0.jpg"
