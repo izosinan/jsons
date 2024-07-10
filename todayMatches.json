@@ -1,37 +1,15 @@
 [
- 
+  
   {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/WIAAdPpdzFwVKU7maFvJ6w_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/5YhowmjDs8_JqLghyFF-VQ_96x96.png",
-    "team1Name": "أياكس أمستردام",
-    "team2Name": "سينت ترويدن",
-    "time": "5:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "وديات أندية",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd9.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd9.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5050",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5061",
-    "team1Name": "إسبانيا",
-    "team2Name": "فرنسا",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2377",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5054",
+    "team1Name": "هولندا",
+    "team2Name": "إنجلترا",
     "time": "8:00 PM",
     "gmt": "GMT+1",
     "color": 1,
     "leagueName": "كأس أمم أوروبا",
-    "channelName": "beINSPORTS MAX2",
+    "channelName": "beINSPORTS MAX1",
     "webview": "",
     "live": [
       {
@@ -40,27 +18,49 @@
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd1.php"
+        "matchUrl": "https://live45.yalla-shoot-tv.biz/chtv/ch1.php"
       },
       {
         "title": "Live 3",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd8.php"
-      },
-      {
-        "title": "Live 4",
         "matchUrl": "https://v3.sportsonline.si/channels/pt/sporttv1.php"
       },
       {
+        "title": "Live 4",
+        "matchUrl": "https://v3.sportsonline.si/channels/bra/br1.php"
+      },
+      {
         "title": "Live 5",
-        "matchUrl": "https://v3.sportsonline.si/channels/bra/br2.php"
+        "matchUrl": "https://v3.sportsonline.si/channels/bra/br3.php"
       }
     ]
   },
-   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v15/Competitors/2378",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v11/Competitors/2388",
-    "team1Name": "الأرجنتين",
-    "team2Name": "كندا",
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/1218",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/1213",
+    "team1Name": "غريميو",
+    "team2Name": "كروزيرو",
+    "time": "10:30 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "الدوري البرازيلي",
+    "channelName": "Unknown",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://v3.sportsonline.si/channels/bra/br6.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://v3.sportsonline.si/channels/bra/br6.php"
+      }
+    ]
+  },
+ {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v15/Competitors/5073",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v12/Competitors/5071",
+    "team1Name": "أوروجواي",
+    "team2Name": "كولومبيا",
     "time": "1:00 AM",
     "gmt": "GMT+1",
     "color": 1,
@@ -78,6 +78,14 @@
       },
       {
         "title": "Live 3",
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd9.php"
+      },
+      {
+        "title": "Live 4",
+        "matchUrl": "https://v3.sportsonline.si/channels/pt/sporttv2.php"
+      },
+      {
+        "title": "Live 5",
         "matchUrl": "https://v3.sportsonline.si/channels/pt/sporttv2.php"
       }
     ]
