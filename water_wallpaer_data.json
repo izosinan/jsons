@@ -2,8 +2,8 @@
   "ads": "adfb",
   "app_version" : "1.1.7",
   "version_number" : 0,
-  "show_apps" : false,
-  "packageName" : "com.palestine.palestinewallpapers",
+  "show_apps" : true,
+  "packageName" : "com.waterfall.wallpaper4k.wallpaper",
   "fb_id" : {
     "facebook_banner_id" : "687539086137460_687704346120934",
     "facebook_inter_id" : "687539086137460_687678702790165",
