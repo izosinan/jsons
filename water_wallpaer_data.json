@@ -1,9 +1,9 @@
 {
-  "ads": "adfb",
+  "ads": "unity",
   "app_name" : "amazing 4K water wallpaper",
   "app_version" : "1.1.7",
   "version_number" : 0,
-  "show_apps" : true,
+  "show_apps" : false,
   "packageName" : "com.waterfall.wallpaper4k.wallpaper",
   "fb_id" : {
     "facebook_banner_id" : "687539086137460_687704346120934",
@@ -28,7 +28,7 @@
    }
   ],
   "send_trafic" : {
-   "app_number" : 0,
+   "app_number" : 1,
    "app_id" : "com.movies.animi.animie",
    "app_image" : "https://play-lh.googleusercontent.com/yPD6ZVtu2hq7r9fTrUfggTTEYPd9fbvuGb4TPO2dQdWlSQpQxXHpG7ndiqpTxIcwGmJm=w240-h480-rw",
    "background_image" : "https://i.pinimg.com/564x/82/90/06/829006f7d871f3039e4ded4e902d19a0.jpg",
