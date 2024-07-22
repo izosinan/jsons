@@ -1,31 +1,9 @@
 [
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/1218",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/1228",
-    "team1Name": "غريميو",
-    "team2Name": "فيتوريا",
-    "time": "3:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "الدوري البرازيلي",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://v3.sportsonline.si/channels/bra/br1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/bra/br1.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/8303",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/8310",
-    "team1Name": "المصري",
-    "team2Name": "المقاولون العرب",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8299",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8308",
+    "team1Name": "الإسماعيلي",
+    "team2Name": "الجونة",
     "time": "3:30 PM",
     "gmt": "GMT+1",
     "color": 1,
@@ -44,11 +22,11 @@
     ]
   },
   {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/jcKKlUVaNw3br9cIyOKmQA_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/KBwEuoQOmQJUpEMvt_W9Xw_96x96.png",
-    "team1Name": "لاتسيو",
-    "team2Name": "تريستينا",
-    "time": "5:00 PM",
+    "team1Img": "https://upload.wikimedia.org/wikipedia/ar/thumb/c/c1/Fcvsskosice.png/180px-Fcvsskosice.png",
+    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png",
+    "team1Name": "FK كوشيتسه",
+    "team2Name": "روما",
+    "time": "6:30 PM",
     "gmt": "GMT+1",
     "color": 1,
     "leagueName": "وديات أندية",
@@ -57,41 +35,19 @@
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd8.php"
+        "matchUrl": "https://live47.yalla-shoot-tv.biz/chtv/ch1.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd8.php"
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd7.php"
       }
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8300",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/29732",
-    "team1Name": "إنبي",
-    "team2Name": "زد إف سي",
-    "time": "7:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "الدوري المصري الممتاز",
-    "channelName": "أون تايم سبورت 2",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8608",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/8201",
-    "team1Name": "الداخلية",
-    "team2Name": "الزمالك",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/22143",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v20/Competitors/8200",
+    "team1Name": "بيراميدز",
+    "team2Name": "الأهلي",
     "time": "7:00 PM",
     "gmt": "GMT+1",
     "color": 1,
@@ -110,24 +66,24 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1209",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/1227",
-    "team1Name": "أتليتيكو مينيرو",
-    "team2Name": "فاسكو دا غاما",
-    "time": "8:00 PM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/50877",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8309",
+    "team1Name": "مودرن سبورت",
+    "team2Name": "سموحة",
+    "time": "7:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "الدوري البرازيلي",
-    "channelName": "Unknown",
+    "leagueName": "الدوري المصري الممتاز",
+    "channelName": "أون تايم سبورت 2",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://v3.sportsonline.si/channels/bra/br3.php"
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/bra/br3.php"
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
       }
     ]
   }
