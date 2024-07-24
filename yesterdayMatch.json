@@ -1,34 +1,35 @@
 [
+  
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8299",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8308",
-    "team1Name": "الإسماعيلي",
-    "team2Name": "الجونة",
-    "time": "1 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "الدوري المصري الممتاز",
-    "channelName": "أون تايم سبورت 2",
+    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/A5aNjxC7AJ2C__lAkU9Plg_96x96.png",
+    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png",
+    "team1Name": "شتورم غراتس",
+    "team2Name": "بورتو",
+    "time": "6:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "وديات أندية",
+    "channelName": "Unknown",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd8.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+        "matchUrl": "https://v3.sportsonline.si/channels/pt/sporttv1.php"
       }
     ]
   },
   {
-    "team1Img": "https://upload.wikimedia.org/wikipedia/ar/thumb/c/c1/Fcvsskosice.png/180px-Fcvsskosice.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png",
-    "team1Name": "FK كوشيتسه",
-    "team2Name": "روما",
-    "time": "1 - 1",
-    "gmt": "",
-    "color": 3,
+    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/58doDuhR0wW3WZE9PdODUw_96x96.png",
+    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/hCTs5EX3WjCMC5Jl3QE4Rw_96x96.png",
+    "team1Name": "سبورتينج لشبونة",
+    "team2Name": "إشبيلية",
+    "time": "8:30 PM",
+    "gmt": "GMT+1",
+    "color": 1,
     "leagueName": "وديات أندية",
     "channelName": "Unknown",
     "webview": "",
@@ -39,51 +40,37 @@
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd7.php"
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd8.php"
+      },
+      {
+        "title": "Live 3",
+        "matchUrl": "https://v3.sportsonline.si/channels/pt/sporttv1.php"
       }
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/22143",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v20/Competitors/8200",
-    "team1Name": "بيراميدز",
-    "team2Name": "الأهلي",
-    "time": "0 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "الدوري المصري الممتاز",
-    "channelName": "أون تايم سبورت 1",
+    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/z44l-a0W1v5FmgPnemV6Xw_96x96.png",
+    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/2d1R7XIFALAHj2A9ECBJeA_96x96.png",
+    "team1Name": "مانشستر سيتي",
+    "team2Name": "سيلتك",
+    "time": "12:30 AM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "وديات أندية",
+    "channelName": "أبوظبي الرياضية 2",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=abudhabi_sports2"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/50877",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8309",
-    "team1Name": "مودرن سبورت",
-    "team2Name": "سموحة",
-    "time": "3 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "الدوري المصري الممتاز",
-    "channelName": "أون تايم سبورت 2",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=al_sharjah_sport1"
       },
       {
-        "title": "Live 2",
-        "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+        "title": "Live 3",
+        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd2.php"
       }
     ]
   }
