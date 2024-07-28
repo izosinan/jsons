@@ -1,15 +1,14 @@
 [
-  
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/30259",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/28913",
-    "team1Name": "الأرجنتين",
-    "team2Name": "العراق",
-    "time": "2:00 PM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8470",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8472",
+    "team1Name": "البرازيل",
+    "team2Name": "اليابان",
+    "time": "4:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "أولمبياد كرة القدم",
-    "channelName": "الكاس 6",
+    "leagueName": "أولمبياد كرة القدم للسيدات",
+    "channelName": "Unknown",
     "webview": "",
     "live": [
       {
@@ -18,64 +17,20 @@
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd5.php"
+        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch2.php"
       }
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/57836",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/68161",
-    "team1Name": "جمهورية الدومينيكان",
-    "team2Name": "إسبانيا",
-    "time": "2:00 PM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/12908",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8464",
+    "team1Name": "إسبانيا",
+    "team2Name": "نيجيريا",
+    "time": "6:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "أولمبياد كرة القدم",
+    "leagueName": "أولمبياد كرة القدم للسيدات",
     "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch1.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/79578",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/56383",
-    "team1Name": "أوكرانيا",
-    "team2Name": "المغرب",
-    "time": "4:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "أولمبياد كرة القدم",
-    "channelName": "الكاس 1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd11.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/28919",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/28635",
-    "team1Name": "أوزبكستان",
-    "team2Name": "مصر",
-    "time": "4:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "أولمبياد كرة القدم",
-    "channelName": "الكاس 6",
     "webview": "",
     "live": [
       {
@@ -84,60 +39,16 @@
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd10.php"
+        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch4.php"
       }
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/57090",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/27972",
-    "team1Name": "نيوزيلندا",
-    "team2Name": "الولايات المتحدة",
-    "time": "6:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "أولمبياد كرة القدم",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch2.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/68162",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/55541",
-    "team1Name": "فرنسا",
-    "team2Name": "غينيا",
-    "time": "8:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "أولمبياد كرة القدم",
-    "channelName": "beIN SPORTS 5",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch5.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd4.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/2d1R7XIFALAHj2A9ECBJeA_96x96.png",
-    "team1Name": "تشيلسي",
-    "team2Name": "سيلتك",
-    "time": "9:00 PM",
+    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/QkkllEKwkj60jEVtOEZWAg_96x96.png",
+    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/GWXetBOkODOWR3p2NIBqJg_96x96.png",
+    "team1Name": "بورتو",
+    "team2Name": "النصر",
+    "time": "6:30 PM",
     "gmt": "GMT+1",
     "color": 1,
     "leagueName": "وديات أندية",
@@ -150,19 +61,41 @@
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd1.php"
+        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch1.php"
       }
     ]
   },
   {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
-    "team1Name": "آرسنال",
-    "team2Name": "مانشستر يونايتد",
-    "time": "1:00 AM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8462",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8461",
+    "team1Name": "فرنسا",
+    "team2Name": "كندا",
+    "time": "8:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "وديات أندية",
+    "leagueName": "أولمبياد كرة القدم للسيدات",
+    "channelName": "Unknown",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch4.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch4.php"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8467",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8463",
+    "team1Name": "الولايات المتحدة",
+    "team2Name": "ألمانيا",
+    "time": "8:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "أولمبياد كرة القدم للسيدات",
     "channelName": "Unknown",
     "webview": "",
     "live": [
@@ -172,7 +105,7 @@
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://v3.sportsonline.si/channels/hd/hd2.php"
+        "matchUrl": "https://live49.yalla-shoot-tv.biz/chtv/ch3.php"
       }
     ]
   }
