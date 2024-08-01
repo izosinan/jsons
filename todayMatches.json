@@ -5,8 +5,8 @@
       "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/50882",
       "team1Name": "المقاولون العرب",
       "team2Name": "سيراميكا كليوباترا",
-      "time": "3f30p",
-      "gmt": "GMT_1",
+      "time": "3:30 PM",
+      "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 2",
@@ -14,7 +14,7 @@
       "live": [
         {
           "title": "Live 1",
-          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?d=on_time_sports2"
         },
         {
           "title": "Live 2",
@@ -28,8 +28,8 @@
       "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/8303",
       "team1Name": "سموحة",
       "team2Name": "المصري",
-      "time": "7f00p",
-      "gmt": "GMT_1",
+      "time": "7:00 PM",
+      "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 2",
@@ -50,8 +50,8 @@
       "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/50527",
       "team1Name": "الأهلي",
       "team2Name": "البنك الأهلي",
-      "time": "7f00p",
-      "gmt": "GMT_1",
+      "time": "7:00 PM",
+      "gmt": "GMT+1",
       "color": 1,
       "leagueName": "الدوري المصري الممتاز",
       "channelName": "أون تايم سبورت 1",
