@@ -1,201 +1,70 @@
 [
  
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8470",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/12908",
-    "team1Name": "البرازيل",
-    "team2Name": "إسبانيا",
-    "time": "0 - 2",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "أولمبياد كرة القدم للسيدات",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch1.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/45294",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8463",
-    "team1Name": "زامبيا",
-    "team2Name": "ألمانيا",
-    "time": "1 - 4",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "أولمبياد كرة القدم للسيدات",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch2.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8469",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8467",
-    "team1Name": "أستراليا",
-    "team2Name": "الولايات المتحدة",
-    "time": "1 - 2",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "أولمبياد كرة القدم للسيدات",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch1.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8474",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8462",
-    "team1Name": "نيوزيلندا",
-    "team2Name": "فرنسا",
-    "time": "1 - 2",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "أولمبياد كرة القدم للسيدات",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch2.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8468",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8461",
-    "team1Name": "كولومبيا",
-    "team2Name": "كندا",
-    "time": "0 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "أولمبياد كرة القدم للسيدات",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch1.php"
-      }
-    ]
-  },
-   {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/0iShHhASp5q1SL4JhtwJiw_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/4us2nCgl6kgZc0t3hpW75Q_96x96.png",
-    "team1Name": "ليفربول",
-    "team2Name": "آرسنال",
-    "time": "2 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "وديات أندية",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch1.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/QKZVogU66ByvZRqIAIVtmA_96x96.png",
-    "team1Name": "تشيلسي",
-    "team2Name": "كلوب أميريكا",
-    "time": "3 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "وديات أندية",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch2.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/VoKsJ6RitaHGhsM62e6AXQ_96x96.png",
-    "team1Name": "ريال مدريد",
-    "team2Name": "ميلان",
-    "time": "0 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "وديات أندية",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch5.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch5.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/udQ6ns69PctCv143h-GeYw_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/S0fDZjYYytbZaUt0f3cIhg_96x96.png",
-    "team1Name": "مانشستر يونايتد",
-    "team2Name": "ريال بيتيس",
-    "time": "3 - 2",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "وديات أندية",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live50.yalla-shoot-tv.biz/chtv/ch1.php"
-      }
-    ]
-  }
+{
+      "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/8310",
+      "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/50882",
+      "team1Name": "المقاولون العرب",
+      "team2Name": "سيراميكا كليوباترا",
+      "time": "3:30 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "الدوري المصري الممتاز",
+      "channelName": "أون تايم سبورت 2",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?d=on_time_sports2"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+        }      
+
+      ]
+},
+{
+      "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8309",
+      "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/8303",
+      "team1Name": "سموحة",
+      "team2Name": "المصري",
+      "time": "7:00 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "الدوري المصري الممتاز",
+      "channelName": "أون تايم سبورت 2",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2"
+        }      
+      ]
+},
+{
+      "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v20/Competitors/8200",
+      "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/50527",
+      "team1Name": "الأهلي",
+      "team2Name": "البنك الأهلي",
+      "time": "7:00 PM",
+      "gmt": "GMT+1",
+      "color": 1,
+      "leagueName": "الدوري المصري الممتاز",
+      "channelName": "أون تايم سبورت 1",
+      "webview": "",
+      "live": [
+        {
+          "title": "Live 1",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
+        },
+        {
+          "title": "Live 2",
+          "matchUrl": "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1"
+        }      ]
+}
+
 ]
