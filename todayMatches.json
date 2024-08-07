@@ -1,33 +1,10 @@
 [
-
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8467",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8463",
-    "team1Name": "الولايات المتحدة",
-    "team2Name": "ألمانيا",
-    "time": "5:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "أولمبياد كرة القدم للسيدات",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch1.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/xA0k0rZwCeUA0klmw9n9iQ_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/BQdP4jUBFJfG7U_JBsFIMg_96x96.png",
-    "team1Name": "بارنسلي",
-    "team2Name": "روما",
-    "time": "5:00 PM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8521",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/134",
+    "team1Name": "كيتشي",
+    "team2Name": "أتلتيكو مدريد",
+    "time": "1:00 PM",
     "gmt": "GMT+1",
     "color": 1,
     "leagueName": "وديات أندية",
@@ -36,64 +13,42 @@
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch2.php"
+        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch1.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch2.php"
+        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch1.php"
       }
     ]
   },
   {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/FZnTSH2rbHFos4BnlWAItw_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/WKH7Ak5cYD6Qm1EEqXzmVw_96x96.png",
-    "team1Name": "بوروسيا دورتموند",
-    "team2Name": "فياريال",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1741",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/480",
+    "team1Name": "شتورم غراتس",
+    "team2Name": "باريس سان جيرمان",
     "time": "5:30 PM",
     "gmt": "GMT+1",
     "color": 1,
     "leagueName": "وديات أندية",
-    "channelName": "Unknown",
+    "channelName": "beIN SPORTS 4",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch3.php"
+        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch1.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch3.php"
+        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch1.php"
       }
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8470",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/12908",
-    "team1Name": "البرازيل",
-    "team2Name": "إسبانيا",
-    "time": "8:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "أولمبياد كرة القدم للسيدات",
-    "channelName": "Unknown",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live52.yalla-shoot-tv.biz/chtv/ch1.php"
-      }
-    ]
-  },
-    {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/Th4fAVAZeCJWRcKoLW7koA_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/fhBITrIlbQxhVB6IjxUO6Q_96x96.png",
-    "team1Name": "ريال مدريد",
-    "team2Name": "تشيلسي",
-    "time": "12:00 AM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/104",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/333",
+    "team1Name": "آرسنال",
+    "team2Name": "باير ليفركوزن",
+    "time": "6:00 PM",
     "gmt": "GMT+1",
     "color": 1,
     "leagueName": "وديات أندية",
@@ -111,11 +66,11 @@
     ]
   },
   {
-    "team1Img": "https://ssl.gstatic.com/onebox/media/sports/logos/paYnEE8hcrP96neHRNofhQ_96x96.png",
-    "team2Img": "https://ssl.gstatic.com/onebox/media/sports/logos/VoKsJ6RitaHGhsM62e6AXQ_96x96.png",
-    "team1Name": "برشلونة",
-    "team2Name": "ميلان",
-    "time": "12:30 AM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/224",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8593",
+    "team1Name": "إنتر ميلان",
+    "team2Name": "الاتحاد",
+    "time": "7:30 PM",
     "gmt": "GMT+1",
     "color": 1,
     "leagueName": "وديات أندية",
