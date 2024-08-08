@@ -1,14 +1,14 @@
 [
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8521",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/134",
-    "team1Name": "كيتشي",
-    "team2Name": "أتلتيكو مدريد",
-    "time": "1:00 PM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/28635",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/56383",
+    "team1Name": "مصر",
+    "team2Name": "المغرب",
+    "time": "4:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "وديات أندية",
-    "channelName": "Unknown",
+    "leagueName": "أولمبياد كرة القدم",
+    "channelName": "الكاس 1",
     "webview": "",
     "live": [
       {
@@ -22,15 +22,15 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1741",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/480",
-    "team1Name": "شتورم غراتس",
-    "team2Name": "باريس سان جيرمان",
-    "time": "5:30 PM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/29732",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/8201",
+    "team1Name": "زد إف سي",
+    "team2Name": "الزمالك",
+    "time": "7:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "وديات أندية",
-    "channelName": "beIN SPORTS 4",
+    "leagueName": "الدوري المصري الممتاز",
+    "channelName": "أون تايم سبورت 2",
     "webview": "",
     "live": [
       {
@@ -44,15 +44,15 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/104",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/333",
-    "team1Name": "آرسنال",
-    "team2Name": "باير ليفركوزن",
-    "time": "6:00 PM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/8309",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v20/Competitors/8200",
+    "team1Name": "سموحة",
+    "team2Name": "الأهلي",
+    "time": "7:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "وديات أندية",
-    "channelName": "Unknown",
+    "leagueName": "الدوري المصري الممتاز",
+    "channelName": "أون تايم سبورت 1",
     "webview": "",
     "live": [
       {
@@ -66,10 +66,10 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/224",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8593",
-    "team1Name": "إنتر ميلان",
-    "team2Name": "الاتحاد",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/138",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v16/Competitors/7549",
+    "team1Name": "النصر",
+    "team2Name": "ألميريا",
     "time": "7:30 PM",
     "gmt": "GMT+1",
     "color": 1,
