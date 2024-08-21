@@ -1,14 +1,14 @@
 [
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v26/Competitors/226",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/6117",
-    "team1Name": "يوفنتوس",
-    "team2Name": "كومو",
-    "time": "3 - 0",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/331",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1141",
+    "team1Name": "بايرن ميونخ",
+    "team2Name": "غراسهوبر زيوريخ",
+    "time": "4 - 0",
     "gmt": "",
     "color": 3,
-    "leagueName": "الدوري الإيطالي",
-    "channelName": "أبوظبي بريميوم 1",
+    "leagueName": "وديات أندية",
+    "channelName": "Unknown",
     "webview": "",
     "live": [
       {
@@ -22,46 +22,24 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/22",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/114",
-    "team1Name": "ليستر سيتي",
-    "team2Name": "توتنهام هوتسبير",
-    "time": "1 - 1",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/478",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v9/Competitors/1789",
+    "team1Name": "ليل",
+    "team2Name": "سلافيا براغ",
+    "time": "2 - 0",
     "gmt": "",
     "color": 3,
-    "leagueName": "الدوري الإنجليزي الممتاز",
+    "leagueName": "دوري أبطال أوروبا",
     "channelName": "beIN SPORTS 1",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch2.php"
+        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch1.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch2.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/133",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/134",
-    "team1Name": "فياريال",
-    "team2Name": "أتلتيكو مدريد",
-    "time": "2 - 2",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "الدوري الإسباني",
-    "channelName": "beIN SPORTS 1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch3.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch3.php"
+        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch1.php"
       }
     ]
   }
