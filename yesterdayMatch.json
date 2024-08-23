@@ -1,14 +1,14 @@
 [
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/331",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1141",
-    "team1Name": "بايرن ميونخ",
-    "team2Name": "غراسهوبر زيوريخ",
-    "time": "4 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "وديات أندية",
-    "channelName": "Unknown",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/8201",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8306",
+    "team1Name": "الزمالك",
+    "team2Name": "طلائع الجيش",
+    "time": "7:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "كأس مصر",
+    "channelName": "أون تايم سبورت 1",
     "webview": "",
     "live": [
       {
@@ -22,24 +22,68 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/478",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v9/Competitors/1789",
-    "team1Name": "ليل",
-    "team2Name": "سلافيا براغ",
-    "time": "2 - 0",
-    "gmt": "",
-    "color": 3,
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/22143",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8308",
+    "team1Name": "بيراميدز",
+    "team2Name": "الجونة",
+    "time": "7:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "كأس مصر",
+    "channelName": "أون تايم سبورت 2",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch2.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch2.php"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1139",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/945",
+    "team1Name": "يونج بويز",
+    "team2Name": "غلطة سراي",
+    "time": "8:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
     "leagueName": "دوري أبطال أوروبا",
     "channelName": "beIN SPORTS 1",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch1.php"
+        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch3.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch1.php"
+        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch3.php"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1956",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1739",
+    "team1Name": "دينامو كييف",
+    "team2Name": "ريد بول سالزبورغ",
+    "time": "8:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "دوري أبطال أوروبا",
+    "channelName": "beIN SPORTS 3",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch4.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://live54.yalla-shoot-tv.biz/chtv/ch4.php"
       }
     ]
   }
