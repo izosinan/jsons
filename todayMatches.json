@@ -1,111 +1,111 @@
 [
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/175",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v6/Competitors/143",
-    "team1Name": "جيرونا",
-    "team2Name": "أوساسونا",
-    "time": "6:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "الدوري الإسباني",
-    "channelName": "beIN SPORTS 3",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live56.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live56.yalla-shoot-tv.biz/chtv/ch1.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8593",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8941",
-    "team1Name": "الاتحاد",
-    "team2Name": "التعاون",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/22143",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/29732",
+    "team1Name": "بيراميدز",
+    "team2Name": "زد إف سي",
     "time": "7:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "الدوري السعودي للمحترفين",
-    "channelName": "SSC HD1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live56.yalla-shoot-tv.biz/chtv/ch2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live56.yalla-shoot-tv.biz/chtv/ch2.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/12138",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/8945",
-    "team1Name": "الخليج",
-    "team2Name": "الشباب",
-    "time": "7:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "الدوري السعودي للمحترفين",
-    "channelName": "SSC Extra HD2",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live56.yalla-shoot-tv.biz/chtv/ch3.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live56.yalla-shoot-tv.biz/chtv/ch3.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/1154",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/106",
-    "team1Name": "سيرفيت",
-    "team2Name": "تشيلسي",
-    "time": "7:30 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "دوري المؤتمر الأوروبي",
+    "leagueName": "كأس مصر",
     "channelName": "Unknown",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live56.yalla-shoot-tv.biz/chtv/ch4.php"
+        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch2.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://live56.yalla-shoot-tv.biz/chtv/ch4.php"
+        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch2.php"
       }
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/167",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/131",
-    "team1Name": "لاس بالماس",
-    "team2Name": "ريال مدريد",
-    "time": "8:30 PM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/52261",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/5455",
+    "team1Name": "شباب المحمدية",
+    "team2Name": "الجيش الملكي",
+    "time": "7:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "الدوري الإسباني",
-    "channelName": "beIN SPORTS 1",
+    "leagueName": "الدوري المغربي",
+    "channelName": "Unknown",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live56.yalla-shoot-tv.biz/chtv/ch1.php"
+        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch1.php"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://live56.yalla-shoot-tv.biz/chtv/ch1.php"
+        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch1.php"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/224",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/232",
+    "team1Name": "إنتر ميلان",
+    "team2Name": "أتالانتا",
+    "time": "7:45 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "الدوري الإيطالي",
+    "channelName": "Unknown",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch4.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch4.php"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v7/Competitors/465",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/479",
+    "team1Name": "أولمبيك ليون",
+    "team2Name": "ستراسبورج",
+    "time": "7:45 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "الدوري الفرنسي",
+    "channelName": "Unknown",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch3.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch3.php"
+      }
+    ]
+  },
+  {
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8321",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/8326",
+    "team1Name": "المغرب الفاسي",
+    "team2Name": "الوداد الرياضي",
+    "time": "9:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "الدوري المغربي",
+    "channelName": "Unknown",
+    "webview": "",
+    "live": [
+      {
+        "title": "Live 1",
+        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch1.php"
+      },
+      {
+        "title": "Live 2",
+        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch1.php"
       }
     ]
   }
