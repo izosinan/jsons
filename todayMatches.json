@@ -1,14 +1,14 @@
 [
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/106",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/10",
-    "team1Name": "تشيلسي",
-    "team2Name": "كريستال بالاس",
-    "time": "1:30 PM",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_68,h_68,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5081",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_68,h_68,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/7497",
+    "team1Name": "عمان",
+    "team2Name": "اليمن",
+    "time": "3:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "الدوري الإنجليزي الممتاز",
-    "channelName": "beIN SPORTS 2",
+    "leagueName": "u17 بطولة غرب آسيا للناشئين",
+    "channelName": "Unknown",
     "webview": "",
     "live": [
       {
@@ -22,147 +22,15 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/116",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/114",
-    "team1Name": "نيوكاسل يونايتد",
-    "team2Name": "توتنهام هوتسبير",
-    "time": "1:30 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "الدوري الإنجليزي الممتاز",
-    "channelName": "beIN SPORTS 1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch2.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/105",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v17/Competitors/108",
-    "team1Name": "مانشستر يونايتد",
-    "team2Name": "ليفربول",
-    "time": "4:00 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "الدوري الإنجليزي الممتاز",
-    "channelName": "beIN SPORTS 1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch2.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/331",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/354",
-    "team1Name": "بايرن ميونخ",
-    "team2Name": "فرايبورغ",
-    "time": "4:30 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "الدوري الألماني",
-    "channelName": "beIN SPORTS 5",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch5.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch5.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/135",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/175",
-    "team1Name": "إشبيلية",
-    "team2Name": "جيرونا",
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5088",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_32,h_32,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5083",
+    "team1Name": "لبنان",
+    "team2Name": "الأردن",
     "time": "6:00 PM",
     "gmt": "GMT+1",
     "color": 1,
-    "leagueName": "الدوري الإسباني",
-    "channelName": "beIN SPORTS 4",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch3.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch3.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v26/Competitors/226",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v5/Competitors/225",
-    "team1Name": "يوفنتوس",
-    "team2Name": "روما",
-    "time": "7:45 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "الدوري الإيطالي",
-    "channelName": "أبوظبي بريميوم 1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch6.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch6.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/478",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v3/Competitors/480",
-    "team1Name": "ليل",
-    "team2Name": "باريس سان جيرمان",
-    "time": "7:45 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "الدوري الفرنسي",
-    "channelName": "beIN SPORTS 1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live57.yalla-shoot-tv.biz/chtv/ch2.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v4/Competitors/131",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/146",
-    "team1Name": "ريال مدريد",
-    "team2Name": "ريال بيتيس",
-    "time": "8:30 PM",
-    "gmt": "GMT+1",
-    "color": 1,
-    "leagueName": "الدوري الإسباني",
-    "channelName": "beIN SPORTS 3",
+    "leagueName": "u17 بطولة غرب آسيا للناشئين",
+    "channelName": "Unknown",
     "webview": "",
     "live": [
       {
