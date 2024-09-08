@@ -1,13 +1,12 @@
 [
- 
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/5056",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2376",
-    "team1Name": "كازاخستان",
-    "team2Name": "النرويج",
-    "time": "0 - 0",
-    "gmt": "",
-    "color": 3,
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5064",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5054",
+    "team1Name": "أيرلندا",
+    "team2Name": "إنجلترا",
+    "time": "5:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
     "leagueName": "دوري الأمم الأوروبية",
     "channelName": "beIN SPORTS 1",
     "webview": "",
@@ -23,35 +22,35 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5093",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5409",
-    "team1Name": "المغرب",
-    "team2Name": "الغابون",
-    "time": "4 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات أمم أفريقيا",
-    "channelName": "beIN SPORTS 5",
+    "team1Img": "https://img.kooora.com/?i=o%2Ft%2F1%2F288%2Folympique-club-de-1.png",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/8204",
+    "team1Name": "أولمبيك خريبكة",
+    "team2Name": "الرجاء الرياضي",
+    "time": "6:00 PM",
+    "gmt": "GMT+1",
+    "color": 1,
+    "leagueName": "كأس التميز المغربي",
+    "channelName": "Unknown",
     "webview": "",
     "live": [
       {
         "title": "Live 1",
-        "matchUrl": "https://live58.yalla-shoot-tv.biz/chtv/ch4.php"
+        "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=arryadia1"
       },
       {
         "title": "Live 2",
-        "matchUrl": "https://live58.yalla-shoot-tv.biz/chtv/ch4.php"
+        "matchUrl": "https://www.elahmad.com/tv/radiant.php?id=arryadia1"
       }
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5061",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/2375",
-    "team1Name": "فرنسا",
-    "team2Name": "إيطاليا",
-    "time": "1 - 3",
-    "gmt": "",
-    "color": 3,
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2372",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5026",
+    "team1Name": "ألمانيا",
+    "team2Name": "المجر",
+    "time": "7:45 PM",
+    "gmt": "GMT+1",
+    "color": 1,
     "leagueName": "دوري الأمم الأوروبية",
     "channelName": "beIN SPORTS 1",
     "webview": "",
@@ -67,103 +66,15 @@
     ]
   },
   {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5043",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5047",
-    "team1Name": "ويلز",
-    "team2Name": "تركيا",
-    "time": "0 - 0",
-    "gmt": "",
-    "color": 3,
+    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/2377",
+    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5048",
+    "team1Name": "هولندا",
+    "team2Name": "البوسنة والهرسك",
+    "time": "7:45 PM",
+    "gmt": "GMT+1",
+    "color": 1,
     "leagueName": "دوري الأمم الأوروبية",
     "channelName": "beIN SPORTS 2",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live58.yalla-shoot-tv.biz/chtv/ch5.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live58.yalla-shoot-tv.biz/chtv/ch5.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5100",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v1/Competitors/5411",
-    "team1Name": "مصر",
-    "team2Name": "الرأس الأخضر",
-    "time": "3 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات أمم أفريقيا",
-    "channelName": "beIN SPORTS 2",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live58.yalla-shoot-tv.biz/chtv/ch6.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live58.yalla-shoot-tv.biz/chtv/ch6.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v15/Competitors/5073",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v11/Competitors/5070",
-    "team1Name": "أوروجواي",
-    "team2Name": "باراغواي",
-    "time": "0 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "SSC Extra HD1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live58.yalla-shoot-tv.biz/chtv/ch1.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live58.yalla-shoot-tv.biz/chtv/ch1.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v12/Competitors/2379",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v12/Competitors/5075",
-    "team1Name": "البرازيل",
-    "team2Name": "الإكوادور",
-    "time": "1 - 0",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "SSC HD1",
-    "webview": "",
-    "live": [
-      {
-        "title": "Live 1",
-        "matchUrl": "https://live58.yalla-shoot-tv.biz/chtv/ch2.php"
-      },
-      {
-        "title": "Live 2",
-        "matchUrl": "https://live58.yalla-shoot-tv.biz/chtv/ch2.php"
-      }
-    ]
-  },
-  {
-    "team1Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v11/Competitors/5076",
-    "team2Img": "https://imagecache.365scores.com/image/upload/f_png,w_34,h_34,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v12/Competitors/5071",
-    "team1Name": "بيرو",
-    "team2Name": "كولومبيا",
-    "time": "1 - 1",
-    "gmt": "",
-    "color": 3,
-    "leagueName": "تصفيات كأس العالم",
-    "channelName": "SSC Extra HD2",
     "webview": "",
     "live": [
       {
